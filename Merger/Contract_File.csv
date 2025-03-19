@@ -1,0 +1,6 @@
+ContractID,InsuredName,InceptionDate,ExpirationDate,Perils,LOB,Currency,UDF1,UDF2,UDF3,UDF4,UDF5,LayerID,LayerPerils,LimitType,Limit1,Limit2,LimitA,LimitC,LimitD,AttachmentAmt,AttachmentPtA,AttachmentPtC,AttachmentPtD,DedType,DedAmt1,DedAmt2,SublimitPerils,SublimitArea,SublimitLimitType,SublimitOcc,SublimitDedType,SublimitDedAmt1,SublimitAttachPt,SubmitStatusCode,ProducerName,Underwriter,Branch,isSorted
+,,17/10/2023,16/10/2024,PAL,Property,USD,,,,,,1_EQ,PES+PEF,E,,,0,0,0,0,0,0,0,,,,,,,,,,,QUOTED,,,,
+,,17/10/2023,16/10/2024,PAL,Property,USD,,,,,,1_WS,PWH,E,,,0,0,0,0,0,0,0,,,,,,,,,,,,,,,
+,,17/10/2023,16/10/2024,PAL,Property,USD,,,,,,1_TO,PWX,E,,,0,0,0,0,0,0,0,,,,,,,,,,,,,,,
+,,17/10/2023,16/10/2024,PAL,Property,USD,,,,,,1_FL,PFL,E,,,0,0,0,0,0,0,0,,,,,,,,,,,,,,,
+,,17/10/2023,16/10/2024,PAL,Property,USD,,,,,,1_FR,PNC,E,,,0,0,0,0,0,0,0,,,,,,,,,,,,,,,
