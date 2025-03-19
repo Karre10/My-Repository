@@ -1,0 +1,129 @@
+OccupancyClassDescription,OccupancySchemeID,OccupancyClassCode
+Unknown,ATC,0
+Permanent Dwelling (single family housing),ATC,1
+Permanent Dwelling (multi family housing),ATC,2
+Temporary Lodging,ATC,3
+Group Institutional Housing,ATC,4
+Retail Trade,ATC,5
+Wholesale Trade,ATC,6
+Personal and Repair Services,ATC,7
+"Professional, Technical and Business Services",ATC,8
+Health Care Service,ATC,9
+Entertainment and Recreation,ATC,10
+Parking,ATC,11
+Heavy Fabrication and Assembly,ATC,12
+Light Fabrication and Assembly,ATC,13
+Food and Drugs Processing,ATC,14
+Chemicals Processing,ATC,15
+Metal and Minerals Processing,ATC,16
+High Technology,ATC,17
+Construction,ATC,18
+Petroleum,ATC,19
+Agriculture,ATC,20
+Mining,ATC,21
+Religion and Nonprofit,ATC,22
+General Services,ATC,23
+Emergency Response Services,ATC,24
+Education,ATC,25
+Highway,ATC,26
+Railroad,ATC,27
+Air,ATC,28
+Sea/Water,ATC,29
+Electrical,ATC,30
+Water,ATC,31
+Sanitary Sewer,ATC,32
+Natural Gas,ATC,33
+Telephone &Telegraph,ATC,34
+Communication (Radio and TV),ATC,35
+Flood Control,ATC,36
+General Commercial,ATC,37
+General Industrial,ATC,38
+Miscellaneous,ATC,39
+General Residential,ATC,40
+Homeowner,ATC,41
+Permanent multi-family Dwelling- condo association,ATC,42
+Permanent multi-family Dwelling- condo unit owner,ATC,43
+Gasoline Service Stations,ATC,44
+Small Scale Industrial (SSI),ATC,45
+Large Scale Industrial (LSI),ATC,46
+Restaurants,ATC,47
+Casinos,ATC,48
+Acute Care Services Hospitals,ATC,49
+OSHPD Acute Care Services Hospitals (California ONLY),ATC,50
+Hotels- Large,ATC,51
+Hotels- Small and Medium,ATC,52
+Rental- General Commercial,ATC,53
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,

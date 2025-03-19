@@ -1,0 +1,490 @@
+COUNTRY,ConstructionClassDescription,ConstructionSchemeID,ConstructionClassCode
+AD,Unknown,RMS IND,0
+AD,Light Metal,RMS IND,1
+AD,Unreinforced Masonry Wall,RMS IND,2
+AD,Reinforced Concrete,RMS IND,3
+AD,Nonductile Concrete,RMS IND,4
+AD,Reinforced Masonry,RMS IND,5
+AD,Steel Frame,RMS IND,6
+AR,Unknown,RMS IND,0
+AR,Light Metal,RMS IND,1
+AR,Unreinforced Masonry Wall,RMS IND,2
+AR,Reinforced Concrete,RMS IND,3
+AR,Nonductile Concrete,RMS IND,4
+AR,Reinforced Masonry,RMS IND,5
+AR,Steel Frame,RMS IND,6
+AR,Tilt-Up,RMS IND,7
+AT,Unknown,RMS IND,0
+AT,Light Metal,RMS IND,1
+AT,Unreinforced Masonry Wall,RMS IND,2
+AT,Reinforced Concrete,RMS IND,3
+AT,Nonductile Concrete,RMS IND,4
+AT,Reinforced Masonry,RMS IND,5
+AT,Steel Frame,RMS IND,6
+AU,Unknown,RMS IND,0
+AU,Light Metal,RMS IND,1
+AU,Unreinforced Masonry Wall,RMS IND,2
+AU,Reinforced Concrete,RMS IND,3
+AU,Nonductile Concrete,RMS IND,4
+AU,Reinforced Masonry,RMS IND,5
+AU,Steel Frame,RMS IND,6
+AU,Tilt-Up/ Precast Concrete,RMS IND,7
+BE,Unknown,RMS IND,0
+BE,Light Metal,RMS IND,1
+BE,Unreinforced Masonry Wall,RMS IND,2
+BE,Reinforced Concrete,RMS IND,3
+BE,Nonductile Concrete,RMS IND,4
+BE,Reinforced Masonry,RMS IND,5
+BE,Steel Frame,RMS IND,6
+BE,Tilt-Up,RMS IND,7
+BG,Unknown,RMS IND,0
+BG,Light Metal,RMS IND,1
+BG,Unreinforced Masonry Wall,RMS IND,2
+BG,Reinforced Concrete,RMS IND,3
+BG,Nonductile Concrete,RMS IND,4
+BG,Reinforced Masonry,RMS IND,5
+BG,Steel Frame,RMS IND,6
+BO,Unknown,RMS IND,0
+BO,Light Metal,RMS IND,1
+BO,Unreinforced Masonry Wall,RMS IND,2
+BO,Reinforced Concrete,RMS IND,3
+BO,Nonductile Concrete,RMS IND,4
+BO,Reinforced Masonry,RMS IND,5
+BO,Steel Frame,RMS IND,6
+BO,Tilt-Up,RMS IND,7
+BR,Unknown,RMS IND,0
+BR,Light Metal,RMS IND,1
+BR,Unreinforced Masonry Wall,RMS IND,2
+BR,Reinforced Concrete,RMS IND,3
+BR,Nonductile Concrete,RMS IND,4
+BR,Reinforced Masonry,RMS IND,5
+BR,Steel Frame,RMS IND,6
+BR,Tilt-Up,RMS IND,7
+BZ,Unknown,RMS IND,0
+BZ,Light Metal,RMS IND,1
+BZ,Unreinforced Masonry Wall,RMS IND,2
+BZ,Reinforced Concrete,RMS IND,3
+BZ,Nonductile Concrete,RMS IND,4
+BZ,Reinforced Masonry,RMS IND,5
+BZ,Steel Frame,RMS IND,6
+BZ,Tilt-Up,RMS IND,7
+CA,Unknown,RMS IND,0
+CA,Light Metal,RMS IND,1
+CA,Unreinforced Masonry Wall,RMS IND,2
+CA,Reinforced Concrete,RMS IND,3
+CA,Nonductile Concrete,RMS IND,4
+CA,Reinforced Masonry,RMS IND,5
+CA,Steel Frame,RMS IND,6
+CA,Tilt-Up,RMS IND,7
+CB,Unknown,RMS IND,0
+CB,Light Metal,RMS IND,1
+CB,Unreinforced Masonry Wall,RMS IND,2
+CB,Reinforced Concrete,RMS IND,3
+CB,Nonductile Concrete,RMS IND,4
+CB,Reinforced Masonry,RMS IND,5
+CB,Steel Frame,RMS IND,6
+CB,Tilt-Up,RMS IND,7
+CH,Unknown,RMS IND,0
+CH,Light Metal,RMS IND,1
+CH,Unreinforced Masonry Wall,RMS IND,2
+CH,Reinforced Concrete,RMS IND,3
+CH,Nonductile Concrete,RMS IND,4
+CH,Reinforced Masonry,RMS IND,5
+CH,Steel Frame,RMS IND,6
+CL,Unknown,RMS IND,0
+CL,Light Metal,RMS IND,1
+CL,Unreinforced Masonry Wall,RMS IND,2
+CL,Reinforced Concrete,RMS IND,3
+CL,Nonductile Concrete,RMS IND,4
+CL,Reinforced Masonry,RMS IND,5
+CL,Steel Frame,RMS IND,6
+CL,Tilt-up,RMS IND,7
+CN,Unknown,RMS IND,0
+CN,Unreinforced Masonry,RMS IND,1
+CN,Factory Structure with Brick or RC Columns,RMS IND,10
+CN,Reinforced Masonry,RMS IND,2
+CN,Concrete Frame,RMS IND,3
+CN,RC MRF with Unreinforced Masonry Infill,RMS IND,4
+CN,Steel Frame,RMS IND,5
+CN,Steel MRF with Unreinforced Masonry Infill,RMS IND,6
+CN,Steel & Reinforced Concrete Composite Frame - SRC,RMS IND,7
+CN,Precast Reinforced Concrete,RMS IND,8
+CN,Light Metal Frame,RMS IND,9
+CO,Unknown,RMS IND,0
+CO,Light Metal,RMS IND,1
+CO,Unreinforced Masonry Wall,RMS IND,2
+CO,Reinforced Concrete,RMS IND,3
+CO,Nonductile Concrete,RMS IND,4
+CO,Reinforced Masonry,RMS IND,5
+CO,Steel Frame,RMS IND,6
+CO,Tilt-Up,RMS IND,7
+CR,Unknown,RMS IND,0
+CR,Light Metal,RMS IND,1
+CR,Unreinforced Masonry Wall,RMS IND,2
+CR,Reinforced Concrete,RMS IND,3
+CR,Nonductile Concrete,RMS IND,4
+CR,Reinforced Masonry,RMS IND,5
+CR,Steel Frame,RMS IND,6
+CR,Tilt-Up,RMS IND,7
+CZ,Unknown,RMS IND,0
+CZ,Light Metal,RMS IND,1
+CZ,Unreinforced Masonry Wall,RMS IND,2
+CZ,Reinforced Concrete,RMS IND,3
+CZ,Nonductile Concrete,RMS IND,4
+CZ,Reinforced Masonry,RMS IND,5
+CZ,Steel Frame,RMS IND,6
+DE,Unknown,RMS IND,0
+DE,Light Metal,RMS IND,1
+DE,Unreinforced Masonry Wall,RMS IND,2
+DE,Reinforced Concrete,RMS IND,3
+DE,Nonductile Concrete,RMS IND,4
+DE,Reinforced Masonry,RMS IND,5
+DE,Steel Frame,RMS IND,6
+DE,Tilt-Up,RMS IND,7
+DK,Unknown,RMS IND,0
+DK,Light Metal,RMS IND,1
+DK,Unreinforced Masonry Wall,RMS IND,2
+DK,Reinforced Concrete,RMS IND,3
+DK,Nonductile Concrete,RMS IND,4
+DK,Reinforced Masonry,RMS IND,5
+DK,Steel Frame,RMS IND,6
+EC,Unknown,RMS IND,0
+EC,Light Metal,RMS IND,1
+EC,Unreinforced Masonry Wall,RMS IND,2
+EC,Reinforced Concrete,RMS IND,3
+EC,Nonductile Concrete,RMS IND,4
+EC,Reinforced Masonry,RMS IND,5
+EC,Steel Frame,RMS IND,6
+EC,Tilt-Up,RMS IND,7
+ES,Unknown,RMS IND,0
+ES,Light Metal,RMS IND,1
+ES,Unreinforced Masonry Wall,RMS IND,2
+ES,Reinforced Concrete,RMS IND,3
+ES,Nonductile Concrete,RMS IND,4
+ES,Reinforced Masonry,RMS IND,5
+ES,Steel Frame,RMS IND,6
+FR,Unknown,RMS IND,0
+FR,Light Metal,RMS IND,1
+FR,Unreinforced Masonry Wall,RMS IND,2
+FR,Reinforced Concrete,RMS IND,3
+FR,Nonductile Concrete,RMS IND,4
+FR,Reinforced Masonry,RMS IND,5
+FR,Steel Frame,RMS IND,6
+GB,Unknown,RMS IND,0
+GB,Light Metal,RMS IND,1
+GB,Unreinforced Masonry Wall,RMS IND,2
+GB,Reinforced Concrete,RMS IND,3
+GB,Nonductile Concrete,RMS IND,4
+GB,Reinforced Masonry,RMS IND,5
+GB,Steel Frame,RMS IND,6
+GB,Tilt-Up,RMS IND,7
+GR,Unknown,RMS IND,0
+GR,Unreinforced Masonry,RMS IND,1
+GR,Reinforced Masonry,RMS IND,2
+GR,Concrete Frame,RMS IND,3
+GR,RC MRF with Unreinforced Masonry Infill,RMS IND,4
+GR,Steel Frame,RMS IND,5
+GR,Steel MRF with Unreinforced Masonry Infill,RMS IND,6
+GR,Light Metal Frame with Unreinforced Masonry Infill,RMS IND,7
+GR,MIXED,RMS IND,8
+GT,Unknown,RMS IND,0
+GT,Light Metal,RMS IND,1
+GT,Unreinforced Masonry Wall,RMS IND,2
+GT,Reinforced Concrete,RMS IND,3
+GT,Nonductile Concrete,RMS IND,4
+GT,Reinforced Masonry,RMS IND,5
+GT,Steel Frame,RMS IND,6
+GT,Tilt-Up,RMS IND,7
+GU,Unknown,RMS IND,0
+GU,Light Metal,RMS IND,1
+GU,Unreinforced Masonry Wall,RMS IND,2
+GU,Reinforced Concrete,RMS IND,3
+GU,Nonductile Concrete,RMS IND,4
+GU,Reinforced Masonry,RMS IND,5
+GU,Steel Frame,RMS IND,6
+GU,Tilt-Up,RMS IND,7
+HK,Unknown,RMS IND,0
+HK,Unreinforced Masonry,RMS IND,1
+HK,Factory Structure with Brick or RC Columns,RMS IND,10
+HK,Reinforced Masonry,RMS IND,2
+HK,Concrete Frame,RMS IND,3
+HK,RC MRF with Unreinforced Masonry Infill,RMS IND,4
+HK,Steel Frame,RMS IND,5
+HK,Steel MRF with Unreinforced Masonry Infill,RMS IND,6
+HK,Steel & Reinforced Concrete Composite Frame - SRC,RMS IND,7
+HK,Precast Reinforced Concrete,RMS IND,8
+HK,Light Metal Frame,RMS IND,9
+HN,Unknown,RMS IND,0
+HN,Light Metal,RMS IND,1
+HN,Unreinforced Masonry Wall,RMS IND,2
+HN,Reinforced Concrete,RMS IND,3
+HN,Nonductile Concrete,RMS IND,4
+HN,Reinforced Masonry,RMS IND,5
+HN,Steel Frame,RMS IND,6
+HN,Tilt-Up,RMS IND,7
+HU,Unknown,RMS IND,0
+HU,Light Metal,RMS IND,1
+HU,Unreinforced Masonry Wall,RMS IND,2
+HU,Reinforced Concrete,RMS IND,3
+HU,Nonductile Concrete,RMS IND,4
+HU,Reinforced Masonry,RMS IND,5
+HU,Steel Frame,RMS IND,6
+ID,Unknown,RMS IND,0
+ID,Light Metal,RMS IND,1
+ID,Unreinforced Masonry Wall,RMS IND,2
+ID,Reinforced Concrete,RMS IND,3
+ID,Nonductile Concrete,RMS IND,4
+ID,Reinforced Masonry,RMS IND,5
+ID,Steel Frame,RMS IND,6
+ID,Tilt-Up/ Precast Concrete,RMS IND,7
+IE,Unknown,RMS IND,0
+IE,Light Metal,RMS IND,1
+IE,Unreinforced Masonry Wall,RMS IND,2
+IE,Reinforced Concrete,RMS IND,3
+IE,Nonductile Concrete,RMS IND,4
+IE,Reinforced Masonry,RMS IND,5
+IE,Steel Frame,RMS IND,6
+IL,Unknown,RMS IND,0
+IL,Light Metal,RMS IND,1
+IL,Unreinforced Masonry Wall,RMS IND,2
+IL,Reinforced Concrete,RMS IND,3
+IL,Nonductile Concrete,RMS IND,4
+IL,Reinforced Masonry,RMS IND,5
+IL,Steel Frame,RMS IND,6
+IL,Tilt-Up,RMS IND,7
+IN,Unknown,RMS IND,0
+IN,Light Metal,RMS IND,1
+IN,Unreinforced Masonry Wall,RMS IND,2
+IN,Reinforced Concrete,RMS IND,3
+IN,Nonductile Concrete,RMS IND,4
+IN,Reinforced Masonry,RMS IND,5
+IN,Steel Frame,RMS IND,6
+IN,Tilt-Up/ Precast Concrete,RMS IND,7
+IT,Unknown,RMS IND,0
+IT,Light Metal,RMS IND,1
+IT,Unreinforced Masonry Wall,RMS IND,2
+IT,Reinforced Concrete,RMS IND,3
+IT,Nonductile Concrete,RMS IND,4
+IT,Reinforced Masonry,RMS IND,5
+IT,Steel Frame,RMS IND,6
+JP,Unknown,RMS IND,0
+JP,Reinforced Concrete,RMS IND,1
+JP,Steel Frame,RMS IND,2
+JP,Steel & Reinforced Concrete Composite Frame,RMS IND,3
+KR,Unknown,RMS IND,0
+KR,Unreinforced Masonry,RMS IND,1
+KR,Factory Structure with Brick or RC Columns,RMS IND,10
+KR,Reinforced Masonry,RMS IND,2
+KR,Concrete Frame,RMS IND,3
+KR,RC MRF with Unreinforced Masonry Infill,RMS IND,4
+KR,Steel Frame,RMS IND,5
+KR,Steel MRF with Unreinforced Masonry Infill,RMS IND,6
+KR,Steel & Reinforced Concrete Composite Frame - SRC,RMS IND,7
+KR,Precast Reinforced Concrete,RMS IND,8
+KR,Light Metal Frame,RMS IND,9
+LI,Unknown,RMS IND,0
+LI,Light Metal,RMS IND,1
+LI,Unreinforced Masonry Wall,RMS IND,2
+LI,Reinforced Concrete,RMS IND,3
+LI,Nonductile Concrete,RMS IND,4
+LI,Reinforced Masonry,RMS IND,5
+LI,Steel Frame,RMS IND,6
+LU,Unknown,RMS IND,0
+LU,Light Metal,RMS IND,1
+LU,Unreinforced Masonry Wall,RMS IND,2
+LU,Reinforced Concrete,RMS IND,3
+LU,Nonductile Concrete,RMS IND,4
+LU,Reinforced Masonry,RMS IND,5
+LU,Steel Frame,RMS IND,6
+MX,Unknown,RMS IND,0
+MX,Light Metal,RMS IND,1
+MX,Unreinforced Masonry Wall,RMS IND,2
+MX,Reinforced Concrete,RMS IND,3
+MX,Nonductile Concrete,RMS IND,4
+MX,Reinforced Masonry,RMS IND,5
+MX,Steel Frame,RMS IND,6
+MX,Tilt-Up,RMS IND,7
+MY,Unknown,RMS IND,0
+MY,Light Metal,RMS IND,1
+MY,Unreinforced Masonry Wall,RMS IND,2
+MY,Reinforced Concrete,RMS IND,3
+MY,Nonductile Concrete,RMS IND,4
+MY,Reinforced Masonry,RMS IND,5
+MY,Steel Frame,RMS IND,6
+MY,Tilt-Up/ Precast Concrete,RMS IND,7
+NI,Unknown,RMS IND,0
+NI,Light Metal,RMS IND,1
+NI,Unreinforced Masonry Wall,RMS IND,2
+NI,Reinforced Concrete,RMS IND,3
+NI,Nonductile Concrete,RMS IND,4
+NI,Reinforced Masonry,RMS IND,5
+NI,Steel Frame,RMS IND,6
+NI,Tilt-Up,RMS IND,7
+NL,Unknown,RMS IND,0
+NL,Light Metal,RMS IND,1
+NL,Unreinforced Masonry Wall,RMS IND,2
+NL,Reinforced Concrete,RMS IND,3
+NL,Nonductile Concrete,RMS IND,4
+NL,Reinforced Masonry,RMS IND,5
+NL,Steel Frame,RMS IND,6
+NO,Unknown,RMS IND,0
+NO,Light Metal,RMS IND,1
+NO,Unreinforced Masonry Wall,RMS IND,2
+NO,Reinforced Concrete,RMS IND,3
+NO,Nonductile Concrete,RMS IND,4
+NO,Reinforced Masonry,RMS IND,5
+NO,Steel Frame,RMS IND,6
+NZ,Unknown,RMS IND,0
+NZ,Light Metal,RMS IND,1
+NZ,Unreinforced Masonry Wall,RMS IND,2
+NZ,Reinforced Concrete,RMS IND,3
+NZ,Nonductile Concrete,RMS IND,4
+NZ,Reinforced Masonry,RMS IND,5
+NZ,Steel Frame,RMS IND,6
+NZ,Tilt-Up / Precast Concrete,RMS IND,7
+PA,Unknown,RMS IND,0
+PA,Light Metal,RMS IND,1
+PA,Unreinforced Masonry Wall,RMS IND,2
+PA,Reinforced Concrete,RMS IND,3
+PA,Nonductile Concrete,RMS IND,4
+PA,Reinforced Masonry,RMS IND,5
+PA,Steel Frame,RMS IND,6
+PA,Tilt-Up,RMS IND,7
+PE,Unknown,RMS IND,0
+PE,Light Metal,RMS IND,1
+PE,Unreinforced Masonry Wall,RMS IND,2
+PE,Reinforced Concrete,RMS IND,3
+PE,Nonductile Concrete,RMS IND,4
+PE,Reinforced Masonry,RMS IND,5
+PE,Steel Frame,RMS IND,6
+PE,Tilt-Up,RMS IND,7
+PH,Unknown,RMS IND,0
+PH,Light Metal,RMS IND,1
+PH,Unreinforced Masonry Wall,RMS IND,2
+PH,Reinforced Concrete,RMS IND,3
+PH,Nonductile Concrete,RMS IND,4
+PH,Reinforced Masonry,RMS IND,5
+PH,Steel Frame,RMS IND,6
+PH,Tilt-Up/ Precast Concrete,RMS IND,7
+PL,Unknown,RMS IND,0
+PL,Light Metal,RMS IND,1
+PL,Unreinforced Masonry Wall,RMS IND,2
+PL,Reinforced Concrete,RMS IND,3
+PL,Nonductile Concrete,RMS IND,4
+PL,Reinforced Masonry,RMS IND,5
+PL,Steel Frame,RMS IND,6
+PT,Unknown,RMS IND,0
+PT,Light Metal,RMS IND,1
+PT,Unreinforced Masonry Wall,RMS IND,2
+PT,Reinforced Concrete,RMS IND,3
+PT,Nonductile Concrete,RMS IND,4
+PT,Reinforced Masonry,RMS IND,5
+PT,Steel Frame,RMS IND,6
+RO,Unknown,RMS IND,0
+RO,Light Metal,RMS IND,1
+RO,Unreinforced Masonry Wall,RMS IND,2
+RO,Reinforced Concrete,RMS IND,3
+RO,Nonductile Concrete,RMS IND,4
+RO,Reinforced Masonry,RMS IND,5
+RO,Steel Frame,RMS IND,6
+SE,Unknown,RMS IND,0
+SE,Light Metal,RMS IND,1
+SE,Unreinforced Masonry Wall,RMS IND,2
+SE,Reinforced Concrete,RMS IND,3
+SE,Nonductile Concrete,RMS IND,4
+SE,Reinforced Masonry,RMS IND,5
+SE,Steel Frame,RMS IND,6
+SG,Unknown,RMS IND,0
+SG,Light Metal,RMS IND,1
+SG,Unreinforced Masonry Wall,RMS IND,2
+SG,Reinforced Concrete,RMS IND,3
+SG,Nonductile Concrete,RMS IND,4
+SG,Reinforced Masonry,RMS IND,5
+SG,Steel Frame,RMS IND,6
+SG,Tilt-Up/ Precast Concrete,RMS IND,7
+SI,Unknown,RMS IND,0
+SI,Light Metal,RMS IND,1
+SI,Unreinforced Masonry Wall,RMS IND,2
+SI,Reinforced Concrete,RMS IND,3
+SI,Nonductile Concrete,RMS IND,4
+SI,Reinforced Masonry,RMS IND,5
+SI,Steel Frame,RMS IND,6
+SK,Unknown,RMS IND,0
+SK,Light Metal,RMS IND,1
+SK,Unreinforced Masonry Wall,RMS IND,2
+SK,Reinforced Concrete,RMS IND,3
+SK,Nonductile Concrete,RMS IND,4
+SK,Reinforced Masonry,RMS IND,5
+SK,Steel Frame,RMS IND,6
+SV,Unknown,RMS IND,0
+SV,Light Metal,RMS IND,1
+SV,Unreinforced Masonry Wall,RMS IND,2
+SV,Reinforced Concrete,RMS IND,3
+SV,Nonductile Concrete,RMS IND,4
+SV,Reinforced Masonry,RMS IND,5
+SV,Steel Frame,RMS IND,6
+SV,Tilt-Up,RMS IND,7
+TH,Unknown,RMS IND,0
+TH,Light Metal,RMS IND,1
+TH,Unreinforced Masonry Wall,RMS IND,2
+TH,Reinforced Concrete,RMS IND,3
+TH,Nonductile Concrete,RMS IND,4
+TH,Reinforced Masonry,RMS IND,5
+TH,Steel Frame,RMS IND,6
+TH,Tilt-Up/ Precast Concrete,RMS IND,7
+TR,Unknown,RMS IND,0
+TR,Unreinforced Masonry,RMS IND,1
+TR,Concrete Frame,RMS IND,2
+TR,RC MRF with Unreinforced Masonry Infill,RMS IND,3
+TR,Precast Concrete,RMS IND,4
+TR,Steel Frame,RMS IND,5
+TR,Steel MRF with Unreinforced Masonry Infill,RMS IND,6
+TR,Light Metal Frame with Unreinforced Masonry Infill,RMS IND,7
+TR,Mixed,RMS IND,8
+TW,Unknown,RMS IND,0
+TW,Unreinforced Masonry,RMS IND,1
+TW,Factory Structure with Brick or RC Columns,RMS IND,10
+TW,Reinforced Masonry,RMS IND,2
+TW,Concrete Frame,RMS IND,3
+TW,RC MRF with Unreinforced Masonry Infill,RMS IND,4
+TW,Steel Frame,RMS IND,5
+TW,Steel MRF with Unreinforced Masonry Infill,RMS IND,6
+TW,Steel & Reinforced Concrete Composite Frame - SRC,RMS IND,7
+TW,Precast Reinforced Concrete,RMS IND,8
+TW,Light Metal Frame,RMS IND,9
+US,Unknown,RMS IND,0
+US,Light Metal,RMS IND,1
+US,Unreinforced Masonry Wall,RMS IND,2
+US,Reinforced Concrete,RMS IND,3
+US,Nonductile Concrete,RMS IND,4
+US,Reinforced Masonry,RMS IND,5
+US,Steel Frame,RMS IND,6
+US,Tilt-Up,RMS IND,7
+VE,Unknown,RMS IND,0
+VE,Light Metal,RMS IND,1
+VE,Unreinforced Masonry Wall,RMS IND,2
+VE,Reinforced Concrete,RMS IND,3
+VE,Nonductile Concrete,RMS IND,4
+VE,Reinforced Masonry,RMS IND,5
+VE,Steel Frame,RMS IND,6
+VE,Tilt-Up,RMS IND,7
+VN,Unknown,RMS IND,0
+VN,Light Metal,RMS IND,1
+VN,Unreinforced Masonry Wall,RMS IND,2
+VN,Reinforced Concrete,RMS IND,3
+VN,Nonductile Concrete,RMS IND,4
+VN,Reinforced Masonry,RMS IND,5
+VN,Steel Frame,RMS IND,6
+VN,Tilt-Up/ Precast Concrete,RMS IND,7
+W3,Unknown,RMS IND,0
+ZZ,Unknown,RMS IND,0
+ZZ,Unreinforced Masonry Wall,RMS IND,1
+ZZ,Factory Structure with Brick or RC Columns,RMS IND,10
+ZZ,Unreinforced Masonry Wall,RMS IND,2
+ZZ,Steel & Reinforced Concrete Composite Frame,RMS IND,3
+ZZ,Reinforced Masonry,RMS IND,4
+ZZ,Steel Frame,RMS IND,5
+ZZ,Steel MRF with Unreinforced Masonry Infill,RMS IND,6
+ZZ,Tilt-Up / Precast Concrete,RMS IND,7
+ZZ,Precast Reinforced Concrete,RMS IND,8
+ZZ,Light Metal Frame,RMS IND,9

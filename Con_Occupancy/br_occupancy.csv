@@ -1,0 +1,12 @@
+OccupancyClassDescription,OccupancySchemeID,OccupancyClassCode
+Residential,RMS BR,10001
+Commercial,RMS BR,20001
+Institutional,RMS BR,30001
+Stadium/Convention Center,RMS BR,40001
+Light Industrial,RMS BR,50001
+Heavy Industrial,RMS BR,60001
+Bridge,RMS BR,70001
+Ports,RMS BR,80001
+Dam,RMS BR,90001
+Water Treatment,RMS BR,100001
+Power Plant,RMS BR,140001

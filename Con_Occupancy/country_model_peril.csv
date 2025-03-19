@@ -1,0 +1,95 @@
+Country,Code,RMScode,ModelProfileIds,RateSchemeIds,PerilRegions
+Andorra,AD,AD,54,24,EUEQ
+Anguilla,AI,CB,"43,63","62,191","CBEQ,CBWS"
+Antigua & Barbuda,AG,CB,"43,63","62,191","CBEQ,CBWS"
+Argentina,AR,AR,45,53,AHEQ
+Aruba,AW,CB,63,191,CBWS
+Australia,AU,AU,"60,48,78","184,183,48","AUEQ,AUWS,AUCS"
+Austria,AT,AT,"54,58","24,84","EUEQ,EUWS"
+Bahamas,BS,CB,63,191,CBWS
+Barbados,BB,CB,"43,63","62,191","CBEQ,CBWS"
+Belgium,BE,BE,"54,55,58","24,15,84","EUEQ,EUFL,EUWS"
+Belize,BZ,BZ,"50,51","37,191","ACEQ,ACWS"
+Bermuda,BM,CB,63,191,CBWS
+Bolivia,BO,BO,45,53,AHEQ
+Bonaire,XN,CB,63,191,CBWS
+Brazil,BR,BR,45,53,AHEQ
+British Virgin Islands,VG,CB,"43,63","62,191","CBEQ,CBWS"
+Bulgaria,BG,BG,54,24,EUEQ
+Canada,CA,CA,"66,49,82,83","163,191,69,27","NAEQ,NAWS,NACS,NAWT"
+Cayman Islands,KY,CB,"43,63","62,191","CBEQ,CBWS"
+Chile,CL,CL,45,53,AHEQ
+China,CN,CN,"52,53","198,70","CNEQ,CNWS"
+Colombia,CO,CO,45,53,AHEQ
+Costa Rica,CR,CR,"50,51","37,191","ACEQ,ACWS"
+Cuba,CU,CB,63,191,CBWS
+Curacao,XM,CB,63,191,CBWS
+Czech Republic,CZ,CZ,58,84,EUWS
+Denmark,DK,DK,58,84,EUWS
+Dominica,DM,CB,"43,63","62,191","CBEQ,CBWS"
+Dominican Republic,DO,CB,"43,63","62,191","CBEQ,CBWS"
+Ecuador,EC,EC,45,53,AHEQ
+El Salvador,SV,SV,50,37,ACEQ
+France,FR,FR,"54,58","24,84","EUEQ,EUWS"
+Germany,DE,DE,"54,56,58","24,15,84","EUEQ,EUFL,EUWS"
+Greece,GR,GR,54,24,EUEQ
+Grenada,GD,CB,"43,63","62,191","CBEQ,CBWS"
+Guadeloupe,GP,CB,"43,63","62,191","CBEQ,CBWS"
+Guam,GU,GU,"69,75","64,12","GUEQ,GUWS"
+Guatemala,GT,GT,"50,51","37,191","ACEQ,ACWS"
+Haiti,HT,CB,"43,63","62,191","CBEQ,CBWS"
+Honduras,HN,HN,"50,51","37,191","ACEQ,ACWS"
+Hong Kong,HK,HK,"52,53","198,70","CNEQ,CNWS"
+Hungary,HU,HU,54,24,EUEQ
+India,IN,IN,"70,74","179,178","INEQ,INFL"
+Indonesia,ID,ID,73,65,ASEQ
+Ireland,IE,IE,"54,58","24,84","EUEQ,EUWS"
+Israel,IL,IL,71,66,ILEQ
+Italy,IT,IT,54,24,EUEQ
+Jamaica,JM,CB,"43,63","62,191","CBEQ,CBWS"
+Japan,JP,JP,"46,59","54,13","JPEQ,JPWS"
+Liechtenstein,LI,LI,54,24,EUEQ
+Luxembourg,LU,LU,"54,58","24,84","EUEQ,EUWS"
+Macau,CN,CN,"52,53","198,70","CNEQ,CNWS"
+Malaysia,MY,MY,73,189,ASEQ
+Martinique,MQ,CB,"43,63","62,191","CBEQ,CBWS"
+Mexico,MX,MX,"44,42","163,191","NAEQ,NAWS"
+Monaco,MC,FR,"54,58","24,84","EUEQ,EUWS"
+Montserrat,MS,CB,"43,63","62,191","CBEQ,CBWS"
+Netherlands,NL,NL,"54,58","24,84","EUEQ,EUWS"
+New Zealand,NZ,NZ,47,25,NZEQ
+Nicaragua,NI,NI,"50,51","37,191","ACEQ,ACWS"
+Norway,NO,NO,58,84,EUWS
+Panama,PA,PA,"50,51","37,191","ACEQ,ACWS"
+Peru,PE,PE,45,53,AHEQ
+Philippines,PH,PH,"73,77","68,180","ASEQ,ASWS"
+Poland,PL,PL,58,84,EUWS
+Portugal,PT,PT,54,24,EUEQ
+Puerto Rico,PR,CB,"43,63","62,191","CBEQ,CBWS"
+Romania,RO,RO,54,24,EUEQ
+Saba,XL,CB,"43,63","62,191","CBEQ,CBWS"
+Sint. Maartin,XJ,CB,"43,63","62,191","CBEQ,CBWS"
+St. Barthelemy,BL,CB,"43,63","62,191","CBEQ,CBWS"
+St. Eustatius,XK,CB,"43,63","62,191","CBEQ,CBWS"
+St. Kitts and Nevis,KN,CB,"43,63","62,191","CBEQ,CBWS"
+St. Lucia,LC,CB,"43,63","62,191","CBEQ,CBWS"
+St. Martin,MF,CB,"43,63","62,191","CBEQ,CBWS"
+St. Vincent and the Grenadines,VC,CB,"43,63","62,191","CBEQ,CBWS"
+Saipan,GU,GU,"69,75","64,12","GUEQ,GUWS"
+Singapore,SG,SG,73,189,ASEQ
+Slovakia,SK,SK,58,84,EUWS
+Slovenia,SI,SI,54,24,EUEQ
+South Korea,KR,KR,"72,76","200,161","SKEQ,SKWS"
+Spain,ES,ES,54,24,EUEQ
+Sweden,SE,SE,58,84,EUWS
+Switzerland,CH,CH,"54,58","24,84","EUEQ,EUWS"
+Taiwan,TW,TW,"61,62","198,162","TWEQ,TWWS"
+Thailand,TH,TH,73,189,ASEQ
+Trinidad & Tobago,TT,CB,"43,63","62,191","CBEQ,CBWS"
+Turkey,TR,TR,54,24,EUEQ
+Turks & Caicos,TC,CB,"43,63","62,191","CBEQ,CBWS"
+United Kingdom,GB,GB,"54,57,58","24,15,84","EUEQ,EUFL,EUWS"
+United States,US,US,"120,143,81,313,1557","163,191,69,27,0","NAEQ,NAWS,NACS,NAWT,USFL"
+U.S. Virgin Islands,VI,CB,"43,63","62,191","CBEQ,CBWS"
+Venezuela,VE,VE,45,53,AHEQ
+Vietnam,VN,VN,73,189,ASEQ

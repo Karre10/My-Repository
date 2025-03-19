@@ -1,0 +1,8 @@
+ConstructionClassDescription,ConstructionSchemeID,ConstructionClassCode
+Unknown,RMS BR,0
+Wood Frame,RMS BR,1
+Light Metal,RMS BR,2
+Concrete,RMS BR,3
+Masonry,RMS BR,4
+Steel Frame,RMS BR,5
+Tilt-Up,RMS BR,6

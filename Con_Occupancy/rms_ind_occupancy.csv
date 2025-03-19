@@ -1,0 +1,3220 @@
+COUNTRY,OccupancyClassDescription,OccupancySchemeID,OccupancyClassCode
+AD,Heavy Industrial - Mining,RMS IND,1001
+AD,Heavy Industrial - Cement,RMS IND,1011
+AD,Heavy Industrial - Steel,RMS IND,1021
+AD,Heavy Industrial - Pulp & Paper,RMS IND,1031
+AD,Heavy Industrial - Glass,RMS IND,1041
+AD,Heavy Industrial - General,RMS IND,1051
+AD,Chemical Processing - Primarily Outdoor,RMS IND,2001
+AD,Chemical Processing - Primarily Indoor,RMS IND,2011
+AD,Light Industrial - Electronics,RMS IND,3001
+AD,Light Industrial - Pharmaceutical,RMS IND,3011
+AD,Light Industrial - Biomedical,RMS IND,3021
+AD,Light Industrial - Semiconductor,RMS IND,3031
+AD,Light Industrial - General Assembly,RMS IND,3041
+AD,Light Industrial - General Manufacturing,RMS IND,3051
+AD,Light Industrial - Technological Risk,RMS IND,3061
+AD,Petrochemical - Refineries,RMS IND,4001
+AD,Petrochemical - Pipelines,RMS IND,4011
+AD,Petrochemical - Pipelines below ground,RMS IND,4021
+AD,Petrochemical - Tank farms,RMS IND,4031
+AD,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+AD,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+AD,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+AD,Electric Power Generation - Hydroelectric,RMS IND,5011
+AD,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+AD,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+AD,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+AD,Electric Power Generation - Gas Power (Small),RMS IND,5031
+AD,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+AD,Electric Power Generation - Gas Power (Large),RMS IND,5033
+AD,Electric Power - T&D,RMS IND,6001
+AD,Electric Power - Substations (Small),RMS IND,6011
+AD,Electric Power - Substations (Mid),RMS IND,6012
+AD,Electric Power - Substations (Large),RMS IND,6013
+AD,Electric Power - Nuclear power plant,RMS IND,6021
+AD,Electric Power - Wind Farms (Small),RMS IND,6031
+AD,Electric Power - Wind Farms (Mid),RMS IND,6032
+AD,Electric Power - Wind Farms (Large),RMS IND,6033
+AD,Electric Power - Solar Farms (Small),RMS IND,6041
+AD,Electric Power - Solar Farms (Mid),RMS IND,6042
+AD,Electric Power - Solar Farms (Large),RMS IND,6043
+AD,Natural Gas,RMS IND,7001
+AD,Food & Beverage,RMS IND,7011
+AD,Data Processing/Telecommunications,RMS IND,7021
+AD,Communications,RMS IND,7031
+AD,Ports & Harbors,RMS IND,7041
+AD,"Dams, Reservoirs only",RMS IND,7051
+AD,Water/Sewage treatment plants,RMS IND,7061
+AD,Mechanical,RMS IND,7071
+AD,Airport (Small),RMS IND,7081
+AD,Airport (Mid),RMS IND,7082
+AD,Airport (Large),RMS IND,7083
+AR,Heavy Industrial - Mining,RMS IND,1001
+AR,Heavy Industrial - Cement,RMS IND,1011
+AR,Heavy Industrial - Steel,RMS IND,1021
+AR,Heavy Industrial - Pulp & Paper,RMS IND,1031
+AR,Heavy Industrial - Glass,RMS IND,1041
+AR,Heavy Industrial - General,RMS IND,1051
+AR,Chemical Processing - Primarily Outdoor,RMS IND,2001
+AR,Chemical Processing - Primarily Indoor,RMS IND,2011
+AR,Light Industrial - Electronics,RMS IND,3001
+AR,Light Industrial - Pharmaceutical,RMS IND,3011
+AR,Light Industrial - Biomedical,RMS IND,3021
+AR,Light Industrial - Semiconductor,RMS IND,3031
+AR,Light Industrial - General Assembly,RMS IND,3041
+AR,Light Industrial - General Manufacturing,RMS IND,3051
+AR,Light Industrial - Technological Risk,RMS IND,3061
+AR,Petrochemical - Refineries,RMS IND,4001
+AR,Petrochemical - Pipelines,RMS IND,4011
+AR,Petrochemical - Pipelines below ground,RMS IND,4021
+AR,Petrochemical - Tank farms,RMS IND,4031
+AR,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+AR,Electric Power Generation - Fossil Fuel (Mid),RMS IND,5002
+AR,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+AR,Electric Power Generation - Hydroelectric,RMS IND,5011
+AR,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+AR,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+AR,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+AR,Electric Power Generation - Gas Power (Small),RMS IND,5031
+AR,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+AR,Electric Power Generation - Gas Power (Large),RMS IND,5033
+AR,Electric Power - T&D,RMS IND,6001
+AR,Electric Power - Substations (Small),RMS IND,6011
+AR,Electric Power - Substations (Mid),RMS IND,6012
+AR,Electric Power - Substations (Large),RMS IND,6013
+AR,Electric Power - Nuclear power plant,RMS IND,6021
+AR,Electric Power - Wind Farms (Small),RMS IND,6031
+AR,Electric Power - Wind Farms (Mid),RMS IND,6032
+AR,Electric Power - Wind Farms (Large),RMS IND,6033
+AR,Electric Power - Solar Farms (Small),RMS IND,6041
+AR,Electric Power - Solar Farms (Mid),RMS IND,6042
+AR,Electric Power - Solar Farms (Large),RMS IND,6043
+AR,Natural Gas,RMS IND,7001
+AR,Food & Beverage,RMS IND,7011
+AR,Data Processing/Telecommunications,RMS IND,7021
+AR,Communications,RMS IND,7031
+AR,Ports & Harbors,RMS IND,7041
+AR,"Dams, Reservoirs only",RMS IND,7051
+AR,Water/Sewage treatment plants,RMS IND,7061
+AR,Outdoor Mechanical,RMS IND,7071
+AR,Airport (Small),RMS IND,7081
+AR,Airport (Mid),RMS IND,7082
+AR,Airport (Large),RMS IND,7083
+AT,Heavy Industrial - Mining,RMS IND,1001
+AT,Heavy Industrial - Cement,RMS IND,1011
+AT,Heavy Industrial - Steel,RMS IND,1021
+AT,Heavy Industrial - Pulp & Paper,RMS IND,1031
+AT,Heavy Industrial - Glass,RMS IND,1041
+AT,Heavy Industrial - General,RMS IND,1051
+AT,Chemical Processing - Primarily Outdoor,RMS IND,2001
+AT,Chemical Processing - Primarily Indoor,RMS IND,2011
+AT,Light Industrial - Electronics,RMS IND,3001
+AT,Light Industrial - Pharmaceutical,RMS IND,3011
+AT,Light Industrial - Biomedical,RMS IND,3021
+AT,Light Industrial - Semiconductor,RMS IND,3031
+AT,Light Industrial - General Assembly,RMS IND,3041
+AT,Light Industrial - General Manufacturing,RMS IND,3051
+AT,Light Industrial - Technological Risk,RMS IND,3061
+AT,Petrochemical - Refineries,RMS IND,4001
+AT,Petrochemical - Pipelines,RMS IND,4011
+AT,Petrochemical - Pipelines below ground,RMS IND,4021
+AT,Petrochemical - Tank farms,RMS IND,4031
+AT,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+AT,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+AT,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+AT,Electric Power Generation - Hydroelectric,RMS IND,5011
+AT,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+AT,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+AT,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+AT,Electric Power Generation - Gas Power (Small),RMS IND,5031
+AT,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+AT,Electric Power Generation - Gas Power (Large),RMS IND,5033
+AT,Electric Power - T&D,RMS IND,6001
+AT,Electric Power - Substations (Small),RMS IND,6011
+AT,Electric Power - Substations (Mid),RMS IND,6012
+AT,Electric Power - Substations (Large),RMS IND,6013
+AT,Electric Power - Nuclear power plant,RMS IND,6021
+AT,Electric Power - Wind Farms (Small),RMS IND,6031
+AT,Electric Power - Wind Farms (Mid),RMS IND,6032
+AT,Electric Power - Wind Farms (Large),RMS IND,6033
+AT,Electric Power - Solar Farms (Small),RMS IND,6041
+AT,Electric Power - Solar Farms (Mid),RMS IND,6042
+AT,Electric Power - Solar Farms (Large),RMS IND,6043
+AT,Natural Gas,RMS IND,7001
+AT,Food & Beverage,RMS IND,7011
+AT,Data Processing/Telecommunications,RMS IND,7021
+AT,Communications,RMS IND,7031
+AT,Ports & Harbors,RMS IND,7041
+AT,"Dams, Reservoirs only",RMS IND,7051
+AT,Water/Sewage treatment plants,RMS IND,7061
+AT,Mechanical,RMS IND,7071
+AT,Airport (Small),RMS IND,7081
+AT,Airport (Mid),RMS IND,7082
+AT,Airport (Large),RMS IND,7083
+AU,Heavy Industrial - Mining,RMS IND,1001
+AU,Heavy Industrial - Cement,RMS IND,1011
+AU,Heavy Industrial - Steel,RMS IND,1021
+AU,Heavy Industrial - Pulp & Paper,RMS IND,1031
+AU,Heavy Industrial - Glass,RMS IND,1041
+AU,Heavy Industrial - General,RMS IND,1051
+AU,Chemical Processing - Primarily Outdoor,RMS IND,2001
+AU,Chemical Processing - Primarily Indoor,RMS IND,2011
+AU,Light Industrial - Electronics,RMS IND,3001
+AU,Light Industrial - Pharmaceutical,RMS IND,3011
+AU,Light Industrial - Biomedical,RMS IND,3021
+AU,Light Industrial - Semiconductor,RMS IND,3031
+AU,Light Industrial - General Assembly,RMS IND,3041
+AU,Light Industrial - General Manufacturing,RMS IND,3051
+AU,Light Industrial - Technological Risk,RMS IND,3061
+AU,Petrochemical - Refineries,RMS IND,4001
+AU,Petrochemical - Pipelines,RMS IND,4011
+AU,Petrochemical - Pipelines Below Ground,RMS IND,4021
+AU,Petrochemical - Tank Farms,RMS IND,4031
+AU,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+AU,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+AU,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+AU,Electric Power Generation - Hydroelectric,RMS IND,5011
+AU,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+AU,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+AU,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+AU,Electric Power Generation - Gas Power (Small),RMS IND,5031
+AU,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+AU,Electric Power Generation - Gas Power (Large),RMS IND,5033
+AU,Electric Power - T&D,RMS IND,6001
+AU,Electric Power - Substations (Small),RMS IND,6011
+AU,Electric Power - Substations (Mid),RMS IND,6012
+AU,Electric Power - Substations (Large),RMS IND,6013
+AU,Electric Power - Nuclear Power Plant,RMS IND,6021
+AU,Electric Power - Wind Farms (Small),RMS IND,6031
+AU,Electric Power - Wind Farms (Mid),RMS IND,6032
+AU,Electric Power - Wind Farms (Large),RMS IND,6033
+AU,Electric Power - Solar Farms (Small),RMS IND,6041
+AU,Electric Power - Solar Farms (Mid),RMS IND,6042
+AU,Electric Power - Solar Farms (Large),RMS IND,6043
+AU,Natural Gas,RMS IND,7001
+AU,Food & Beverage,RMS IND,7011
+AU,Data Processing/Telecommunications,RMS IND,7021
+AU,Communications,RMS IND,7031
+AU,Ports & Harbors,RMS IND,7041
+AU,"Dams, Reservoirs only",RMS IND,7051
+AU,Water/Sewage treatment plants,RMS IND,7061
+AU,Outdoor Mechanical ,RMS IND,7071
+AU,Airport (Small),RMS IND,7081
+AU,Airport (Mid),RMS IND,7082
+AU,Airport (Large),RMS IND,7083
+BE,Heavy Industrial - Mining,RMS IND,1001
+BE,Heavy Industrial - Cement,RMS IND,1011
+BE,Heavy Industrial - Steel,RMS IND,1021
+BE,Heavy Industrial - Pulp & Paper,RMS IND,1031
+BE,Heavy Industrial - Glass,RMS IND,1041
+BE,Heavy Industrial - General,RMS IND,1051
+BE,Chemical Processing - Primarily Outdoor,RMS IND,2001
+BE,Chemical Processing - Primarily Indoor,RMS IND,2011
+BE,Light Industrial - Electronics,RMS IND,3001
+BE,Light Industrial - Pharmaceutical,RMS IND,3011
+BE,Light Industrial - Biomedical,RMS IND,3021
+BE,Light Industrial - Semiconductor,RMS IND,3031
+BE,Light Industrial - General Assembly,RMS IND,3041
+BE,Light Industrial - General Manufacturing,RMS IND,3051
+BE,Light Industrial - Technological Risk,RMS IND,3061
+BE,Petrochemical - Refineries,RMS IND,4001
+BE,Petrochemical - Pipelines,RMS IND,4011
+BE,Petrochemical - Pipelines below ground,RMS IND,4021
+BE,Petrochemical - Tank farms,RMS IND,4031
+BE,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+BE,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+BE,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+BE,Electric Power Generation - Hydroelectric,RMS IND,5011
+BE,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+BE,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+BE,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+BE,Electric Power Generation - Gas Power (Small),RMS IND,5031
+BE,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+BE,Electric Power Generation - Gas Power (Large),RMS IND,5033
+BE,Electric Power - T&D,RMS IND,6001
+BE,Electric Power - Substations (Small),RMS IND,6011
+BE,Electric Power - Substations (Mid),RMS IND,6012
+BE,Electric Power - Substations (Large),RMS IND,6013
+BE,Electric Power - Nuclear power plant,RMS IND,6021
+BE,Electric Power - Wind Farms (Small),RMS IND,6031
+BE,Electric Power - Wind Farms (Mid),RMS IND,6032
+BE,Electric Power - Wind Farms (Large),RMS IND,6033
+BE,Electric Power - Solar Farms (Small),RMS IND,6041
+BE,Electric Power - Solar Farms (Mid),RMS IND,6042
+BE,Electric Power - Solar Farms (Large),RMS IND,6043
+BE,Natural Gas,RMS IND,7001
+BE,Food & Beverage,RMS IND,7011
+BE,Data Processing/Telecommunications,RMS IND,7021
+BE,Communications,RMS IND,7031
+BE,Ports & Harbors,RMS IND,7041
+BE,"Dams, Reservoirs only",RMS IND,7051
+BE,Water/Sewage treatment plants,RMS IND,7061
+BE,Outdoor Mechanical ,RMS IND,7071
+BE,Airport (Small),RMS IND,7081
+BE,Airport (Mid),RMS IND,7082
+BE,Airport (Large),RMS IND,7083
+BG,Heavy Industrial - Mining,RMS IND,1001
+BG,Heavy Industrial - Cement,RMS IND,1011
+BG,Heavy Industrial - Steel,RMS IND,1021
+BG,Heavy Industrial - Pulp & Paper,RMS IND,1031
+BG,Heavy Industrial - Glass,RMS IND,1041
+BG,Heavy Industrial - General,RMS IND,1051
+BG,Chemical Processing - Primarily Outdoor,RMS IND,2001
+BG,Chemical Processing - Primarily Indoor,RMS IND,2011
+BG,Light Industrial - Electronics,RMS IND,3001
+BG,Light Industrial - Pharmaceutical,RMS IND,3011
+BG,Light Industrial - Biomedical,RMS IND,3021
+BG,Light Industrial - Semiconductor,RMS IND,3031
+BG,Light Industrial - General Assembly,RMS IND,3041
+BG,Light Industrial - General Manufacturing,RMS IND,3051
+BG,Light Industrial - Technological Risk,RMS IND,3061
+BG,Petrochemical - Refineries,RMS IND,4001
+BG,Petrochemical - Pipelines,RMS IND,4011
+BG,Petrochemical - Pipelines below ground,RMS IND,4021
+BG,Petrochemical - Tank farms,RMS IND,4031
+BG,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+BG,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+BG,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+BG,Electric Power Generation - Hydroelectric,RMS IND,5011
+BG,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+BG,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+BG,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+BG,Electric Power Generation - Gas Power (Small),RMS IND,5031
+BG,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+BG,Electric Power Generation - Gas Power (Large),RMS IND,5033
+BG,Electric Power - T&D,RMS IND,6001
+BG,Electric Power - Substations (Small),RMS IND,6011
+BG,Electric Power - Substations (Mid),RMS IND,6012
+BG,Electric Power - Substations (Large),RMS IND,6013
+BG,Electric Power - Nuclear power plant,RMS IND,6021
+BG,Electric Power - Wind Farms (Small),RMS IND,6031
+BG,Electric Power - Wind Farms (Mid),RMS IND,6032
+BG,Electric Power - Wind Farms (Large),RMS IND,6033
+BG,Electric Power - Solar Farms (Small),RMS IND,6041
+BG,Electric Power - Solar Farms (Mid),RMS IND,6042
+BG,Electric Power - Solar Farms (Large),RMS IND,6043
+BG,Natural Gas,RMS IND,7001
+BG,Food & Beverage,RMS IND,7011
+BG,Data Processing/Telecommunications,RMS IND,7021
+BG,Communications,RMS IND,7031
+BG,Ports & Harbors,RMS IND,7041
+BG,"Dams, Reservoirs only",RMS IND,7051
+BG,Water/Sewage treatment plants,RMS IND,7061
+BG,Mechanical,RMS IND,7071
+BG,Airport (Small),RMS IND,7081
+BG,Airport (Mid),RMS IND,7082
+BG,Airport (Large),RMS IND,7083
+BO,Heavy Industrial - Mining,RMS IND,1001
+BO,Heavy Industrial - Cement,RMS IND,1011
+BO,Heavy Industrial - Steel,RMS IND,1021
+BO,Heavy Industrial - Pulp & Paper,RMS IND,1031
+BO,Heavy Industrial - Glass,RMS IND,1041
+BO,Heavy Industrial - General,RMS IND,1051
+BO,Chemical Processing - Primarily Outdoor,RMS IND,2001
+BO,Chemical Processing - Primarily Indoor,RMS IND,2011
+BO,Light Industrial - Electronics,RMS IND,3001
+BO,Light Industrial - Pharmaceutical,RMS IND,3011
+BO,Light Industrial - Biomedical,RMS IND,3021
+BO,Light Industrial - Semiconductor,RMS IND,3031
+BO,Light Industrial - General Assembly,RMS IND,3041
+BO,Light Industrial - General Manufacturing,RMS IND,3051
+BO,Light Industrial - Technological Risk,RMS IND,3061
+BO,Petrochemical - Refineries,RMS IND,4001
+BO,Petrochemical - Pipelines,RMS IND,4011
+BO,Petrochemical - Pipelines below ground,RMS IND,4021
+BO,Petrochemical - Tank farms,RMS IND,4031
+BO,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+BO,Electric Power Generation - Fossil Fuel (Mid),RMS IND,5002
+BO,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+BO,Electric Power Generation - Hydroelectric,RMS IND,5011
+BO,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+BO,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+BO,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+BO,Electric Power Generation - Gas Power (Small),RMS IND,5031
+BO,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+BO,Electric Power Generation - Gas Power (Large),RMS IND,5033
+BO,Electric Power - T&D,RMS IND,6001
+BO,Electric Power - Substations (Small),RMS IND,6011
+BO,Electric Power - Substations (Mid),RMS IND,6012
+BO,Electric Power - Substations (Large),RMS IND,6013
+BO,Electric Power - Nuclear power plant,RMS IND,6021
+BO,Electric Power - Wind Farms (Small),RMS IND,6031
+BO,Electric Power - Wind Farms (Mid),RMS IND,6032
+BO,Electric Power - Wind Farms (Large),RMS IND,6033
+BO,Electric Power - Solar Farms (Small),RMS IND,6041
+BO,Electric Power - Solar Farms (Mid),RMS IND,6042
+BO,Electric Power - Solar Farms (Large),RMS IND,6043
+BO,Natural Gas,RMS IND,7001
+BO,Food & Beverage,RMS IND,7011
+BO,Data Processing/Telecommunications,RMS IND,7021
+BO,Communications,RMS IND,7031
+BO,Ports & Harbors,RMS IND,7041
+BO,"Dams, Reservoirs only",RMS IND,7051
+BO,Water/Sewage treatment plants,RMS IND,7061
+BO,Outdoor Mechanical,RMS IND,7071
+BO,Airport (Small),RMS IND,7081
+BO,Airport (Mid),RMS IND,7082
+BO,Airport (Large),RMS IND,7083
+BR,Heavy Industrial - Mining,RMS IND,1001
+BR,Heavy Industrial - Cement,RMS IND,1011
+BR,Heavy Industrial - Steel,RMS IND,1021
+BR,Heavy Industrial - Pulp & Paper,RMS IND,1031
+BR,Heavy Industrial - Glass,RMS IND,1041
+BR,Heavy Industrial - General,RMS IND,1051
+BR,Chemical Processing - Primarily Outdoor,RMS IND,2001
+BR,Chemical Processing - Primarily Indoor,RMS IND,2011
+BR,Light Industrial - Electronics,RMS IND,3001
+BR,Light Industrial - Pharmaceutical,RMS IND,3011
+BR,Light Industrial - Biomedical,RMS IND,3021
+BR,Light Industrial - Semiconductor,RMS IND,3031
+BR,Light Industrial - General Assembly,RMS IND,3041
+BR,Light Industrial - General Manufacturing,RMS IND,3051
+BR,Light Industrial - Technological Risk,RMS IND,3061
+BR,Petrochemical - Refineries,RMS IND,4001
+BR,Petrochemical - Pipelines,RMS IND,4011
+BR,Petrochemical - Pipelines below ground,RMS IND,4021
+BR,Petrochemical - Tank farms,RMS IND,4031
+BR,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+BR,Electric Power Generation - Fossil Fuel (Mid),RMS IND,5002
+BR,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+BR,Electric Power Generation - Hydroelectric,RMS IND,5011
+BR,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+BR,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+BR,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+BR,Electric Power Generation - Gas Power (Small),RMS IND,5031
+BR,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+BR,Electric Power Generation - Gas Power (Large),RMS IND,5033
+BR,Electric Power - T&D,RMS IND,6001
+BR,Electric Power - Substations (Small),RMS IND,6011
+BR,Electric Power - Substations (Mid),RMS IND,6012
+BR,Electric Power - Substations (Large),RMS IND,6013
+BR,Electric Power - Nuclear power plant,RMS IND,6021
+BR,Electric Power - Wind Farms (Small),RMS IND,6031
+BR,Electric Power - Wind Farms (Mid),RMS IND,6032
+BR,Electric Power - Wind Farms (Large),RMS IND,6033
+BR,Electric Power - Solar Farms (Small),RMS IND,6041
+BR,Electric Power - Solar Farms (Mid),RMS IND,6042
+BR,Electric Power - Solar Farms (Large),RMS IND,6043
+BR,Natural Gas,RMS IND,7001
+BR,Food & Beverage,RMS IND,7011
+BR,Data Processing/Telecommunications,RMS IND,7021
+BR,Communications,RMS IND,7031
+BR,Ports & Harbors,RMS IND,7041
+BR,"Dams, Reservoirs only",RMS IND,7051
+BR,Water/Sewage treatment plants,RMS IND,7061
+BR,Outdoor Mechanical,RMS IND,7071
+BR,Airport (Small),RMS IND,7081
+BR,Airport (Mid),RMS IND,7082
+BR,Airport (Large),RMS IND,7083
+BZ,Heavy Industrial - Mining,RMS IND,1001
+BZ,Heavy Industrial - Cement,RMS IND,1011
+BZ,Heavy Industrial - Steel,RMS IND,1021
+BZ,Heavy Industrial - Pulp & Paper,RMS IND,1031
+BZ,Heavy Industrial - Glass,RMS IND,1041
+BZ,Heavy Industrial - General,RMS IND,1051
+BZ,Chemical Processing - Primarily Outdoor,RMS IND,2001
+BZ,Chemical Processing - Primarily Indoor,RMS IND,2011
+BZ,Light Industrial - Electronics,RMS IND,3001
+BZ,Light Industrial - Pharmaceutical,RMS IND,3011
+BZ,Light Industrial - Biomedical,RMS IND,3021
+BZ,Light Industrial - Semiconductor,RMS IND,3031
+BZ,Light Industrial - General Assembly,RMS IND,3041
+BZ,Light Industrial - General Manufacturing,RMS IND,3051
+BZ,Light Industrial - Technological Risk,RMS IND,3061
+BZ,Petrochemical - Refineries,RMS IND,4001
+BZ,Petrochemical - Pipelines,RMS IND,4011
+BZ,Petrochemical - Pipelines Below Ground,RMS IND,4021
+BZ,Petrochemical - Tank Farms,RMS IND,4031
+BZ,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+BZ,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+BZ,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+BZ,Electric Power Generation - Hydroelectric,RMS IND,5011
+BZ,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+BZ,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+BZ,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+BZ,Electric Power Generation - Gas Power (Small),RMS IND,5031
+BZ,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+BZ,Electric Power Generation - Gas Power (Large),RMS IND,5033
+BZ,Electric Power - T&D,RMS IND,6001
+BZ,Electric Power - Substations (Small),RMS IND,6011
+BZ,Electric Power - Substations (Mid),RMS IND,6012
+BZ,Electric Power - Substations (Large),RMS IND,6013
+BZ,Electric Power - Nuclear Power Plant,RMS IND,6021
+BZ,Electric Power - Wind Farms (Small),RMS IND,6031
+BZ,Electric Power - Wind Farms (Mid),RMS IND,6032
+BZ,Electric Power - Wind Farms (Large),RMS IND,6033
+BZ,Electric Power - Solar Farms (Small),RMS IND,6041
+BZ,Electric Power - Solar Farms (Mid),RMS IND,6042
+BZ,Electric Power - Solar Farms (Large),RMS IND,6043
+BZ,Natural Gas,RMS IND,7001
+BZ,Food & Beverage,RMS IND,7011
+BZ,Data Processing/Telecommunications,RMS IND,7021
+BZ,Communications,RMS IND,7031
+BZ,Ports & Harbors,RMS IND,7041
+BZ,"Dams, Reservoirs only",RMS IND,7051
+BZ,Water/Sewage treatment plants,RMS IND,7061
+BZ,Outdoor Mechanical ,RMS IND,7071
+BZ,Airport (Small),RMS IND,7081
+BZ,Airport (Mid),RMS IND,7082
+BZ,Airport (Large),RMS IND,7083
+CA,Heavy Industrial - Mining,RMS IND,1001
+CA,Heavy Industrial - Cement,RMS IND,1011
+CA,Heavy Industrial - Steel,RMS IND,1021
+CA,Heavy Industrial - Pulp & Paper,RMS IND,1031
+CA,Heavy Industrial - Glass,RMS IND,1041
+CA,Heavy Industrial - General,RMS IND,1051
+CA,Chemical Processing - Primarily Outdoor,RMS IND,2001
+CA,Chemical Processing - Primarily Indoor,RMS IND,2011
+CA,Light Industrial - Electronics,RMS IND,3001
+CA,Light Industrial - Pharmaceutical,RMS IND,3011
+CA,Light Industrial - Biomedical,RMS IND,3021
+CA,Light Industrial - Semiconductor,RMS IND,3031
+CA,Light Industrial - General Assembly,RMS IND,3041
+CA,Light Industrial - General Manufacturing,RMS IND,3051
+CA,Light Industrial - Technological Risk,RMS IND,3061
+CA,Petrochemical - Refineries,RMS IND,4001
+CA,Petrochemical - Pipelines,RMS IND,4011
+CA,Petrochemical - Pipelines Below Ground,RMS IND,4021
+CA,Petrochemical - Tank Farms,RMS IND,4031
+CA,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+CA,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+CA,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+CA,Electric Power Generation - Hydroelectric,RMS IND,5011
+CA,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+CA,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+CA,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+CA,Electric Power Generation - Gas Power (Small),RMS IND,5031
+CA,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+CA,Electric Power Generation - Gas Power (Large),RMS IND,5033
+CA,Electric Power - T&D,RMS IND,6001
+CA,Electric Power - Substations (Small),RMS IND,6011
+CA,Electric Power - Substations (Mid),RMS IND,6012
+CA,Electric Power - Substations (Large),RMS IND,6013
+CA,Electric Power - Nuclear Power Plant,RMS IND,6021
+CA,Electric Power - Wind Farms (Small),RMS IND,6031
+CA,Electric Power - Wind Farms (Mid),RMS IND,6032
+CA,Electric Power - Wind Farms (Large),RMS IND,6033
+CA,Electric Power - Solar Farms (Small),RMS IND,6041
+CA,Electric Power - Solar Farms (Mid),RMS IND,6042
+CA,Electric Power - Solar Farms (Large),RMS IND,6043
+CA,Natural Gas,RMS IND,7001
+CA,Food & Beverage,RMS IND,7011
+CA,Data Processing/Telecommunications,RMS IND,7021
+CA,Communications,RMS IND,7031
+CA,Ports & Harbors,RMS IND,7041
+CA,"Dams, Reservoirs only",RMS IND,7051
+CA,Water/Sewage treatment plants,RMS IND,7061
+CA,Outdoor Mechanical ,RMS IND,7071
+CA,Airport (Small),RMS IND,7081
+CA,Airport (Mid),RMS IND,7082
+CA,Airport (Large),RMS IND,7083
+CB,Heavy Industrial - Mining,RMS IND,1001
+CB,Heavy Industrial - Cement,RMS IND,1011
+CB,Heavy Industrial - Steel,RMS IND,1021
+CB,Heavy Industrial - Pulp & Paper,RMS IND,1031
+CB,Heavy Industrial - Glass,RMS IND,1041
+CB,Heavy Industrial - General,RMS IND,1051
+CB,Chemical Processing - Primarily Outdoor,RMS IND,2001
+CB,Chemical Processing - Primarily Indoor,RMS IND,2011
+CB,Light Industrial - Electronics,RMS IND,3001
+CB,Light Industrial - Pharmaceutical,RMS IND,3011
+CB,Light Industrial - Biomedical,RMS IND,3021
+CB,Light Industrial - Semiconductor,RMS IND,3031
+CB,Light Industrial - General Assembly,RMS IND,3041
+CB,Light Industrial - General Manufacturing,RMS IND,3051
+CB,Light Industrial - Technological Risk,RMS IND,3061
+CB,Petrochemical - Refineries,RMS IND,4001
+CB,Petrochemical - Pipelines,RMS IND,4011
+CB,Petrochemical - Pipelines Below Ground,RMS IND,4021
+CB,Petrochemical - Tank Farms,RMS IND,4031
+CB,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+CB,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+CB,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+CB,Electric Power Generation - Hydroelectric,RMS IND,5011
+CB,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+CB,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+CB,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+CB,Electric Power Generation - Gas Power (Small),RMS IND,5031
+CB,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+CB,Electric Power Generation - Gas Power (Large),RMS IND,5033
+CB,Electric Power - T&D,RMS IND,6001
+CB,Electric Power - Substations (Small),RMS IND,6011
+CB,Electric Power - Substations (Mid),RMS IND,6012
+CB,Electric Power - Substations (Large),RMS IND,6013
+CB,Electric Power - Nuclear Power Plant,RMS IND,6021
+CB,Electric Power - Wind Farms (Small),RMS IND,6031
+CB,Electric Power - Wind Farms (Mid),RMS IND,6032
+CB,Electric Power - Wind Farms (Large),RMS IND,6033
+CB,Electric Power - Solar Farms (Small),RMS IND,6041
+CB,Electric Power - Solar Farms (Mid),RMS IND,6042
+CB,Electric Power - Solar Farms (Large),RMS IND,6043
+CB,Natural Gas,RMS IND,7001
+CB,Food & Beverage,RMS IND,7011
+CB,Data Processing/Telecommunications,RMS IND,7021
+CB,Communications,RMS IND,7031
+CB,Ports & Harbors,RMS IND,7041
+CB,"Dams, Reservoirs only",RMS IND,7051
+CB,Water/Sewage treatment plants,RMS IND,7061
+CB,Outdoor Mechanical ,RMS IND,7071
+CB,Airport (Small),RMS IND,7081
+CB,Airport (Mid),RMS IND,7082
+CB,Airport (Large),RMS IND,7083
+CH,Heavy Industrial - Mining,RMS IND,1001
+CH,Heavy Industrial - Cement,RMS IND,1011
+CH,Heavy Industrial - Steel,RMS IND,1021
+CH,Heavy Industrial - Pulp & Paper,RMS IND,1031
+CH,Heavy Industrial - Glass,RMS IND,1041
+CH,Heavy Industrial - General,RMS IND,1051
+CH,Chemical Processing - Primarily Outdoor,RMS IND,2001
+CH,Chemical Processing - Primarily Indoor,RMS IND,2011
+CH,Light Industrial - Electronics,RMS IND,3001
+CH,Light Industrial - Pharmaceutical,RMS IND,3011
+CH,Light Industrial - Biomedical,RMS IND,3021
+CH,Light Industrial - Semiconductor,RMS IND,3031
+CH,Light Industrial - General Assembly,RMS IND,3041
+CH,Light Industrial - General Manufacturing,RMS IND,3051
+CH,Light Industrial - Technological Risk,RMS IND,3061
+CH,Petrochemical - Refineries,RMS IND,4001
+CH,Petrochemical - Pipelines,RMS IND,4011
+CH,Petrochemical - Pipelines below ground,RMS IND,4021
+CH,Petrochemical - Tank farms,RMS IND,4031
+CH,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+CH,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+CH,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+CH,Electric Power Generation - Hydroelectric,RMS IND,5011
+CH,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+CH,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+CH,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+CH,Electric Power Generation - Gas Power (Small),RMS IND,5031
+CH,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+CH,Electric Power Generation - Gas Power (Large),RMS IND,5033
+CH,Electric Power - T&D,RMS IND,6001
+CH,Electric Power - Substations (Small),RMS IND,6011
+CH,Electric Power - Substations (Mid),RMS IND,6012
+CH,Electric Power - Substations (Large),RMS IND,6013
+CH,Electric Power - Nuclear power plant,RMS IND,6021
+CH,Electric Power - Wind Farms (Small),RMS IND,6031
+CH,Electric Power - Wind Farms (Mid),RMS IND,6032
+CH,Electric Power - Wind Farms (Large),RMS IND,6033
+CH,Electric Power - Solar Farms (Small),RMS IND,6041
+CH,Electric Power - Solar Farms (Mid),RMS IND,6042
+CH,Electric Power - Solar Farms (Large),RMS IND,6043
+CH,Natural Gas,RMS IND,7001
+CH,Food & Beverage,RMS IND,7011
+CH,Data Processing/Telecommunications,RMS IND,7021
+CH,Communications,RMS IND,7031
+CH,Ports & Harbors,RMS IND,7041
+CH,"Dams, Reservoirs only",RMS IND,7051
+CH,Water/Sewage treatment plants,RMS IND,7061
+CH,Mechanical,RMS IND,7071
+CH,Airport (Small),RMS IND,7081
+CH,Airport (Mid),RMS IND,7082
+CH,Airport (Large),RMS IND,7083
+CL,Heavy Industrial - Mining,RMS IND,1
+CL,Light Industrial - Pharmaceutical,RMS IND,10
+CL,Heavy Industrial - Mining,RMS IND,1001
+CL,Heavy Industrial - Cement,RMS IND,1011
+CL,Heavy Industrial - Steel,RMS IND,1021
+CL,Heavy Industrial - Pulp & Paper,RMS IND,1031
+CL,Heavy Industrial - Glass,RMS IND,1041
+CL,Heavy Industrial - General,RMS IND,1051
+CL,Light Industrial - Biomedical,RMS IND,11
+CL,Light Industrial - Semiconductor,RMS IND,12
+CL,Light Industrial - General Assembly,RMS IND,13
+CL,Light Industrial - General Manufacturing,RMS IND,14
+CL,Petrochemical - Refineries,RMS IND,15
+CL,Petrochemical - Pipelines,RMS IND,16
+CL,Electric Power Generation - Fossil Fuel,RMS IND,17
+CL,Electric Power Generation - Hydroelectric,RMS IND,18
+CL,Electric Power Generation - Co-Generation,RMS IND,19
+CL,Heavy Industrial - Cement,RMS IND,2
+CL,Electric Power - T&D,RMS IND,20
+CL,Chemical Processing - Primarily Outdoor,RMS IND,2001
+CL,Chemical Processing - Primarily Indoor,RMS IND,2011
+CL,Electric Power - Substations,RMS IND,21
+CL,Natural Gas,RMS IND,22
+CL,Food & Beverage,RMS IND,23
+CL,Data Processing/Telecommunications,RMS IND,24
+CL,Communications,RMS IND,25
+CL,Ports & Harbors,RMS IND,26
+CL,Heavy Industrial - Steel,RMS IND,3
+CL,Light Industrial - Electronics,RMS IND,3001
+CL,Light Industrial - Pharmaceutical,RMS IND,3011
+CL,Light Industrial - Biomedical,RMS IND,3021
+CL,Light Industrial - Semiconductor,RMS IND,3031
+CL,Light Industrial - General Assembly,RMS IND,3041
+CL,Light Industrial - General Manufacturing,RMS IND,3051
+CL,Light Industrial - Technological Risk,RMS IND,3061
+CL,Heavy Industrial - Pulp & Paper,RMS IND,4
+CL,Petrochemical - Refineries,RMS IND,4001
+CL,Petrochemical - Pipelines,RMS IND,4011
+CL,Petrochemical - Pipelines Below Ground,RMS IND,4021
+CL,Petrochemical - Tank Farms,RMS IND,4031
+CL,Heavy Industrial - Glass,RMS IND,5
+CL,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+CL,Electric Power Generation - Fossil Fuel (Mid),RMS IND,5002
+CL,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+CL,Electric Power Generation - Hydroelectric,RMS IND,5011
+CL,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+CL,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+CL,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+CL,Electric Power Generation - Gas Power (Small),RMS IND,5031
+CL,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+CL,Electric Power Generation - Gas Power (Large),RMS IND,5033
+CL,Heavy Industrial - General,RMS IND,6
+CL,Electric Power - T&D,RMS IND,6001
+CL,Electric Power - Substations (Small),RMS IND,6011
+CL,Electric Power - Substations (Mid),RMS IND,6012
+CL,Electric Power - Substations (Large),RMS IND,6013
+CL,Electric Power - Nuclear Power Plant,RMS IND,6021
+CL,Electric Power - Wind Farms (Small),RMS IND,6031
+CL,Electric Power - Wind Farms (Mid),RMS IND,6032
+CL,Electric Power - Wind Farms (Large),RMS IND,6033
+CL,Electric Power - Solar Farms (Small),RMS IND,6041
+CL,Electric Power - Solar Farms (Mid),RMS IND,6042
+CL,Electric Power - Solar Farms (Large),RMS IND,6043
+CL,Chemical Processing - Primarily Outdoor,RMS IND,7
+CL,Natural Gas,RMS IND,7001
+CL,Food & Beverage,RMS IND,7011
+CL,Data Processing/Telecommunications,RMS IND,7021
+CL,Communications,RMS IND,7031
+CL,Ports & Harbors,RMS IND,7041
+CL,"Dams, Reservoirs only",RMS IND,7051
+CL,Water/Sewage treatment plants,RMS IND,7061
+CL,Outdoor Mechanical,RMS IND,7071
+CL,Airport (Small),RMS IND,7081
+CL,Airport (Mid),RMS IND,7082
+CL,Airport (Large),RMS IND,7083
+CL,Chemical Processing - Primarily Indoor,RMS IND,8
+CL,Light Industrial - Electronics,RMS IND,9
+CN,Heavy Industrial - Mining,RMS IND,1001
+CN,Heavy Industrial - Cement,RMS IND,1011
+CN,Heavy Industrial - Steel,RMS IND,1021
+CN,Heavy Industrial - Pulp & Paper,RMS IND,1031
+CN,Heavy Industrial - Glass,RMS IND,1041
+CN,Heavy Industrial - General,RMS IND,1051
+CN,Chemical Processing - Primarily Outdoor,RMS IND,2001
+CN,Chemical Processing - Primarily Indoor,RMS IND,2011
+CN,Light Industrial - Electronics,RMS IND,3001
+CN,Light Industrial - Pharmaceutical,RMS IND,3011
+CN,Light Industrial - Biomedical,RMS IND,3021
+CN,Light Industrial - Semiconductor,RMS IND,3031
+CN,Light Industrial - General Assembly,RMS IND,3041
+CN,Light Industrial - General Manufacturing,RMS IND,3051
+CN,Light Industrial - Technological Risk,RMS IND,3061
+CN,Petrochemical - Refineries,RMS IND,4001
+CN,Petrochemical - Pipelines,RMS IND,4011
+CN,Petrochemical - Pipelines Below Ground,RMS IND,4021
+CN,Petrochemical - Tank Farms,RMS IND,4031
+CN,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+CN,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+CN,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+CN,Electric Power Generation - Hydroelectric,RMS IND,5011
+CN,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+CN,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+CN,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+CN,Electric Power Generation - Gas Power (Small),RMS IND,5031
+CN,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+CN,Electric Power Generation - Gas Power (Large),RMS IND,5033
+CN,Electric Power - T&D,RMS IND,6001
+CN,Electric Power - Substations (Small),RMS IND,6011
+CN,Electric Power - Substations (Mid),RMS IND,6012
+CN,Electric Power - Substations (Large),RMS IND,6013
+CN,Electric Power - Nuclear Power Plant,RMS IND,6021
+CN,Electric Power - Wind Farms (Small),RMS IND,6031
+CN,Electric Power - Wind Farms (Mid),RMS IND,6032
+CN,Electric Power - Wind Farms (Large),RMS IND,6033
+CN,Electric Power - Solar Farms (Small),RMS IND,6041
+CN,Electric Power - Solar Farms (Mid),RMS IND,6042
+CN,Electric Power - Solar Farms (Large),RMS IND,6043
+CN,Natural Gas,RMS IND,7001
+CN,Food & Beverage,RMS IND,7011
+CN,Data Processing/Telecommunications,RMS IND,7021
+CN,Communications,RMS IND,7031
+CN,Ports & Harbors,RMS IND,7041
+CN,"Dams, Reservoirs only",RMS IND,7051
+CN,Water/Sewage treatment plants,RMS IND,7061
+CN,Outdoor Mechanical ,RMS IND,7071
+CN,Airport (Small),RMS IND,7081
+CN,Airport (Mid),RMS IND,7082
+CN,Airport (Large),RMS IND,7083
+CO,Heavy Industrial - Mining,RMS IND,1001
+CO,Heavy Industrial - Cement,RMS IND,1011
+CO,Heavy Industrial - Steel,RMS IND,1021
+CO,Heavy Industrial - Pulp & Paper,RMS IND,1031
+CO,Heavy Industrial - Glass,RMS IND,1041
+CO,Heavy Industrial - General,RMS IND,1051
+CO,Chemical Processing - Primarily Outdoor,RMS IND,2001
+CO,Chemical Processing - Primarily Indoor,RMS IND,2011
+CO,Light Industrial - Electronics,RMS IND,3001
+CO,Light Industrial - Pharmaceutical,RMS IND,3011
+CO,Light Industrial - Biomedical,RMS IND,3021
+CO,Light Industrial - Semiconductor,RMS IND,3031
+CO,Light Industrial - General Assembly,RMS IND,3041
+CO,Light Industrial - General Manufacturing,RMS IND,3051
+CO,Light Industrial - Technological Risk,RMS IND,3061
+CO,Petrochemical - Refineries,RMS IND,4001
+CO,Petrochemical - Pipelines,RMS IND,4011
+CO,Petrochemical - Pipelines below ground,RMS IND,4021
+CO,Petrochemical - Tank farms,RMS IND,4031
+CO,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+CO,Electric Power Generation - Fossil Fuel (Mid),RMS IND,5002
+CO,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+CO,Electric Power Generation - Hydroelectric,RMS IND,5011
+CO,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+CO,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+CO,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+CO,Electric Power Generation - Gas Power (Small),RMS IND,5031
+CO,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+CO,Electric Power Generation - Gas Power (Large),RMS IND,5033
+CO,Electric Power - T&D,RMS IND,6001
+CO,Electric Power - Substations (Small),RMS IND,6011
+CO,Electric Power - Substations (Mid),RMS IND,6012
+CO,Electric Power - Substations (Large),RMS IND,6013
+CO,Electric Power - Nuclear power plant,RMS IND,6021
+CO,Electric Power - Wind Farms (Small),RMS IND,6031
+CO,Electric Power - Wind Farms (Mid),RMS IND,6032
+CO,Electric Power - Wind Farms (Large),RMS IND,6033
+CO,Electric Power - Solar Farms (Small),RMS IND,6041
+CO,Electric Power - Solar Farms (Mid),RMS IND,6042
+CO,Electric Power - Solar Farms (Large),RMS IND,6043
+CO,Natural Gas,RMS IND,7001
+CO,Food & Beverage,RMS IND,7011
+CO,Data Processing/Telecommunications,RMS IND,7021
+CO,Communications,RMS IND,7031
+CO,Ports & Harbors,RMS IND,7041
+CO,"Dams, Reservoirs only",RMS IND,7051
+CO,Water/Sewage treatment plants,RMS IND,7061
+CO,Outdoor Mechanical,RMS IND,7071
+CO,Airport (Small),RMS IND,7081
+CO,Airport (Mid),RMS IND,7082
+CO,Airport (Large),RMS IND,7083
+CR,Heavy Industrial - Mining,RMS IND,1001
+CR,Heavy Industrial - Cement,RMS IND,1011
+CR,Heavy Industrial - Steel,RMS IND,1021
+CR,Heavy Industrial - Pulp & Paper,RMS IND,1031
+CR,Heavy Industrial - Glass,RMS IND,1041
+CR,Heavy Industrial - General,RMS IND,1051
+CR,Chemical Processing - Primarily Outdoor,RMS IND,2001
+CR,Chemical Processing - Primarily Indoor,RMS IND,2011
+CR,Light Industrial - Electronics,RMS IND,3001
+CR,Light Industrial - Pharmaceutical,RMS IND,3011
+CR,Light Industrial - Biomedical,RMS IND,3021
+CR,Light Industrial - Semiconductor,RMS IND,3031
+CR,Light Industrial - General Assembly,RMS IND,3041
+CR,Light Industrial - General Manufacturing,RMS IND,3051
+CR,Light Industrial - Technological Risk,RMS IND,3061
+CR,Petrochemical - Refineries,RMS IND,4001
+CR,Petrochemical - Pipelines,RMS IND,4011
+CR,Petrochemical - Pipelines Below Ground,RMS IND,4021
+CR,Petrochemical - Tank Farms,RMS IND,4031
+CR,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+CR,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+CR,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+CR,Electric Power Generation - Hydroelectric,RMS IND,5011
+CR,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+CR,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+CR,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+CR,Electric Power Generation - Gas Power (Small),RMS IND,5031
+CR,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+CR,Electric Power Generation - Gas Power (Large),RMS IND,5033
+CR,Electric Power - T&D,RMS IND,6001
+CR,Electric Power - Substations (Small),RMS IND,6011
+CR,Electric Power - Substations (Mid),RMS IND,6012
+CR,Electric Power - Substations (Large),RMS IND,6013
+CR,Electric Power - Nuclear Power Plant,RMS IND,6021
+CR,Electric Power - Wind Farms (Small),RMS IND,6031
+CR,Electric Power - Wind Farms (Mid),RMS IND,6032
+CR,Electric Power - Wind Farms (Large),RMS IND,6033
+CR,Electric Power - Solar Farms (Small),RMS IND,6041
+CR,Electric Power - Solar Farms (Mid),RMS IND,6042
+CR,Electric Power - Solar Farms (Large),RMS IND,6043
+CR,Natural Gas,RMS IND,7001
+CR,Food & Beverage,RMS IND,7011
+CR,Data Processing/Telecommunications,RMS IND,7021
+CR,Communications,RMS IND,7031
+CR,Ports & Harbors,RMS IND,7041
+CR,"Dams, Reservoirs only",RMS IND,7051
+CR,Water/Sewage treatment plants,RMS IND,7061
+CR,Outdoor Mechanical ,RMS IND,7071
+CR,Airport (Small),RMS IND,7081
+CR,Airport (Mid),RMS IND,7082
+CR,Airport (Large),RMS IND,7083
+CZ,Heavy Industrial - Mining,RMS IND,1001
+CZ,Heavy Industrial - Cement,RMS IND,1011
+CZ,Heavy Industrial - Steel,RMS IND,1021
+CZ,Heavy Industrial - Pulp & Paper,RMS IND,1031
+CZ,Heavy Industrial - Glass,RMS IND,1041
+CZ,Heavy Industrial - General,RMS IND,1051
+CZ,Chemical Processing - Primarily Outdoor,RMS IND,2001
+CZ,Chemical Processing - Primarily Indoor,RMS IND,2011
+CZ,Light Industrial - Electronics,RMS IND,3001
+CZ,Light Industrial - Pharmaceutical,RMS IND,3011
+CZ,Light Industrial - Biomedical,RMS IND,3021
+CZ,Light Industrial - Semiconductor,RMS IND,3031
+CZ,Light Industrial - General Assembly,RMS IND,3041
+CZ,Light Industrial - General Manufacturing,RMS IND,3051
+CZ,Light Industrial - Technological Risk,RMS IND,3061
+CZ,Petrochemical - Refineries,RMS IND,4001
+CZ,Petrochemical - Pipelines,RMS IND,4011
+CZ,Petrochemical - Pipelines below ground,RMS IND,4021
+CZ,Petrochemical - Tank farms,RMS IND,4031
+CZ,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+CZ,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+CZ,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+CZ,Electric Power Generation - Hydroelectric,RMS IND,5011
+CZ,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+CZ,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+CZ,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+CZ,Electric Power Generation - Gas Power (Small),RMS IND,5031
+CZ,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+CZ,Electric Power Generation - Gas Power (Large),RMS IND,5033
+CZ,Electric Power - T&D,RMS IND,6001
+CZ,Electric Power - Substations (Small),RMS IND,6011
+CZ,Electric Power - Substations (Mid),RMS IND,6012
+CZ,Electric Power - Substations (Large),RMS IND,6013
+CZ,Electric Power - Nuclear power plant,RMS IND,6021
+CZ,Electric Power - Wind Farms (Small),RMS IND,6031
+CZ,Electric Power - Wind Farms (Mid),RMS IND,6032
+CZ,Electric Power - Wind Farms (Large),RMS IND,6033
+CZ,Electric Power - Solar Farms (Small),RMS IND,6041
+CZ,Electric Power - Solar Farms (Mid),RMS IND,6042
+CZ,Electric Power - Solar Farms (Large),RMS IND,6043
+CZ,Natural Gas,RMS IND,7001
+CZ,Food & Beverage,RMS IND,7011
+CZ,Data Processing/Telecommunications,RMS IND,7021
+CZ,Communications,RMS IND,7031
+CZ,Ports & Harbors,RMS IND,7041
+CZ,"Dams, Reservoirs only",RMS IND,7051
+CZ,Water/Sewage treatment plants,RMS IND,7061
+CZ,Mechanical,RMS IND,7071
+CZ,Airport (Small),RMS IND,7081
+CZ,Airport (Mid),RMS IND,7082
+CZ,Airport (Large),RMS IND,7083
+DE,Heavy Industrial - Mining,RMS IND,1001
+DE,Heavy Industrial - Cement,RMS IND,1011
+DE,Heavy Industrial - Steel,RMS IND,1021
+DE,Heavy Industrial - Pulp & Paper,RMS IND,1031
+DE,Heavy Industrial - Glass,RMS IND,1041
+DE,Heavy Industrial - General,RMS IND,1051
+DE,Chemical Processing - Primarily Outdoor,RMS IND,2001
+DE,Chemical Processing - Primarily Indoor,RMS IND,2011
+DE,Light Industrial - Electronics,RMS IND,3001
+DE,Light Industrial - Pharmaceutical,RMS IND,3011
+DE,Light Industrial - Biomedical,RMS IND,3021
+DE,Light Industrial - Semiconductor,RMS IND,3031
+DE,Light Industrial - General Assembly,RMS IND,3041
+DE,Light Industrial - General Manufacturing,RMS IND,3051
+DE,Light Industrial - Technological Risk,RMS IND,3061
+DE,Petrochemical - Refineries,RMS IND,4001
+DE,Petrochemical - Pipelines,RMS IND,4011
+DE,Petrochemical - Pipelines below ground,RMS IND,4021
+DE,Petrochemical - Tank farms,RMS IND,4031
+DE,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+DE,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+DE,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+DE,Electric Power Generation - Hydroelectric,RMS IND,5011
+DE,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+DE,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+DE,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+DE,Electric Power Generation - Gas Power (Small),RMS IND,5031
+DE,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+DE,Electric Power Generation - Gas Power (Large),RMS IND,5033
+DE,Electric Power - T&D,RMS IND,6001
+DE,Electric Power - Substations (Small),RMS IND,6011
+DE,Electric Power - Substations (Mid),RMS IND,6012
+DE,Electric Power - Substations (Large),RMS IND,6013
+DE,Electric Power - Nuclear power plant,RMS IND,6021
+DE,Electric Power - Wind Farms (Small),RMS IND,6031
+DE,Electric Power - Wind Farms (Mid),RMS IND,6032
+DE,Electric Power - Wind Farms (Large),RMS IND,6033
+DE,Electric Power - Solar Farms (Small),RMS IND,6041
+DE,Electric Power - Solar Farms (Mid),RMS IND,6042
+DE,Electric Power - Solar Farms (Large),RMS IND,6043
+DE,Natural Gas,RMS IND,7001
+DE,Food & Beverage,RMS IND,7011
+DE,Data Processing/Telecommunications,RMS IND,7021
+DE,Communications,RMS IND,7031
+DE,Ports & Harbors,RMS IND,7041
+DE,"Dams, Reservoirs only",RMS IND,7051
+DE,Water/Sewage treatment plants,RMS IND,7061
+DE,Outdoor Mechanical ,RMS IND,7071
+DE,Airport (Small),RMS IND,7081
+DE,Airport (Mid),RMS IND,7082
+DE,Airport (Large),RMS IND,7083
+DK,Heavy Industrial - Mining,RMS IND,1001
+DK,Heavy Industrial - Cement,RMS IND,1011
+DK,Heavy Industrial - Steel,RMS IND,1021
+DK,Heavy Industrial - Pulp & Paper,RMS IND,1031
+DK,Heavy Industrial - Glass,RMS IND,1041
+DK,Heavy Industrial - General,RMS IND,1051
+DK,Chemical Processing - Primarily Outdoor,RMS IND,2001
+DK,Chemical Processing - Primarily Indoor,RMS IND,2011
+DK,Light Industrial - Electronics,RMS IND,3001
+DK,Light Industrial - Pharmaceutical,RMS IND,3011
+DK,Light Industrial - Biomedical,RMS IND,3021
+DK,Light Industrial - Semiconductor,RMS IND,3031
+DK,Light Industrial - General Assembly,RMS IND,3041
+DK,Light Industrial - General Manufacturing,RMS IND,3051
+DK,Light Industrial - Technological Risk,RMS IND,3061
+DK,Petrochemical - Refineries,RMS IND,4001
+DK,Petrochemical - Pipelines,RMS IND,4011
+DK,Petrochemical - Pipelines below ground,RMS IND,4021
+DK,Petrochemical - Tank farms,RMS IND,4031
+DK,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+DK,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+DK,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+DK,Electric Power Generation - Hydroelectric,RMS IND,5011
+DK,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+DK,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+DK,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+DK,Electric Power Generation - Gas Power (Small),RMS IND,5031
+DK,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+DK,Electric Power Generation - Gas Power (Large),RMS IND,5033
+DK,Electric Power - T&D,RMS IND,6001
+DK,Electric Power - Substations (Small),RMS IND,6011
+DK,Electric Power - Substations (Mid),RMS IND,6012
+DK,Electric Power - Substations (Large),RMS IND,6013
+DK,Electric Power - Nuclear power plant,RMS IND,6021
+DK,Electric Power - Wind Farms (Small),RMS IND,6031
+DK,Electric Power - Wind Farms (Mid),RMS IND,6032
+DK,Electric Power - Wind Farms (Large),RMS IND,6033
+DK,Electric Power - Solar Farms (Small),RMS IND,6041
+DK,Electric Power - Solar Farms (Mid),RMS IND,6042
+DK,Electric Power - Solar Farms (Large),RMS IND,6043
+DK,Natural Gas,RMS IND,7001
+DK,Food & Beverage,RMS IND,7011
+DK,Data Processing/Telecommunications,RMS IND,7021
+DK,Communications,RMS IND,7031
+DK,Ports & Harbors,RMS IND,7041
+DK,"Dams, Reservoirs only",RMS IND,7051
+DK,Water/Sewage treatment plants,RMS IND,7061
+DK,Mechanical,RMS IND,7071
+DK,Airport (Small),RMS IND,7081
+DK,Airport (Mid),RMS IND,7082
+DK,Airport (Large),RMS IND,7083
+EC,Heavy Industrial - Mining,RMS IND,1001
+EC,Heavy Industrial - Cement,RMS IND,1011
+EC,Heavy Industrial - Steel,RMS IND,1021
+EC,Heavy Industrial - Pulp & Paper,RMS IND,1031
+EC,Heavy Industrial - Glass,RMS IND,1041
+EC,Heavy Industrial - General,RMS IND,1051
+EC,Chemical Processing - Primarily Outdoor,RMS IND,2001
+EC,Chemical Processing - Primarily Indoor,RMS IND,2011
+EC,Light Industrial - Electronics,RMS IND,3001
+EC,Light Industrial - Pharmaceutical,RMS IND,3011
+EC,Light Industrial - Biomedical,RMS IND,3021
+EC,Light Industrial - Semiconductor,RMS IND,3031
+EC,Light Industrial - General Assembly,RMS IND,3041
+EC,Light Industrial - General Manufacturing,RMS IND,3051
+EC,Light Industrial - Technological Risk,RMS IND,3061
+EC,Petrochemical - Refineries,RMS IND,4001
+EC,Petrochemical - Pipelines,RMS IND,4011
+EC,Petrochemical - Pipelines below ground,RMS IND,4021
+EC,Petrochemical - Tank farms,RMS IND,4031
+EC,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+EC,Electric Power Generation - Fossil Fuel (Mid),RMS IND,5002
+EC,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+EC,Electric Power Generation - Hydroelectric,RMS IND,5011
+EC,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+EC,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+EC,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+EC,Electric Power Generation - Gas Power (Small),RMS IND,5031
+EC,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+EC,Electric Power Generation - Gas Power (Large),RMS IND,5033
+EC,Electric Power - T&D,RMS IND,6001
+EC,Electric Power - Substations (Small),RMS IND,6011
+EC,Electric Power - Substations (Mid),RMS IND,6012
+EC,Electric Power - Substations (Large),RMS IND,6013
+EC,Electric Power - Nuclear power plant,RMS IND,6021
+EC,Electric Power - Wind Farms (Small),RMS IND,6031
+EC,Electric Power - Wind Farms (Mid),RMS IND,6032
+EC,Electric Power - Wind Farms (Large),RMS IND,6033
+EC,Electric Power - Solar Farms (Small),RMS IND,6041
+EC,Electric Power - Solar Farms (Mid),RMS IND,6042
+EC,Electric Power - Solar Farms (Large),RMS IND,6043
+EC,Natural Gas,RMS IND,7001
+EC,Food & Beverage,RMS IND,7011
+EC,Data Processing/Telecommunications,RMS IND,7021
+EC,Communications,RMS IND,7031
+EC,Ports & Harbors,RMS IND,7041
+EC,"Dams, Reservoirs only",RMS IND,7051
+EC,Water/Sewage treatment plants,RMS IND,7061
+EC,Outdoor Mechanical,RMS IND,7071
+EC,Airport (Small),RMS IND,7081
+EC,Airport (Mid),RMS IND,7082
+EC,Airport (Large),RMS IND,7083
+ES,Heavy Industrial - Mining,RMS IND,1001
+ES,Heavy Industrial - Cement,RMS IND,1011
+ES,Heavy Industrial - Steel,RMS IND,1021
+ES,Heavy Industrial - Pulp & Paper,RMS IND,1031
+ES,Heavy Industrial - Glass,RMS IND,1041
+ES,Heavy Industrial - General,RMS IND,1051
+ES,Chemical Processing - Primarily Outdoor,RMS IND,2001
+ES,Chemical Processing - Primarily Indoor,RMS IND,2011
+ES,Light Industrial - Electronics,RMS IND,3001
+ES,Light Industrial - Pharmaceutical,RMS IND,3011
+ES,Light Industrial - Biomedical,RMS IND,3021
+ES,Light Industrial - Semiconductor,RMS IND,3031
+ES,Light Industrial - General Assembly,RMS IND,3041
+ES,Light Industrial - General Manufacturing,RMS IND,3051
+ES,Light Industrial - Technological Risk,RMS IND,3061
+ES,Petrochemical - Refineries,RMS IND,4001
+ES,Petrochemical - Pipelines,RMS IND,4011
+ES,Petrochemical - Pipelines below ground,RMS IND,4021
+ES,Petrochemical - Tank farms,RMS IND,4031
+ES,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+ES,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+ES,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+ES,Electric Power Generation - Hydroelectric,RMS IND,5011
+ES,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+ES,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+ES,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+ES,Electric Power Generation - Gas Power (Small),RMS IND,5031
+ES,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+ES,Electric Power Generation - Gas Power (Large),RMS IND,5033
+ES,Electric Power - T&D,RMS IND,6001
+ES,Electric Power - Substations (Small),RMS IND,6011
+ES,Electric Power - Substations (Mid),RMS IND,6012
+ES,Electric Power - Substations (Large),RMS IND,6013
+ES,Electric Power - Nuclear power plant,RMS IND,6021
+ES,Electric Power - Wind Farms (Small),RMS IND,6031
+ES,Electric Power - Wind Farms (Mid),RMS IND,6032
+ES,Electric Power - Wind Farms (Large),RMS IND,6033
+ES,Electric Power - Solar Farms (Small),RMS IND,6041
+ES,Electric Power - Solar Farms (Mid),RMS IND,6042
+ES,Electric Power - Solar Farms (Large),RMS IND,6043
+ES,Natural Gas,RMS IND,7001
+ES,Food & Beverage,RMS IND,7011
+ES,Data Processing/Telecommunications,RMS IND,7021
+ES,Communications,RMS IND,7031
+ES,Ports & Harbors,RMS IND,7041
+ES,"Dams, Reservoirs only",RMS IND,7051
+ES,Water/Sewage treatment plants,RMS IND,7061
+ES,Mechanical,RMS IND,7071
+ES,Airport (Small),RMS IND,7081
+ES,Airport (Mid),RMS IND,7082
+ES,Airport (Large),RMS IND,7083
+FR,Heavy Industrial - Mining,RMS IND,1001
+FR,Heavy Industrial - Cement,RMS IND,1011
+FR,Heavy Industrial - Steel,RMS IND,1021
+FR,Heavy Industrial - Pulp & Paper,RMS IND,1031
+FR,Heavy Industrial - Glass,RMS IND,1041
+FR,Heavy Industrial - General,RMS IND,1051
+FR,Chemical Processing - Primarily Outdoor,RMS IND,2001
+FR,Chemical Processing - Primarily Indoor,RMS IND,2011
+FR,Light Industrial - Electronics,RMS IND,3001
+FR,Light Industrial - Pharmaceutical,RMS IND,3011
+FR,Light Industrial - Biomedical,RMS IND,3021
+FR,Light Industrial - Semiconductor,RMS IND,3031
+FR,Light Industrial - General Assembly,RMS IND,3041
+FR,Light Industrial - General Manufacturing,RMS IND,3051
+FR,Light Industrial - Technological Risk,RMS IND,3061
+FR,Petrochemical - Refineries,RMS IND,4001
+FR,Petrochemical - Pipelines,RMS IND,4011
+FR,Petrochemical - Pipelines below ground,RMS IND,4021
+FR,Petrochemical - Tank farms,RMS IND,4031
+FR,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+FR,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+FR,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+FR,Electric Power Generation - Hydroelectric,RMS IND,5011
+FR,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+FR,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+FR,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+FR,Electric Power Generation - Gas Power (Small),RMS IND,5031
+FR,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+FR,Electric Power Generation - Gas Power (Large),RMS IND,5033
+FR,Electric Power - T&D,RMS IND,6001
+FR,Electric Power - Substations (Small),RMS IND,6011
+FR,Electric Power - Substations (Mid),RMS IND,6012
+FR,Electric Power - Substations (Large),RMS IND,6013
+FR,Electric Power - Nuclear power plant,RMS IND,6021
+FR,Electric Power - Wind Farms (Small),RMS IND,6031
+FR,Electric Power - Wind Farms (Mid),RMS IND,6032
+FR,Electric Power - Wind Farms (Large),RMS IND,6033
+FR,Electric Power - Solar Farms (Small),RMS IND,6041
+FR,Electric Power - Solar Farms (Mid),RMS IND,6042
+FR,Electric Power - Solar Farms (Large),RMS IND,6043
+FR,Natural Gas,RMS IND,7001
+FR,Food & Beverage,RMS IND,7011
+FR,Data Processing/Telecommunications,RMS IND,7021
+FR,Communications,RMS IND,7031
+FR,Ports & Harbors,RMS IND,7041
+FR,"Dams, Reservoirs only",RMS IND,7051
+FR,Water/Sewage treatment plants,RMS IND,7061
+FR,Mechanical,RMS IND,7071
+FR,Airport (Small),RMS IND,7081
+FR,Airport (Mid),RMS IND,7082
+FR,Airport (Large),RMS IND,7083
+GB,Heavy Industrial - Mining,RMS IND,1001
+GB,Heavy Industrial - Cement,RMS IND,1011
+GB,Heavy Industrial - Steel,RMS IND,1021
+GB,Heavy Industrial - Pulp & Paper,RMS IND,1031
+GB,Heavy Industrial - Glass,RMS IND,1041
+GB,Heavy Industrial - General,RMS IND,1051
+GB,Chemical Processing - Primarily Outdoor,RMS IND,2001
+GB,Chemical Processing - Primarily Indoor,RMS IND,2011
+GB,Light Industrial - Electronics,RMS IND,3001
+GB,Light Industrial - Pharmaceutical,RMS IND,3011
+GB,Light Industrial - Biomedical,RMS IND,3021
+GB,Light Industrial - Semiconductor,RMS IND,3031
+GB,Light Industrial - General Assembly,RMS IND,3041
+GB,Light Industrial - General Manufacturing,RMS IND,3051
+GB,Light Industrial - Technological Risk,RMS IND,3061
+GB,Petrochemical - Refineries,RMS IND,4001
+GB,Petrochemical - Pipelines,RMS IND,4011
+GB,Petrochemical - Pipelines below ground,RMS IND,4021
+GB,Petrochemical - Tank farms,RMS IND,4031
+GB,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+GB,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+GB,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+GB,Electric Power Generation - Hydroelectric,RMS IND,5011
+GB,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+GB,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+GB,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+GB,Electric Power Generation - Gas Power (Small),RMS IND,5031
+GB,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+GB,Electric Power Generation - Gas Power (Large),RMS IND,5033
+GB,Electric Power - T&D,RMS IND,6001
+GB,Electric Power - Substations (Small),RMS IND,6011
+GB,Electric Power - Substations (Mid),RMS IND,6012
+GB,Electric Power - Substations (Large),RMS IND,6013
+GB,Electric Power - Nuclear power plant,RMS IND,6021
+GB,Electric Power - Wind Farms (Small),RMS IND,6031
+GB,Electric Power - Wind Farms (Mid),RMS IND,6032
+GB,Electric Power - Wind Farms (Large),RMS IND,6033
+GB,Electric Power - Solar Farms (Small),RMS IND,6041
+GB,Electric Power - Solar Farms (Mid),RMS IND,6042
+GB,Electric Power - Solar Farms (Large),RMS IND,6043
+GB,Natural Gas,RMS IND,7001
+GB,Food & Beverage,RMS IND,7011
+GB,Data Processing/Telecommunications,RMS IND,7021
+GB,Communications,RMS IND,7031
+GB,Ports & Harbors,RMS IND,7041
+GB,"Dams, Reservoirs only",RMS IND,7051
+GB,Water/Sewage treatment plants,RMS IND,7061
+GB,Outdoor Mechanical ,RMS IND,7071
+GB,Airport (Small),RMS IND,7081
+GB,Airport (Mid),RMS IND,7082
+GB,Airport (Large),RMS IND,7083
+GR,Heavy Industrial - Mining,RMS IND,1001
+GR,Heavy Industrial - Cement,RMS IND,1011
+GR,Heavy Industrial - Steel,RMS IND,1021
+GR,Heavy Industrial - Pulp & Paper,RMS IND,1031
+GR,Heavy Industrial - Glass,RMS IND,1041
+GR,Heavy Industrial - General,RMS IND,1051
+GR,Chemical Processing - Primarily Outdoor,RMS IND,2001
+GR,Chemical Processing - Primarily Indoor,RMS IND,2011
+GR,Light Industrial - Electronics,RMS IND,3001
+GR,Light Industrial - Pharmaceutical,RMS IND,3011
+GR,Light Industrial - Biomedical,RMS IND,3021
+GR,Light Industrial - Semiconductor,RMS IND,3031
+GR,Light Industrial - General Assembly,RMS IND,3041
+GR,Light Industrial - General Manufacturing,RMS IND,3051
+GR,Light Industrial - Technological Risk,RMS IND,3061
+GR,Petrochemical - Refineries,RMS IND,4001
+GR,Petrochemical - Pipelines,RMS IND,4011
+GR,Petrochemical - Pipelines below ground,RMS IND,4021
+GR,Petrochemical - Tank farms,RMS IND,4031
+GR,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+GR,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+GR,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+GR,Electric Power Generation - Hydroelectric,RMS IND,5011
+GR,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+GR,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+GR,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+GR,Electric Power Generation - Gas Power (Small),RMS IND,5031
+GR,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+GR,Electric Power Generation - Gas Power (Large),RMS IND,5033
+GR,Electric Power - T&D,RMS IND,6001
+GR,Electric Power - Substations (Small),RMS IND,6011
+GR,Electric Power - Substations (Mid),RMS IND,6012
+GR,Electric Power - Substations (Large),RMS IND,6013
+GR,Electric Power - Nuclear power plant,RMS IND,6021
+GR,Electric Power - Wind Farms (Small),RMS IND,6031
+GR,Electric Power - Wind Farms (Mid),RMS IND,6032
+GR,Electric Power - Wind Farms (Large),RMS IND,6033
+GR,Electric Power - Solar Farms (Small),RMS IND,6041
+GR,Electric Power - Solar Farms (Mid),RMS IND,6042
+GR,Electric Power - Solar Farms (Large),RMS IND,6043
+GR,Natural Gas,RMS IND,7001
+GR,Food & Beverage,RMS IND,7011
+GR,Data Processing/Telecommunications,RMS IND,7021
+GR,Communications,RMS IND,7031
+GR,Ports & Harbors,RMS IND,7041
+GR,"Dams, Reservoirs only",RMS IND,7051
+GR,Water/Sewage treatment plants,RMS IND,7061
+GR,Mechanical,RMS IND,7071
+GR,Airport (Small),RMS IND,7081
+GR,Airport (Mid),RMS IND,7082
+GR,Airport (Large),RMS IND,7083
+GT,Heavy Industrial - Mining,RMS IND,1001
+GT,Heavy Industrial - Cement,RMS IND,1011
+GT,Heavy Industrial - Steel,RMS IND,1021
+GT,Heavy Industrial - Pulp & Paper,RMS IND,1031
+GT,Heavy Industrial - Glass,RMS IND,1041
+GT,Heavy Industrial - General,RMS IND,1051
+GT,Chemical Processing - Primarily Outdoor,RMS IND,2001
+GT,Chemical Processing - Primarily Indoor,RMS IND,2011
+GT,Light Industrial - Electronics,RMS IND,3001
+GT,Light Industrial - Pharmaceutical,RMS IND,3011
+GT,Light Industrial - Biomedical,RMS IND,3021
+GT,Light Industrial - Semiconductor,RMS IND,3031
+GT,Light Industrial - General Assembly,RMS IND,3041
+GT,Light Industrial - General Manufacturing,RMS IND,3051
+GT,Light Industrial - Technological Risk,RMS IND,3061
+GT,Petrochemical - Refineries,RMS IND,4001
+GT,Petrochemical - Pipelines,RMS IND,4011
+GT,Petrochemical - Pipelines Below Ground,RMS IND,4021
+GT,Petrochemical - Tank Farms,RMS IND,4031
+GT,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+GT,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+GT,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+GT,Electric Power Generation - Hydroelectric,RMS IND,5011
+GT,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+GT,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+GT,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+GT,Electric Power Generation - Gas Power (Small),RMS IND,5031
+GT,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+GT,Electric Power Generation - Gas Power (Large),RMS IND,5033
+GT,Electric Power - T&D,RMS IND,6001
+GT,Electric Power - Substations (Small),RMS IND,6011
+GT,Electric Power - Substations (Mid),RMS IND,6012
+GT,Electric Power - Substations (Large),RMS IND,6013
+GT,Electric Power - Nuclear Power Plant,RMS IND,6021
+GT,Electric Power - Wind Farms (Small),RMS IND,6031
+GT,Electric Power - Wind Farms (Mid),RMS IND,6032
+GT,Electric Power - Wind Farms (Large),RMS IND,6033
+GT,Electric Power - Solar Farms (Small),RMS IND,6041
+GT,Electric Power - Solar Farms (Mid),RMS IND,6042
+GT,Electric Power - Solar Farms (Large),RMS IND,6043
+GT,Natural Gas,RMS IND,7001
+GT,Food & Beverage,RMS IND,7011
+GT,Data Processing/Telecommunications,RMS IND,7021
+GT,Communications,RMS IND,7031
+GT,Ports & Harbors,RMS IND,7041
+GT,"Dams, Reservoirs only",RMS IND,7051
+GT,Water/Sewage treatment plants,RMS IND,7061
+GT,Outdoor Mechanical ,RMS IND,7071
+GT,Airport (Small),RMS IND,7081
+GT,Airport (Mid),RMS IND,7082
+GT,Airport (Large),RMS IND,7083
+GU,Heavy Industrial - Mining,RMS IND,1
+GU,Light Industrial - Pharmaceutical,RMS IND,10
+GU,Light Industrial - Biomedical,RMS IND,11
+GU,Light Industrial - Semiconductor,RMS IND,12
+GU,Light Industrial - General Assembly,RMS IND,13
+GU,Light Industrial - General Manufacturing,RMS IND,14
+GU,Petrochemical - Refineries,RMS IND,15
+GU,Petrochemical - Pipelines,RMS IND,16
+GU,Electric Power Generation - Fossil Fuel,RMS IND,17
+GU,Electric Power Generation - Hydroelectric,RMS IND,18
+GU,Electric Power Generation - Co-Generation,RMS IND,19
+GU,Heavy Industrial - Cement,RMS IND,2
+GU,Electric Power - T&D,RMS IND,20
+GU,Electric Power - Substations,RMS IND,21
+GU,Natural Gas,RMS IND,22
+GU,Food & Beverage,RMS IND,23
+GU,Data Processing/Telecommunications,RMS IND,24
+GU,Communications,RMS IND,25
+GU,Ports & Harbors,RMS IND,26
+GU,Airport,RMS IND,27
+GU,Heavy Industrial - Steel,RMS IND,3
+GU,Heavy Industrial - Pulp & Paper,RMS IND,4
+GU,Heavy Industrial - Glass,RMS IND,5
+GU,Heavy Industrial - General,RMS IND,6
+GU,Chemical Processing - Primarily Outdoor,RMS IND,7
+GU,Chemical Processing - Primarily Indoor,RMS IND,8
+GU,Light Industrial - Electronics,RMS IND,9
+HK,Heavy Industrial - Mining,RMS IND,1001
+HK,Heavy Industrial - Cement,RMS IND,1011
+HK,Heavy Industrial - Steel,RMS IND,1021
+HK,Heavy Industrial - Pulp & Paper,RMS IND,1031
+HK,Heavy Industrial - Glass,RMS IND,1041
+HK,Heavy Industrial - General,RMS IND,1051
+HK,Chemical Processing - Primarily Outdoor,RMS IND,2001
+HK,Chemical Processing - Primarily Indoor,RMS IND,2011
+HK,Light Industrial - Electronics,RMS IND,3001
+HK,Light Industrial - Pharmaceutical,RMS IND,3011
+HK,Light Industrial - Biomedical,RMS IND,3021
+HK,Light Industrial - Semiconductor,RMS IND,3031
+HK,Light Industrial - General Assembly,RMS IND,3041
+HK,Light Industrial - General Manufacturing,RMS IND,3051
+HK,Light Industrial - Technological Risk,RMS IND,3061
+HK,Petrochemical - Refineries,RMS IND,4001
+HK,Petrochemical - Pipelines,RMS IND,4011
+HK,Petrochemical - Pipelines Below Ground,RMS IND,4021
+HK,Petrochemical - Tank Farms,RMS IND,4031
+HK,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+HK,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+HK,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+HK,Electric Power Generation - Hydroelectric,RMS IND,5011
+HK,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+HK,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+HK,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+HK,Electric Power Generation - Gas Power (Small),RMS IND,5031
+HK,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+HK,Electric Power Generation - Gas Power (Large),RMS IND,5033
+HK,Electric Power - T&D,RMS IND,6001
+HK,Electric Power - Substations (Small),RMS IND,6011
+HK,Electric Power - Substations (Mid),RMS IND,6012
+HK,Electric Power - Substations (Large),RMS IND,6013
+HK,Electric Power - Nuclear Power Plant,RMS IND,6021
+HK,Electric Power - Wind Farms (Small),RMS IND,6031
+HK,Electric Power - Wind Farms (Mid),RMS IND,6032
+HK,Electric Power - Wind Farms (Large),RMS IND,6033
+HK,Electric Power - Solar Farms (Small),RMS IND,6041
+HK,Electric Power - Solar Farms (Mid),RMS IND,6042
+HK,Electric Power - Solar Farms (Large),RMS IND,6043
+HK,Natural Gas,RMS IND,7001
+HK,Food & Beverage,RMS IND,7011
+HK,Data Processing/Telecommunications,RMS IND,7021
+HK,Communications,RMS IND,7031
+HK,Ports & Harbors,RMS IND,7041
+HK,"Dams, Reservoirs only",RMS IND,7051
+HK,Water/Sewage treatment plants,RMS IND,7061
+HK,Outdoor Mechanical ,RMS IND,7071
+HK,Airport (Small),RMS IND,7081
+HK,Airport (Mid),RMS IND,7082
+HK,Airport (Large),RMS IND,7083
+HN,Heavy Industrial - Mining,RMS IND,1001
+HN,Heavy Industrial - Cement,RMS IND,1011
+HN,Heavy Industrial - Steel,RMS IND,1021
+HN,Heavy Industrial - Pulp & Paper,RMS IND,1031
+HN,Heavy Industrial - Glass,RMS IND,1041
+HN,Heavy Industrial - General,RMS IND,1051
+HN,Chemical Processing - Primarily Outdoor,RMS IND,2001
+HN,Chemical Processing - Primarily Indoor,RMS IND,2011
+HN,Light Industrial - Electronics,RMS IND,3001
+HN,Light Industrial - Pharmaceutical,RMS IND,3011
+HN,Light Industrial - Biomedical,RMS IND,3021
+HN,Light Industrial - Semiconductor,RMS IND,3031
+HN,Light Industrial - General Assembly,RMS IND,3041
+HN,Light Industrial - General Manufacturing,RMS IND,3051
+HN,Light Industrial - Technological Risk,RMS IND,3061
+HN,Petrochemical - Refineries,RMS IND,4001
+HN,Petrochemical - Pipelines,RMS IND,4011
+HN,Petrochemical - Pipelines Below Ground,RMS IND,4021
+HN,Petrochemical - Tank Farms,RMS IND,4031
+HN,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+HN,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+HN,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+HN,Electric Power Generation - Hydroelectric,RMS IND,5011
+HN,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+HN,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+HN,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+HN,Electric Power Generation - Gas Power (Small),RMS IND,5031
+HN,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+HN,Electric Power Generation - Gas Power (Large),RMS IND,5033
+HN,Electric Power - T&D,RMS IND,6001
+HN,Electric Power - Substations (Small),RMS IND,6011
+HN,Electric Power - Substations (Mid),RMS IND,6012
+HN,Electric Power - Substations (Large),RMS IND,6013
+HN,Electric Power - Nuclear Power Plant,RMS IND,6021
+HN,Electric Power - Wind Farms (Small),RMS IND,6031
+HN,Electric Power - Wind Farms (Mid),RMS IND,6032
+HN,Electric Power - Wind Farms (Large),RMS IND,6033
+HN,Electric Power - Solar Farms (Small),RMS IND,6041
+HN,Electric Power - Solar Farms (Mid),RMS IND,6042
+HN,Electric Power - Solar Farms (Large),RMS IND,6043
+HN,Natural Gas,RMS IND,7001
+HN,Food & Beverage,RMS IND,7011
+HN,Data Processing/Telecommunications,RMS IND,7021
+HN,Communications,RMS IND,7031
+HN,Ports & Harbors,RMS IND,7041
+HN,"Dams, Reservoirs only",RMS IND,7051
+HN,Water/Sewage treatment plants,RMS IND,7061
+HN,Outdoor Mechanical ,RMS IND,7071
+HN,Airport (Small),RMS IND,7081
+HN,Airport (Mid),RMS IND,7082
+HN,Airport (Large),RMS IND,7083
+HU,Heavy Industrial - Mining,RMS IND,1001
+HU,Heavy Industrial - Cement,RMS IND,1011
+HU,Heavy Industrial - Steel,RMS IND,1021
+HU,Heavy Industrial - Pulp & Paper,RMS IND,1031
+HU,Heavy Industrial - Glass,RMS IND,1041
+HU,Heavy Industrial - General,RMS IND,1051
+HU,Chemical Processing - Primarily Outdoor,RMS IND,2001
+HU,Chemical Processing - Primarily Indoor,RMS IND,2011
+HU,Light Industrial - Electronics,RMS IND,3001
+HU,Light Industrial - Pharmaceutical,RMS IND,3011
+HU,Light Industrial - Biomedical,RMS IND,3021
+HU,Light Industrial - Semiconductor,RMS IND,3031
+HU,Light Industrial - General Assembly,RMS IND,3041
+HU,Light Industrial - General Manufacturing,RMS IND,3051
+HU,Light Industrial - Technological Risk,RMS IND,3061
+HU,Petrochemical - Refineries,RMS IND,4001
+HU,Petrochemical - Pipelines,RMS IND,4011
+HU,Petrochemical - Pipelines below ground,RMS IND,4021
+HU,Petrochemical - Tank farms,RMS IND,4031
+HU,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+HU,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+HU,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+HU,Electric Power Generation - Hydroelectric,RMS IND,5011
+HU,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+HU,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+HU,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+HU,Electric Power Generation - Gas Power (Small),RMS IND,5031
+HU,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+HU,Electric Power Generation - Gas Power (Large),RMS IND,5033
+HU,Electric Power - T&D,RMS IND,6001
+HU,Electric Power - Substations (Small),RMS IND,6011
+HU,Electric Power - Substations (Mid),RMS IND,6012
+HU,Electric Power - Substations (Large),RMS IND,6013
+HU,Electric Power - Nuclear power plant,RMS IND,6021
+HU,Electric Power - Wind Farms (Small),RMS IND,6031
+HU,Electric Power - Wind Farms (Mid),RMS IND,6032
+HU,Electric Power - Wind Farms (Large),RMS IND,6033
+HU,Electric Power - Solar Farms (Small),RMS IND,6041
+HU,Electric Power - Solar Farms (Mid),RMS IND,6042
+HU,Electric Power - Solar Farms (Large),RMS IND,6043
+HU,Natural Gas,RMS IND,7001
+HU,Food & Beverage,RMS IND,7011
+HU,Data Processing/Telecommunications,RMS IND,7021
+HU,Communications,RMS IND,7031
+HU,Ports & Harbors,RMS IND,7041
+HU,"Dams, Reservoirs only",RMS IND,7051
+HU,Water/Sewage treatment plants,RMS IND,7061
+HU,Mechanical,RMS IND,7071
+HU,Airport (Small),RMS IND,7081
+HU,Airport (Mid),RMS IND,7082
+HU,Airport (Large),RMS IND,7083
+ID,Heavy Industrial - Mining,RMS IND,1001
+ID,Heavy Industrial - Cement,RMS IND,1011
+ID,Heavy Industrial - Steel,RMS IND,1021
+ID,Heavy Industrial - Pulp & Paper,RMS IND,1031
+ID,Heavy Industrial - Glass,RMS IND,1041
+ID,Heavy Industrial - General,RMS IND,1051
+ID,Chemical Processing - Primarily Outdoor,RMS IND,2001
+ID,Chemical Processing - Primarily Indoor,RMS IND,2011
+ID,Light Industrial - Electronics,RMS IND,3001
+ID,Light Industrial - Pharmaceutical,RMS IND,3011
+ID,Light Industrial - Biomedical,RMS IND,3021
+ID,Light Industrial - Semiconductor,RMS IND,3031
+ID,Light Industrial - General Assembly,RMS IND,3041
+ID,Light Industrial - General Manufacturing,RMS IND,3051
+ID,Light Industrial - Technological Risk,RMS IND,3061
+ID,Petrochemical - Refineries,RMS IND,4001
+ID,Petrochemical - Pipelines,RMS IND,4011
+ID,Petrochemical - Pipelines Below Ground,RMS IND,4021
+ID,Petrochemical - Tank Farms,RMS IND,4031
+ID,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+ID,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+ID,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+ID,Electric Power Generation - Hydroelectric,RMS IND,5011
+ID,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+ID,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+ID,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+ID,Electric Power Generation - Gas Power (Small),RMS IND,5031
+ID,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+ID,Electric Power Generation - Gas Power (Large),RMS IND,5033
+ID,Electric Power - T&D,RMS IND,6001
+ID,Electric Power - Substations (Small),RMS IND,6011
+ID,Electric Power - Substations (Mid),RMS IND,6012
+ID,Electric Power - Substations (Large),RMS IND,6013
+ID,Electric Power - Nuclear Power Plant,RMS IND,6021
+ID,Electric Power - Wind Farms (Small),RMS IND,6031
+ID,Electric Power - Wind Farms (Mid),RMS IND,6032
+ID,Electric Power - Wind Farms (Large),RMS IND,6033
+ID,Electric Power - Solar Farms (Small),RMS IND,6041
+ID,Electric Power - Solar Farms (Mid),RMS IND,6042
+ID,Electric Power - Solar Farms (Large),RMS IND,6043
+ID,Natural Gas,RMS IND,7001
+ID,Food & Beverage,RMS IND,7011
+ID,Data Processing/Telecommunications,RMS IND,7021
+ID,Communications,RMS IND,7031
+ID,Ports & Harbors,RMS IND,7041
+ID,"Dams, Reservoirs only",RMS IND,7051
+ID,Water/Sewage treatment plants,RMS IND,7061
+ID,Outdoor Mechanical,RMS IND,7071
+ID,Airport (Small),RMS IND,7081
+ID,Airport (Mid),RMS IND,7082
+ID,Airport (Large),RMS IND,7083
+IE,Heavy Industrial - Mining,RMS IND,1001
+IE,Heavy Industrial - Cement,RMS IND,1011
+IE,Heavy Industrial - Steel,RMS IND,1021
+IE,Heavy Industrial - Pulp & Paper,RMS IND,1031
+IE,Heavy Industrial - Glass,RMS IND,1041
+IE,Heavy Industrial - General,RMS IND,1051
+IE,Chemical Processing - Primarily Outdoor,RMS IND,2001
+IE,Chemical Processing - Primarily Indoor,RMS IND,2011
+IE,Light Industrial - Electronics,RMS IND,3001
+IE,Light Industrial - Pharmaceutical,RMS IND,3011
+IE,Light Industrial - Biomedical,RMS IND,3021
+IE,Light Industrial - Semiconductor,RMS IND,3031
+IE,Light Industrial - General Assembly,RMS IND,3041
+IE,Light Industrial - General Manufacturing,RMS IND,3051
+IE,Light Industrial - Technological Risk,RMS IND,3061
+IE,Petrochemical - Refineries,RMS IND,4001
+IE,Petrochemical - Pipelines,RMS IND,4011
+IE,Petrochemical - Pipelines below ground,RMS IND,4021
+IE,Petrochemical - Tank farms,RMS IND,4031
+IE,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+IE,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+IE,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+IE,Electric Power Generation - Hydroelectric,RMS IND,5011
+IE,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+IE,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+IE,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+IE,Electric Power Generation - Gas Power (Small),RMS IND,5031
+IE,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+IE,Electric Power Generation - Gas Power (Large),RMS IND,5033
+IE,Electric Power - T&D,RMS IND,6001
+IE,Electric Power - Substations (Small),RMS IND,6011
+IE,Electric Power - Substations (Mid),RMS IND,6012
+IE,Electric Power - Substations (Large),RMS IND,6013
+IE,Electric Power - Nuclear power plant,RMS IND,6021
+IE,Electric Power - Wind Farms (Small),RMS IND,6031
+IE,Electric Power - Wind Farms (Mid),RMS IND,6032
+IE,Electric Power - Wind Farms (Large),RMS IND,6033
+IE,Electric Power - Solar Farms (Small),RMS IND,6041
+IE,Electric Power - Solar Farms (Mid),RMS IND,6042
+IE,Electric Power - Solar Farms (Large),RMS IND,6043
+IE,Natural Gas,RMS IND,7001
+IE,Food & Beverage,RMS IND,7011
+IE,Data Processing/Telecommunications,RMS IND,7021
+IE,Communications,RMS IND,7031
+IE,Ports & Harbors,RMS IND,7041
+IE,"Dams, Reservoirs only",RMS IND,7051
+IE,Water/Sewage treatment plants,RMS IND,7061
+IE,Mechanical,RMS IND,7071
+IE,Airport (Small),RMS IND,7081
+IE,Airport (Mid),RMS IND,7082
+IE,Airport (Large),RMS IND,7083
+IL,Heavy Industrial - Mining,RMS IND,1001
+IL,Heavy Industrial - Cement,RMS IND,1011
+IL,Heavy Industrial - Steel,RMS IND,1021
+IL,Heavy Industrial - Pulp & Paper,RMS IND,1031
+IL,Heavy Industrial - Glass,RMS IND,1041
+IL,Heavy Industrial - General,RMS IND,1051
+IL,Chemical Processing - Primarily Outdoor,RMS IND,2001
+IL,Chemical Processing - Primarily Indoor,RMS IND,2011
+IL,Light Industrial - Electronics,RMS IND,3001
+IL,Light Industrial - Pharmaceutical,RMS IND,3011
+IL,Light Industrial - Biomedical,RMS IND,3021
+IL,Light Industrial - Semiconductor,RMS IND,3031
+IL,Light Industrial - General Assembly,RMS IND,3041
+IL,Light Industrial - General Manufacturing,RMS IND,3051
+IL,Light Industrial - Technological Risk,RMS IND,3061
+IL,Petrochemical - Refineries,RMS IND,4001
+IL,Petrochemical - Pipelines,RMS IND,4011
+IL,Petrochemical - Pipelines Below Ground,RMS IND,4021
+IL,Petrochemical - Tank Farms,RMS IND,4031
+IL,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+IL,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+IL,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+IL,Electric Power Generation - Hydroelectric,RMS IND,5011
+IL,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+IL,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+IL,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+IL,Electric Power Generation - Gas Power (Small),RMS IND,5031
+IL,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+IL,Electric Power Generation - Gas Power (Large),RMS IND,5033
+IL,Electric Power - T&D,RMS IND,6001
+IL,Electric Power - Substations (Small),RMS IND,6011
+IL,Electric Power - Substations (Mid),RMS IND,6012
+IL,Electric Power - Substations (Large),RMS IND,6013
+IL,Electric Power - Nuclear Power Plant,RMS IND,6021
+IL,Electric Power - Wind Farms (Small),RMS IND,6031
+IL,Electric Power - Wind Farms (Mid),RMS IND,6032
+IL,Electric Power - Wind Farms (Large),RMS IND,6033
+IL,Electric Power - Solar Farms (Small),RMS IND,6041
+IL,Electric Power - Solar Farms (Mid),RMS IND,6042
+IL,Electric Power - Solar Farms (Large),RMS IND,6043
+IL,Natural Gas,RMS IND,7001
+IL,Food & Beverage,RMS IND,7011
+IL,Data Processing/Telecommunications,RMS IND,7021
+IL,Communications,RMS IND,7031
+IL,Ports & Harbors,RMS IND,7041
+IL,"Dams, Reservoirs only",RMS IND,7051
+IL,Water/Sewage treatment plants,RMS IND,7061
+IL,Outdoor Mechanical ,RMS IND,7071
+IL,Airport (Small),RMS IND,7081
+IL,Airport (Mid),RMS IND,7082
+IL,Airport (Large),RMS IND,7083
+IN,Heavy Industrial - Mining,RMS IND,1001
+IN,Heavy Industrial - Cement,RMS IND,1011
+IN,Heavy Industrial - Steel,RMS IND,1021
+IN,Heavy Industrial - Pulp & Paper,RMS IND,1031
+IN,Heavy Industrial - Glass,RMS IND,1041
+IN,Heavy Industrial - General,RMS IND,1051
+IN,Chemical Processing - Primarily Outdoor,RMS IND,2001
+IN,Chemical Processing - Primarily Indoor,RMS IND,2011
+IN,Light Industrial - Electronics,RMS IND,3001
+IN,Light Industrial - Pharmaceutical,RMS IND,3011
+IN,Light Industrial - Biomedical,RMS IND,3021
+IN,Light Industrial - Semiconductor,RMS IND,3031
+IN,Light Industrial - General Assembly,RMS IND,3041
+IN,Light Industrial - General Manufacturing,RMS IND,3051
+IN,Light Industrial - Technological Risk,RMS IND,3061
+IN,Petrochemical - Refineries,RMS IND,4001
+IN,Petrochemical - Pipelines,RMS IND,4011
+IN,Petrochemical - Pipelines Below Ground,RMS IND,4021
+IN,Petrochemical - Tank Farms,RMS IND,4031
+IN,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+IN,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+IN,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+IN,Electric Power Generation - Hydroelectric,RMS IND,5011
+IN,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+IN,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+IN,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+IN,Electric Power Generation - Gas Power (Small),RMS IND,5031
+IN,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+IN,Electric Power Generation - Gas Power (Large),RMS IND,5033
+IN,Electric Power - T&D,RMS IND,6001
+IN,Electric Power - Substations (Small),RMS IND,6011
+IN,Electric Power - Substations (Mid),RMS IND,6012
+IN,Electric Power - Substations (Large),RMS IND,6013
+IN,Electric Power - Nuclear Power Plant,RMS IND,6021
+IN,Electric Power - Wind Farms (Small),RMS IND,6031
+IN,Electric Power - Wind Farms (Mid),RMS IND,6032
+IN,Electric Power - Wind Farms (Large),RMS IND,6033
+IN,Electric Power - Solar Farms (Small),RMS IND,6041
+IN,Electric Power - Solar Farms (Mid),RMS IND,6042
+IN,Electric Power - Solar Farms (Large),RMS IND,6043
+IN,Natural Gas,RMS IND,7001
+IN,Food & Beverage,RMS IND,7011
+IN,Data Processing/Telecommunications,RMS IND,7021
+IN,Communications,RMS IND,7031
+IN,Ports & Harbors,RMS IND,7041
+IN,"Dams, Reservoirs only",RMS IND,7051
+IN,Water/Sewage treatment plants,RMS IND,7061
+IN,Outdoor Mechanical ,RMS IND,7071
+IN,Airport (Small),RMS IND,7081
+IN,Airport (Mid),RMS IND,7082
+IN,Airport (Large),RMS IND,7083
+IT,Heavy Industrial - Mining,RMS IND,1001
+IT,Heavy Industrial - Cement,RMS IND,1011
+IT,Heavy Industrial - Steel,RMS IND,1021
+IT,Heavy Industrial - Pulp & Paper,RMS IND,1031
+IT,Heavy Industrial - Glass,RMS IND,1041
+IT,Heavy Industrial - General,RMS IND,1051
+IT,Chemical Processing - Primarily Outdoor,RMS IND,2001
+IT,Chemical Processing - Primarily Indoor,RMS IND,2011
+IT,Light Industrial - Electronics,RMS IND,3001
+IT,Light Industrial - Pharmaceutical,RMS IND,3011
+IT,Light Industrial - Biomedical,RMS IND,3021
+IT,Light Industrial - Semiconductor,RMS IND,3031
+IT,Light Industrial - General Assembly,RMS IND,3041
+IT,Light Industrial - General Manufacturing,RMS IND,3051
+IT,Light Industrial - Technological Risk,RMS IND,3061
+IT,Petrochemical - Refineries,RMS IND,4001
+IT,Petrochemical - Pipelines,RMS IND,4011
+IT,Petrochemical - Pipelines below ground,RMS IND,4021
+IT,Petrochemical - Tank farms,RMS IND,4031
+IT,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+IT,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+IT,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+IT,Electric Power Generation - Hydroelectric,RMS IND,5011
+IT,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+IT,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+IT,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+IT,Electric Power Generation - Gas Power (Small),RMS IND,5031
+IT,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+IT,Electric Power Generation - Gas Power (Large),RMS IND,5033
+IT,Electric Power - T&D,RMS IND,6001
+IT,Electric Power - Substations (Small),RMS IND,6011
+IT,Electric Power - Substations (Mid),RMS IND,6012
+IT,Electric Power - Substations (Large),RMS IND,6013
+IT,Electric Power - Nuclear power plant,RMS IND,6021
+IT,Electric Power - Wind Farms (Small),RMS IND,6031
+IT,Electric Power - Wind Farms (Mid),RMS IND,6032
+IT,Electric Power - Wind Farms (Large),RMS IND,6033
+IT,Electric Power - Solar Farms (Small),RMS IND,6041
+IT,Electric Power - Solar Farms (Mid),RMS IND,6042
+IT,Electric Power - Solar Farms (Large),RMS IND,6043
+IT,Natural Gas,RMS IND,7001
+IT,Food & Beverage,RMS IND,7011
+IT,Data Processing/Telecommunications,RMS IND,7021
+IT,Communications,RMS IND,7031
+IT,Ports & Harbors,RMS IND,7041
+IT,"Dams, Reservoirs only",RMS IND,7051
+IT,Water/Sewage treatment plants,RMS IND,7061
+IT,Mechanical,RMS IND,7071
+IT,Airport (Small),RMS IND,7081
+IT,Airport (Mid),RMS IND,7082
+IT,Airport (Large),RMS IND,7083
+JP,Heavy Industrial - Mining,RMS IND,1
+JP,Light Industrial - Pharmaceutical,RMS IND,10
+JP,Heavy Industrial - Mining,RMS IND,1001
+JP,Heavy Industrial - Cement,RMS IND,1011
+JP,Heavy Industrial - Steel,RMS IND,1021
+JP,Heavy Industrial - Pulp & Paper,RMS IND,1031
+JP,Heavy Industrial - Glass,RMS IND,1041
+JP,Heavy Industrial - General,RMS IND,1051
+JP,Light Industrial - Biomedical,RMS IND,11
+JP,Light Industrial - Semiconductor,RMS IND,12
+JP,Light Industrial - General Assembly,RMS IND,13
+JP,Light Industrial - General Manufacturing,RMS IND,14
+JP,Petrochemical - Refineries,RMS IND,15
+JP,Petrochemical - Pipelines,RMS IND,16
+JP,Electric Power Generation - Coal Power (Mid),RMS IND,17
+JP,Electric Power Generation - Hydroelectric,RMS IND,18
+JP,Electric Power Generation - Co-Generation (Mid),RMS IND,19
+JP,Heavy Industrial - Cement,RMS IND,2
+JP,Electric Power - T&D,RMS IND,20
+JP,Chemical Processing - Primarily Outdoor,RMS IND,2001
+JP,Chemical Processing - Primarily Indoor,RMS IND,2011
+JP,Electric Power - Substations (Mid),RMS IND,21
+JP,Natural Gas,RMS IND,22
+JP,Food & Beverage,RMS IND,23
+JP,Data Processing/Telecommunications,RMS IND,24
+JP,Communications,RMS IND,25
+JP,Ports & Harbors,RMS IND,26
+JP,Airport (Mid),RMS IND,27
+JP,Heavy Industrial - Steel,RMS IND,3
+JP,Light Industrial - Electronics,RMS IND,3001
+JP,Light Industrial - Pharmaceutical,RMS IND,3011
+JP,Light Industrial - Biomedical,RMS IND,3021
+JP,Light Industrial - Semiconductor,RMS IND,3031
+JP,Light Industrial - General Assembly,RMS IND,3041
+JP,Light Industrial - General Manufacturing,RMS IND,3051
+JP,Light Industrial - Technological Risk,RMS IND,3061
+JP,Heavy Industrial - Pulp & Paper,RMS IND,4
+JP,Petrochemical - Refineries,RMS IND,4001
+JP,Petrochemical - Pipelines,RMS IND,4011
+JP,Petrochemical - Pipelines Below Ground,RMS IND,4021
+JP,Petrochemical - Tank Farms,RMS IND,4031
+JP,Heavy Industrial - Glass,RMS IND,5
+JP,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+JP,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+JP,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+JP,Electric Power Generation - Hydroelectric,RMS IND,5011
+JP,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+JP,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+JP,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+JP,Electric Power Generation - Gas Power (Small),RMS IND,5031
+JP,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+JP,Electric Power Generation - Gas Power (Large),RMS IND,5033
+JP,Heavy Industrial - General,RMS IND,6
+JP,Electric Power - T&D,RMS IND,6001
+JP,Electric Power - Substations (Small),RMS IND,6011
+JP,Electric Power - Substations (Mid),RMS IND,6012
+JP,Electric Power - Substations (Large),RMS IND,6013
+JP,Electric Power - Nuclear Power Plant,RMS IND,6021
+JP,Electric Power - Wind Farms (Small),RMS IND,6031
+JP,Electric Power - Wind Farms (Mid),RMS IND,6032
+JP,Electric Power - Wind Farms (Large),RMS IND,6033
+JP,Electric Power - Solar Farms (Small),RMS IND,6041
+JP,Electric Power - Solar Farms (Mid),RMS IND,6042
+JP,Electric Power - Solar Farms (Large),RMS IND,6043
+JP,Chemical Processing - Primarily Outdoor,RMS IND,7
+JP,Natural Gas,RMS IND,7001
+JP,Food & Beverage,RMS IND,7011
+JP,Data Processing/Telecommunications,RMS IND,7021
+JP,Communications,RMS IND,7031
+JP,Ports & Harbors,RMS IND,7041
+JP,"Dams, Reservoirs only",RMS IND,7051
+JP,Water/Sewage treatment plants,RMS IND,7061
+JP,Outdoor Mechanical ,RMS IND,7071
+JP,Airport (small),RMS IND,7081
+JP,Airport (Mid),RMS IND,7082
+JP,Airport (Large),RMS IND,7083
+JP,Chemical Processing - Primarily Indoor,RMS IND,8
+JP,Light Industrial - Electronics,RMS IND,9
+KR,Heavy Industrial - Mining,RMS IND,1001
+KR,Heavy Industrial - Cement,RMS IND,1011
+KR,Heavy Industrial - Steel,RMS IND,1021
+KR,Heavy Industrial - Pulp & Paper,RMS IND,1031
+KR,Heavy Industrial - Glass,RMS IND,1041
+KR,Heavy Industrial - General,RMS IND,1051
+KR,Chemical Processing - Primarily Outdoor,RMS IND,2001
+KR,Chemical Processing - Primarily Indoor,RMS IND,2011
+KR,Light Industrial - Electronics,RMS IND,3001
+KR,Light Industrial - Pharmaceutical,RMS IND,3011
+KR,Light Industrial - Biomedical,RMS IND,3021
+KR,Light Industrial - Semiconductor,RMS IND,3031
+KR,Light Industrial - General Assembly,RMS IND,3041
+KR,Light Industrial - General Manufacturing,RMS IND,3051
+KR,Light Industrial - Technological Risk,RMS IND,3061
+KR,Petrochemical - Refineries,RMS IND,4001
+KR,Petrochemical - Pipelines,RMS IND,4011
+KR,Petrochemical - Pipelines Below Ground,RMS IND,4021
+KR,Petrochemical - Tank Farms,RMS IND,4031
+KR,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+KR,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+KR,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+KR,Electric Power Generation - Hydroelectric,RMS IND,5011
+KR,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+KR,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+KR,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+KR,Electric Power Generation - Gas Power (Small),RMS IND,5031
+KR,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+KR,Electric Power Generation - Gas Power (Large),RMS IND,5033
+KR,Electric Power - T&D,RMS IND,6001
+KR,Electric Power - Substations (Small),RMS IND,6011
+KR,Electric Power - Substations (Mid),RMS IND,6012
+KR,Electric Power - Substations (Large),RMS IND,6013
+KR,Electric Power - Nuclear Power Plant,RMS IND,6021
+KR,Electric Power - Wind Farms (Small),RMS IND,6031
+KR,Electric Power - Wind Farms (Mid),RMS IND,6032
+KR,Electric Power - Wind Farms (Large),RMS IND,6033
+KR,Electric Power - Solar Farms (Small),RMS IND,6041
+KR,Electric Power - Solar Farms (Mid),RMS IND,6042
+KR,Electric Power - Solar Farms (Large),RMS IND,6043
+KR,Natural Gas,RMS IND,7001
+KR,Food & Beverage,RMS IND,7011
+KR,Data Processing/Telecommunications,RMS IND,7021
+KR,Communications,RMS IND,7031
+KR,Ports & Harbors,RMS IND,7041
+KR,"Dams, Reservoirs only",RMS IND,7051
+KR,Water/Sewage treatment plants,RMS IND,7061
+KR,Outdoor Mechanical,RMS IND,7071
+KR,Airport (Small),RMS IND,7081
+KR,Airport (Mid),RMS IND,7082
+KR,Airport (Large),RMS IND,7083
+LI,Heavy Industrial - Mining,RMS IND,1001
+LI,Heavy Industrial - Cement,RMS IND,1011
+LI,Heavy Industrial - Steel,RMS IND,1021
+LI,Heavy Industrial - Pulp & Paper,RMS IND,1031
+LI,Heavy Industrial - Glass,RMS IND,1041
+LI,Heavy Industrial - General,RMS IND,1051
+LI,Chemical Processing - Primarily Outdoor,RMS IND,2001
+LI,Chemical Processing - Primarily Indoor,RMS IND,2011
+LI,Light Industrial - Electronics,RMS IND,3001
+LI,Light Industrial - Pharmaceutical,RMS IND,3011
+LI,Light Industrial - Biomedical,RMS IND,3021
+LI,Light Industrial - Semiconductor,RMS IND,3031
+LI,Light Industrial - General Assembly,RMS IND,3041
+LI,Light Industrial - General Manufacturing,RMS IND,3051
+LI,Light Industrial - Technological Risk,RMS IND,3061
+LI,Petrochemical - Refineries,RMS IND,4001
+LI,Petrochemical - Pipelines,RMS IND,4011
+LI,Petrochemical - Pipelines below ground,RMS IND,4021
+LI,Petrochemical - Tank farms,RMS IND,4031
+LI,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+LI,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+LI,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+LI,Electric Power Generation - Hydroelectric,RMS IND,5011
+LI,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+LI,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+LI,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+LI,Electric Power Generation - Gas Power (Small),RMS IND,5031
+LI,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+LI,Electric Power Generation - Gas Power (Large),RMS IND,5033
+LI,Electric Power - T&D,RMS IND,6001
+LI,Electric Power - Substations (Small),RMS IND,6011
+LI,Electric Power - Substations (Mid),RMS IND,6012
+LI,Electric Power - Substations (Large),RMS IND,6013
+LI,Electric Power - Nuclear power plant,RMS IND,6021
+LI,Electric Power - Wind Farms (Small),RMS IND,6031
+LI,Electric Power - Wind Farms (Mid),RMS IND,6032
+LI,Electric Power - Wind Farms (Large),RMS IND,6033
+LI,Electric Power - Solar Farms (Small),RMS IND,6041
+LI,Electric Power - Solar Farms (Mid),RMS IND,6042
+LI,Electric Power - Solar Farms (Large),RMS IND,6043
+LI,Natural Gas,RMS IND,7001
+LI,Food & Beverage,RMS IND,7011
+LI,Data Processing/Telecommunications,RMS IND,7021
+LI,Communications,RMS IND,7031
+LI,Ports & Harbors,RMS IND,7041
+LI,"Dams, Reservoirs only",RMS IND,7051
+LI,Water/Sewage treatment plants,RMS IND,7061
+LI,Mechanical,RMS IND,7071
+LI,Airport (Small),RMS IND,7081
+LI,Airport (Mid),RMS IND,7082
+LI,Airport (Large),RMS IND,7083
+LU,Heavy Industrial - Mining,RMS IND,1001
+LU,Heavy Industrial - Cement,RMS IND,1011
+LU,Heavy Industrial - Steel,RMS IND,1021
+LU,Heavy Industrial - Pulp & Paper,RMS IND,1031
+LU,Heavy Industrial - Glass,RMS IND,1041
+LU,Heavy Industrial - General,RMS IND,1051
+LU,Chemical Processing - Primarily Outdoor,RMS IND,2001
+LU,Chemical Processing - Primarily Indoor,RMS IND,2011
+LU,Light Industrial - Electronics,RMS IND,3001
+LU,Light Industrial - Pharmaceutical,RMS IND,3011
+LU,Light Industrial - Biomedical,RMS IND,3021
+LU,Light Industrial - Semiconductor,RMS IND,3031
+LU,Light Industrial - General Assembly,RMS IND,3041
+LU,Light Industrial - General Manufacturing,RMS IND,3051
+LU,Light Industrial - Technological Risk,RMS IND,3061
+LU,Petrochemical - Refineries,RMS IND,4001
+LU,Petrochemical - Pipelines,RMS IND,4011
+LU,Petrochemical - Pipelines below ground,RMS IND,4021
+LU,Petrochemical - Tank farms,RMS IND,4031
+LU,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+LU,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+LU,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+LU,Electric Power Generation - Hydroelectric,RMS IND,5011
+LU,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+LU,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+LU,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+LU,Electric Power Generation - Gas Power (Small),RMS IND,5031
+LU,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+LU,Electric Power Generation - Gas Power (Large),RMS IND,5033
+LU,Electric Power - T&D,RMS IND,6001
+LU,Electric Power - Substations (Small),RMS IND,6011
+LU,Electric Power - Substations (Mid),RMS IND,6012
+LU,Electric Power - Substations (Large),RMS IND,6013
+LU,Electric Power - Nuclear power plant,RMS IND,6021
+LU,Electric Power - Wind Farms (Small),RMS IND,6031
+LU,Electric Power - Wind Farms (Mid),RMS IND,6032
+LU,Electric Power - Wind Farms (Large),RMS IND,6033
+LU,Electric Power - Solar Farms (Small),RMS IND,6041
+LU,Electric Power - Solar Farms (Mid),RMS IND,6042
+LU,Electric Power - Solar Farms (Large),RMS IND,6043
+LU,Natural Gas,RMS IND,7001
+LU,Food & Beverage,RMS IND,7011
+LU,Data Processing/Telecommunications,RMS IND,7021
+LU,Communications,RMS IND,7031
+LU,Ports & Harbors,RMS IND,7041
+LU,"Dams, Reservoirs only",RMS IND,7051
+LU,Water/Sewage treatment plants,RMS IND,7061
+LU,Mechanical,RMS IND,7071
+LU,Airport (Small),RMS IND,7081
+LU,Airport (Mid),RMS IND,7082
+LU,Airport (Large),RMS IND,7083
+MX,Heavy Industrial - Mining,RMS IND,1001
+MX,Heavy Industrial - Cement,RMS IND,1011
+MX,Heavy Industrial - Steel,RMS IND,1021
+MX,Heavy Industrial - Pulp & Paper,RMS IND,1031
+MX,Heavy Industrial - Glass,RMS IND,1041
+MX,Heavy Industrial - General,RMS IND,1051
+MX,Chemical Processing - Primarily Outdoor,RMS IND,2001
+MX,Chemical Processing - Primarily Indoor,RMS IND,2011
+MX,Light Industrial - Electronics,RMS IND,3001
+MX,Light Industrial - Pharmaceutical,RMS IND,3011
+MX,Light Industrial - Biomedical,RMS IND,3021
+MX,Light Industrial - Semiconductor,RMS IND,3031
+MX,Light Industrial - General Assembly,RMS IND,3041
+MX,Light Industrial - General Manufacturing,RMS IND,3051
+MX,Light Industrial - Technological Risk,RMS IND,3061
+MX,Petrochemical - Refineries,RMS IND,4001
+MX,Petrochemical - Pipelines,RMS IND,4011
+MX,Petrochemical - Pipelines below ground,RMS IND,4021
+MX,Petrochemical - Tank farms,RMS IND,4031
+MX,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+MX,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+MX,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+MX,Electric Power Generation - Hydroelectric,RMS IND,5011
+MX,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+MX,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+MX,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+MX,Electric Power Generation - Gas Power (Small),RMS IND,5031
+MX,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+MX,Electric Power Generation - Gas Power (Large),RMS IND,5033
+MX,Electric Power - T&D,RMS IND,6001
+MX,Electric Power - Substations (Small),RMS IND,6011
+MX,Electric Power - Substations (Mid),RMS IND,6012
+MX,Electric Power - Substations (Large),RMS IND,6013
+MX,Electric Power - Nuclear power plant,RMS IND,6021
+MX,Electric Power - Wind Farms (Small),RMS IND,6031
+MX,Electric Power - Wind Farms (Mid),RMS IND,6032
+MX,Electric Power - Wind Farms (Large),RMS IND,6033
+MX,Electric Power - Solar Farms (Small),RMS IND,6041
+MX,Electric Power - Solar Farms (Mid),RMS IND,6042
+MX,Electric Power - Solar Farms (Large),RMS IND,6043
+MX,Natural Gas,RMS IND,7001
+MX,Food & Beverage,RMS IND,7011
+MX,Data Processing/Telecommunications,RMS IND,7021
+MX,Communications,RMS IND,7031
+MX,Ports & Harbors,RMS IND,7041
+MX,"Dams, Reservoirs only",RMS IND,7051
+MX,Water/Sewage treatment plants,RMS IND,7061
+MX,Outdoor Mechanical ,RMS IND,7071
+MX,Airport (Small),RMS IND,7081
+MX,Airport (Mid),RMS IND,7082
+MX,Airport (Large),RMS IND,7083
+MY,Heavy Industrial - Mining,RMS IND,1001
+MY,Heavy Industrial - Cement,RMS IND,1011
+MY,Heavy Industrial - Steel,RMS IND,1021
+MY,Heavy Industrial - Pulp & Paper,RMS IND,1031
+MY,Heavy Industrial - Glass,RMS IND,1041
+MY,Heavy Industrial - General,RMS IND,1051
+MY,Chemical Processing - Primarily Outdoor,RMS IND,2001
+MY,Chemical Processing - Primarily Indoor,RMS IND,2011
+MY,Light Industrial - Electronics,RMS IND,3001
+MY,Light Industrial - Pharmaceutical,RMS IND,3011
+MY,Light Industrial - Biomedical,RMS IND,3021
+MY,Light Industrial - Semiconductor,RMS IND,3031
+MY,Light Industrial - General Assembly,RMS IND,3041
+MY,Light Industrial - General Manufacturing,RMS IND,3051
+MY,Light Industrial - Technological Risk,RMS IND,3061
+MY,Petrochemical - Refineries,RMS IND,4001
+MY,Petrochemical - Pipelines,RMS IND,4011
+MY,Petrochemical - Pipelines Below Ground,RMS IND,4021
+MY,Petrochemical - Tank Farms,RMS IND,4031
+MY,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+MY,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+MY,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+MY,Electric Power Generation - Hydroelectric,RMS IND,5011
+MY,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+MY,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+MY,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+MY,Electric Power Generation - Gas Power (Small),RMS IND,5031
+MY,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+MY,Electric Power Generation - Gas Power (Large),RMS IND,5033
+MY,Electric Power - T&D,RMS IND,6001
+MY,Electric Power - Substations (Small),RMS IND,6011
+MY,Electric Power - Substations (Mid),RMS IND,6012
+MY,Electric Power - Substations (Large),RMS IND,6013
+MY,Electric Power - Nuclear Power Plant,RMS IND,6021
+MY,Electric Power - Wind Farms (Small),RMS IND,6031
+MY,Electric Power - Wind Farms (Mid),RMS IND,6032
+MY,Electric Power - Wind Farms (Large),RMS IND,6033
+MY,Electric Power - Solar Farms (Small),RMS IND,6041
+MY,Electric Power - Solar Farms (Mid),RMS IND,6042
+MY,Electric Power - Solar Farms (Large),RMS IND,6043
+MY,Natural Gas,RMS IND,7001
+MY,Food & Beverage,RMS IND,7011
+MY,Data Processing/Telecommunications,RMS IND,7021
+MY,Communications,RMS IND,7031
+MY,Ports & Harbors,RMS IND,7041
+MY,"Dams, Reservoirs only",RMS IND,7051
+MY,Water/Sewage treatment plants,RMS IND,7061
+MY,Outdoor Mechanical,RMS IND,7071
+MY,Airport (Small),RMS IND,7081
+MY,Airport (Mid),RMS IND,7082
+MY,Airport (Large),RMS IND,7083
+NI,Heavy Industrial - Mining,RMS IND,1001
+NI,Heavy Industrial - Cement,RMS IND,1011
+NI,Heavy Industrial - Steel,RMS IND,1021
+NI,Heavy Industrial - Pulp & Paper,RMS IND,1031
+NI,Heavy Industrial - Glass,RMS IND,1041
+NI,Heavy Industrial - General,RMS IND,1051
+NI,Chemical Processing - Primarily Outdoor,RMS IND,2001
+NI,Chemical Processing - Primarily Indoor,RMS IND,2011
+NI,Light Industrial - Electronics,RMS IND,3001
+NI,Light Industrial - Pharmaceutical,RMS IND,3011
+NI,Light Industrial - Biomedical,RMS IND,3021
+NI,Light Industrial - Semiconductor,RMS IND,3031
+NI,Light Industrial - General Assembly,RMS IND,3041
+NI,Light Industrial - General Manufacturing,RMS IND,3051
+NI,Light Industrial - Technological Risk,RMS IND,3061
+NI,Petrochemical - Refineries,RMS IND,4001
+NI,Petrochemical - Pipelines,RMS IND,4011
+NI,Petrochemical - Pipelines Below Ground,RMS IND,4021
+NI,Petrochemical - Tank Farms,RMS IND,4031
+NI,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+NI,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+NI,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+NI,Electric Power Generation - Hydroelectric,RMS IND,5011
+NI,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+NI,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+NI,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+NI,Electric Power Generation - Gas Power (Small),RMS IND,5031
+NI,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+NI,Electric Power Generation - Gas Power (Large),RMS IND,5033
+NI,Electric Power - T&D,RMS IND,6001
+NI,Electric Power - Substations (Small),RMS IND,6011
+NI,Electric Power - Substations (Mid),RMS IND,6012
+NI,Electric Power - Substations (Large),RMS IND,6013
+NI,Electric Power - Nuclear Power Plant,RMS IND,6021
+NI,Electric Power - Wind Farms (Small),RMS IND,6031
+NI,Electric Power - Wind Farms (Mid),RMS IND,6032
+NI,Electric Power - Wind Farms (Large),RMS IND,6033
+NI,Electric Power - Solar Farms (Small),RMS IND,6041
+NI,Electric Power - Solar Farms (Mid),RMS IND,6042
+NI,Electric Power - Solar Farms (Large),RMS IND,6043
+NI,Natural Gas,RMS IND,7001
+NI,Food & Beverage,RMS IND,7011
+NI,Data Processing/Telecommunications,RMS IND,7021
+NI,Communications,RMS IND,7031
+NI,Ports & Harbors,RMS IND,7041
+NI,"Dams, Reservoirs only",RMS IND,7051
+NI,Water/Sewage treatment plants,RMS IND,7061
+NI,Outdoor Mechanical ,RMS IND,7071
+NI,Airport (Small),RMS IND,7081
+NI,Airport (Mid),RMS IND,7082
+NI,Airport (Large),RMS IND,7083
+NL,Heavy Industrial - Mining,RMS IND,1001
+NL,Heavy Industrial - Cement,RMS IND,1011
+NL,Heavy Industrial - Steel,RMS IND,1021
+NL,Heavy Industrial - Pulp & Paper,RMS IND,1031
+NL,Heavy Industrial - Glass,RMS IND,1041
+NL,Heavy Industrial - General,RMS IND,1051
+NL,Chemical Processing - Primarily Outdoor,RMS IND,2001
+NL,Chemical Processing - Primarily Indoor,RMS IND,2011
+NL,Light Industrial - Electronics,RMS IND,3001
+NL,Light Industrial - Pharmaceutical,RMS IND,3011
+NL,Light Industrial - Biomedical,RMS IND,3021
+NL,Light Industrial - Semiconductor,RMS IND,3031
+NL,Light Industrial - General Assembly,RMS IND,3041
+NL,Light Industrial - General Manufacturing,RMS IND,3051
+NL,Light Industrial - Technological Risk,RMS IND,3061
+NL,Petrochemical - Refineries,RMS IND,4001
+NL,Petrochemical - Pipelines,RMS IND,4011
+NL,Petrochemical - Pipelines below ground,RMS IND,4021
+NL,Petrochemical - Tank farms,RMS IND,4031
+NL,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+NL,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+NL,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+NL,Electric Power Generation - Hydroelectric,RMS IND,5011
+NL,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+NL,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+NL,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+NL,Electric Power Generation - Gas Power (Small),RMS IND,5031
+NL,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+NL,Electric Power Generation - Gas Power (Large),RMS IND,5033
+NL,Electric Power - T&D,RMS IND,6001
+NL,Electric Power - Substations (Small),RMS IND,6011
+NL,Electric Power - Substations (Mid),RMS IND,6012
+NL,Electric Power - Substations (Large),RMS IND,6013
+NL,Electric Power - Nuclear power plant,RMS IND,6021
+NL,Electric Power - Wind Farms (Small),RMS IND,6031
+NL,Electric Power - Wind Farms (Mid),RMS IND,6032
+NL,Electric Power - Wind Farms (Large),RMS IND,6033
+NL,Electric Power - Solar Farms (Small),RMS IND,6041
+NL,Electric Power - Solar Farms (Mid),RMS IND,6042
+NL,Electric Power - Solar Farms (Large),RMS IND,6043
+NL,Natural Gas,RMS IND,7001
+NL,Food & Beverage,RMS IND,7011
+NL,Data Processing/Telecommunications,RMS IND,7021
+NL,Communications,RMS IND,7031
+NL,Ports & Harbors,RMS IND,7041
+NL,"Dams, Reservoirs only",RMS IND,7051
+NL,Water/Sewage treatment plants,RMS IND,7061
+NL,Mechanical,RMS IND,7071
+NL,Airport (Small),RMS IND,7081
+NL,Airport (Mid),RMS IND,7082
+NL,Airport (Large),RMS IND,7083
+NO,Heavy Industrial - Mining,RMS IND,1001
+NO,Heavy Industrial - Cement,RMS IND,1011
+NO,Heavy Industrial - Steel,RMS IND,1021
+NO,Heavy Industrial - Pulp & Paper,RMS IND,1031
+NO,Heavy Industrial - Glass,RMS IND,1041
+NO,Heavy Industrial - General,RMS IND,1051
+NO,Chemical Processing - Primarily Outdoor,RMS IND,2001
+NO,Chemical Processing - Primarily Indoor,RMS IND,2011
+NO,Light Industrial - Electronics,RMS IND,3001
+NO,Light Industrial - Pharmaceutical,RMS IND,3011
+NO,Light Industrial - Biomedical,RMS IND,3021
+NO,Light Industrial - Semiconductor,RMS IND,3031
+NO,Light Industrial - General Assembly,RMS IND,3041
+NO,Light Industrial - General Manufacturing,RMS IND,3051
+NO,Light Industrial - Technological Risk,RMS IND,3061
+NO,Petrochemical - Refineries,RMS IND,4001
+NO,Petrochemical - Pipelines,RMS IND,4011
+NO,Petrochemical - Pipelines below ground,RMS IND,4021
+NO,Petrochemical - Tank farms,RMS IND,4031
+NO,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+NO,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+NO,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+NO,Electric Power Generation - Hydroelectric,RMS IND,5011
+NO,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+NO,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+NO,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+NO,Electric Power Generation - Gas Power (Small),RMS IND,5031
+NO,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+NO,Electric Power Generation - Gas Power (Large),RMS IND,5033
+NO,Electric Power - T&D,RMS IND,6001
+NO,Electric Power - Substations (Small),RMS IND,6011
+NO,Electric Power - Substations (Mid),RMS IND,6012
+NO,Electric Power - Substations (Large),RMS IND,6013
+NO,Electric Power - Nuclear power plant,RMS IND,6021
+NO,Electric Power - Wind Farms (Small),RMS IND,6031
+NO,Electric Power - Wind Farms (Mid),RMS IND,6032
+NO,Electric Power - Wind Farms (Large),RMS IND,6033
+NO,Electric Power - Solar Farms (Small),RMS IND,6041
+NO,Electric Power - Solar Farms (Mid),RMS IND,6042
+NO,Electric Power - Solar Farms (Large),RMS IND,6043
+NO,Natural Gas,RMS IND,7001
+NO,Food & Beverage,RMS IND,7011
+NO,Data Processing/Telecommunications,RMS IND,7021
+NO,Communications,RMS IND,7031
+NO,Ports & Harbors,RMS IND,7041
+NO,"Dams, Reservoirs only",RMS IND,7051
+NO,Water/Sewage treatment plants,RMS IND,7061
+NO,Mechanical,RMS IND,7071
+NO,Airport (Small),RMS IND,7081
+NO,Airport (Mid),RMS IND,7082
+NO,Airport (Large),RMS IND,7083
+NZ,Heavy Industrial - Mining,RMS IND,1001
+NZ,Heavy Industrial - Cement,RMS IND,1011
+NZ,Heavy Industrial - Steel,RMS IND,1021
+NZ,Heavy Industrial - Pulp & Paper,RMS IND,1031
+NZ,Heavy Industrial - Glass,RMS IND,1041
+NZ,Heavy Industrial - General,RMS IND,1051
+NZ,Chemical Processing - Primarily Outdoor,RMS IND,2001
+NZ,Chemical Processing - Primarily Indoor,RMS IND,2011
+NZ,Light Industrial - Electronics,RMS IND,3001
+NZ,Light Industrial - Pharmaceutical,RMS IND,3011
+NZ,Light Industrial - Biomedical,RMS IND,3021
+NZ,Light Industrial - Semiconductor,RMS IND,3031
+NZ,Light Industrial - General Assembly,RMS IND,3041
+NZ,Light Industrial - General Manufacturing,RMS IND,3051
+NZ,Light Industrial - Technological Risk,RMS IND,3061
+NZ,Petrochemical - Refineries,RMS IND,4001
+NZ,Petrochemical - Pipelines,RMS IND,4011
+NZ,Petrochemical - Pipelines below ground,RMS IND,4021
+NZ,Petrochemical - Tank farms,RMS IND,4031
+NZ,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+NZ,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+NZ,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+NZ,Electric Power Generation - Hydroelectric,RMS IND,5011
+NZ,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+NZ,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+NZ,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+NZ,Electric Power Generation - Gas Power (Small),RMS IND,5031
+NZ,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+NZ,Electric Power Generation - Gas Power (Large),RMS IND,5033
+NZ,Electric Power - T&D,RMS IND,6001
+NZ,Electric Power - Substations,RMS IND,6011
+NZ,Electric Power - Substations (Mid),RMS IND,6012
+NZ,Electric Power - Substations (Large),RMS IND,6013
+NZ,Electric Power - Nuclear power plant,RMS IND,6021
+NZ,Electric Power - Wind farms,RMS IND,6031
+NZ,Electric Power - Wind Farms (Mid),RMS IND,6032
+NZ,Electric Power - Wind Farms (Large),RMS IND,6033
+NZ,Electric Power - Solar Farms (Small),RMS IND,6041
+NZ,Electric Power - Solar Farms (Mid),RMS IND,6042
+NZ,Electric Power - Solar Farms (Large),RMS IND,6043
+NZ,Natural Gas,RMS IND,7001
+NZ,Food & Beverage,RMS IND,7011
+NZ,Data Processing/Telecommunications,RMS IND,7021
+NZ,Communications,RMS IND,7031
+NZ,Ports & Harbors,RMS IND,7041
+NZ,"Dams, Reservoirs only",RMS IND,7051
+NZ,Water/Sewage treatment plants,RMS IND,7061
+NZ,Mechanical,RMS IND,7071
+NZ,Airport (Small),RMS IND,7081
+NZ,Airport (Mid),RMS IND,7082
+NZ,Airport (Large),RMS IND,7083
+PA,Heavy Industrial - Mining,RMS IND,1001
+PA,Heavy Industrial - Cement,RMS IND,1011
+PA,Heavy Industrial - Steel,RMS IND,1021
+PA,Heavy Industrial - Pulp & Paper,RMS IND,1031
+PA,Heavy Industrial - Glass,RMS IND,1041
+PA,Heavy Industrial - General,RMS IND,1051
+PA,Chemical Processing - Primarily Outdoor,RMS IND,2001
+PA,Chemical Processing - Primarily Indoor,RMS IND,2011
+PA,Light Industrial - Electronics,RMS IND,3001
+PA,Light Industrial - Pharmaceutical,RMS IND,3011
+PA,Light Industrial - Biomedical,RMS IND,3021
+PA,Light Industrial - Semiconductor,RMS IND,3031
+PA,Light Industrial - General Assembly,RMS IND,3041
+PA,Light Industrial - General Manufacturing,RMS IND,3051
+PA,Light Industrial - Technological Risk,RMS IND,3061
+PA,Petrochemical - Refineries,RMS IND,4001
+PA,Petrochemical - Pipelines,RMS IND,4011
+PA,Petrochemical - Pipelines Below Ground,RMS IND,4021
+PA,Petrochemical - Tank Farms,RMS IND,4031
+PA,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+PA,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+PA,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+PA,Electric Power Generation - Hydroelectric,RMS IND,5011
+PA,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+PA,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+PA,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+PA,Electric Power Generation - Gas Power (Small),RMS IND,5031
+PA,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+PA,Electric Power Generation - Gas Power (Large),RMS IND,5033
+PA,Electric Power - T&D,RMS IND,6001
+PA,Electric Power - Substations (Small),RMS IND,6011
+PA,Electric Power - Substations (Mid),RMS IND,6012
+PA,Electric Power - Substations (Large),RMS IND,6013
+PA,Electric Power - Nuclear Power Plant,RMS IND,6021
+PA,Electric Power - Wind Farms (Small),RMS IND,6031
+PA,Electric Power - Wind Farms (Mid),RMS IND,6032
+PA,Electric Power - Wind Farms (Large),RMS IND,6033
+PA,Electric Power - Solar Farms (Small),RMS IND,6041
+PA,Electric Power - Solar Farms (Mid),RMS IND,6042
+PA,Electric Power - Solar Farms (Large),RMS IND,6043
+PA,Natural Gas,RMS IND,7001
+PA,Food & Beverage,RMS IND,7011
+PA,Data Processing/Telecommunications,RMS IND,7021
+PA,Communications,RMS IND,7031
+PA,Ports & Harbors,RMS IND,7041
+PA,"Dams, Reservoirs only",RMS IND,7051
+PA,Water/Sewage treatment plants,RMS IND,7061
+PA,Outdoor Mechanical ,RMS IND,7071
+PA,Airport (Small),RMS IND,7081
+PA,Airport (Mid),RMS IND,7082
+PA,Airport (Large),RMS IND,7083
+PE,Heavy Industrial - Mining,RMS IND,1001
+PE,Heavy Industrial - Cement,RMS IND,1011
+PE,Heavy Industrial - Steel,RMS IND,1021
+PE,Heavy Industrial - Pulp & Paper,RMS IND,1031
+PE,Heavy Industrial - Glass,RMS IND,1041
+PE,Heavy Industrial - General,RMS IND,1051
+PE,Chemical Processing - Primarily Outdoor,RMS IND,2001
+PE,Chemical Processing - Primarily Indoor,RMS IND,2011
+PE,Light Industrial - Electronics,RMS IND,3001
+PE,Light Industrial - Pharmaceutical,RMS IND,3011
+PE,Light Industrial - Biomedical,RMS IND,3021
+PE,Light Industrial - Semiconductor,RMS IND,3031
+PE,Light Industrial - General Assembly,RMS IND,3041
+PE,Light Industrial - General Manufacturing,RMS IND,3051
+PE,Light Industrial - Technological Risk,RMS IND,3061
+PE,Petrochemical - Refineries,RMS IND,4001
+PE,Petrochemical - Pipelines,RMS IND,4011
+PE,Petrochemical - Pipelines below ground,RMS IND,4021
+PE,Petrochemical - Tank farms,RMS IND,4031
+PE,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+PE,Electric Power Generation - Fossil Fuel (Mid),RMS IND,5002
+PE,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+PE,Electric Power Generation - Hydroelectric,RMS IND,5011
+PE,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+PE,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+PE,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+PE,Electric Power Generation - Gas Power (Small),RMS IND,5031
+PE,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+PE,Electric Power Generation - Gas Power (Large),RMS IND,5033
+PE,Electric Power - T&D,RMS IND,6001
+PE,Electric Power - Substations (Small),RMS IND,6011
+PE,Electric Power - Substations (Mid),RMS IND,6012
+PE,Electric Power - Substations (Large),RMS IND,6013
+PE,Electric Power - Nuclear power plant,RMS IND,6021
+PE,Electric Power - Wind Farms (Small),RMS IND,6031
+PE,Electric Power - Wind Farms (Mid),RMS IND,6032
+PE,Electric Power - Wind Farms (Large),RMS IND,6033
+PE,Electric Power - Solar Farms (Small),RMS IND,6041
+PE,Electric Power - Solar Farms (Mid),RMS IND,6042
+PE,Electric Power - Solar Farms (Large),RMS IND,6043
+PE,Natural Gas,RMS IND,7001
+PE,Food & Beverage,RMS IND,7011
+PE,Data Processing/Telecommunications,RMS IND,7021
+PE,Communications,RMS IND,7031
+PE,Ports & Harbors,RMS IND,7041
+PE,"Dams, Reservoirs only",RMS IND,7051
+PE,Water/Sewage treatment plants,RMS IND,7061
+PE,Outdoor Mechanical,RMS IND,7071
+PE,Airport (Small),RMS IND,7081
+PE,Airport (Mid),RMS IND,7082
+PE,Airport (Large),RMS IND,7083
+PH,Heavy Industrial - Mining,RMS IND,1001
+PH,Heavy Industrial - Cement,RMS IND,1011
+PH,Heavy Industrial - Steel,RMS IND,1021
+PH,Heavy Industrial - Pulp & Paper,RMS IND,1031
+PH,Heavy Industrial - Glass,RMS IND,1041
+PH,Heavy Industrial - General,RMS IND,1051
+PH,Chemical Processing - Primarily Outdoor,RMS IND,2001
+PH,Chemical Processing - Primarily Indoor,RMS IND,2011
+PH,Light Industrial - Electronics,RMS IND,3001
+PH,Light Industrial - Pharmaceutical,RMS IND,3011
+PH,Light Industrial - Biomedical,RMS IND,3021
+PH,Light Industrial - Semiconductor,RMS IND,3031
+PH,Light Industrial - General Assembly,RMS IND,3041
+PH,Light Industrial - General Manufacturing,RMS IND,3051
+PH,Light Industrial - Technological Risk,RMS IND,3061
+PH,Petrochemical - Refineries,RMS IND,4001
+PH,Petrochemical - Pipelines,RMS IND,4011
+PH,Petrochemical - Pipelines Below Ground,RMS IND,4021
+PH,Petrochemical - Tank Farms,RMS IND,4031
+PH,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+PH,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+PH,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+PH,Electric Power Generation - Hydroelectric,RMS IND,5011
+PH,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+PH,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+PH,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+PH,Electric Power Generation - Gas Power (Small),RMS IND,5031
+PH,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+PH,Electric Power Generation - Gas Power (Large),RMS IND,5033
+PH,Electric Power - T&D,RMS IND,6001
+PH,Electric Power - Substations (Small),RMS IND,6011
+PH,Electric Power - Substations (Mid),RMS IND,6012
+PH,Electric Power - Substations (Large),RMS IND,6013
+PH,Electric Power - Nuclear Power Plant,RMS IND,6021
+PH,Electric Power - Wind Farms (Small),RMS IND,6031
+PH,Electric Power - Wind Farms (Mid),RMS IND,6032
+PH,Electric Power - Wind Farms (Large),RMS IND,6033
+PH,Electric Power - Solar Farms (Small),RMS IND,6041
+PH,Electric Power - Solar Farms (Mid),RMS IND,6042
+PH,Electric Power - Solar Farms (Large),RMS IND,6043
+PH,Natural Gas,RMS IND,7001
+PH,Food & Beverage,RMS IND,7011
+PH,Data Processing/Telecommunications,RMS IND,7021
+PH,Communications,RMS IND,7031
+PH,Ports & Harbors,RMS IND,7041
+PH,"Dams, Reservoirs only",RMS IND,7051
+PH,Water/Sewage treatment plants,RMS IND,7061
+PH,Outdoor Mechanical,RMS IND,7071
+PH,Airport (Small),RMS IND,7081
+PH,Airport (Mid),RMS IND,7082
+PH,Airport (Large),RMS IND,7083
+PL,Heavy Industrial - Mining,RMS IND,1001
+PL,Heavy Industrial - Cement,RMS IND,1011
+PL,Heavy Industrial - Steel,RMS IND,1021
+PL,Heavy Industrial - Pulp & Paper,RMS IND,1031
+PL,Heavy Industrial - Glass,RMS IND,1041
+PL,Heavy Industrial - General,RMS IND,1051
+PL,Chemical Processing - Primarily Outdoor,RMS IND,2001
+PL,Chemical Processing - Primarily Indoor,RMS IND,2011
+PL,Light Industrial - Electronics,RMS IND,3001
+PL,Light Industrial - Pharmaceutical,RMS IND,3011
+PL,Light Industrial - Biomedical,RMS IND,3021
+PL,Light Industrial - Semiconductor,RMS IND,3031
+PL,Light Industrial - General Assembly,RMS IND,3041
+PL,Light Industrial - General Manufacturing,RMS IND,3051
+PL,Light Industrial - Technological Risk,RMS IND,3061
+PL,Petrochemical - Refineries,RMS IND,4001
+PL,Petrochemical - Pipelines,RMS IND,4011
+PL,Petrochemical - Pipelines below ground,RMS IND,4021
+PL,Petrochemical - Tank farms,RMS IND,4031
+PL,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+PL,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+PL,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+PL,Electric Power Generation - Hydroelectric,RMS IND,5011
+PL,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+PL,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+PL,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+PL,Electric Power Generation - Gas Power (Small),RMS IND,5031
+PL,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+PL,Electric Power Generation - Gas Power (Large),RMS IND,5033
+PL,Electric Power - T&D,RMS IND,6001
+PL,Electric Power - Substations (Small),RMS IND,6011
+PL,Electric Power - Substations (Mid),RMS IND,6012
+PL,Electric Power - Substations (Large),RMS IND,6013
+PL,Electric Power - Nuclear power plant,RMS IND,6021
+PL,Electric Power - Wind Farms (Small),RMS IND,6031
+PL,Electric Power - Wind Farms (Mid),RMS IND,6032
+PL,Electric Power - Wind Farms (Large),RMS IND,6033
+PL,Electric Power - Solar Farms (Small),RMS IND,6041
+PL,Electric Power - Solar Farms (Mid),RMS IND,6042
+PL,Electric Power - Solar Farms (Large),RMS IND,6043
+PL,Natural Gas,RMS IND,7001
+PL,Food & Beverage,RMS IND,7011
+PL,Data Processing/Telecommunications,RMS IND,7021
+PL,Communications,RMS IND,7031
+PL,Ports & Harbors,RMS IND,7041
+PL,"Dams, Reservoirs only",RMS IND,7051
+PL,Water/Sewage treatment plants,RMS IND,7061
+PL,Mechanical,RMS IND,7071
+PL,Airport (Small),RMS IND,7081
+PL,Airport (Mid),RMS IND,7082
+PL,Airport (Large),RMS IND,7083
+PT,Heavy Industrial - Mining,RMS IND,1001
+PT,Heavy Industrial - Cement,RMS IND,1011
+PT,Heavy Industrial - Steel,RMS IND,1021
+PT,Heavy Industrial - Pulp & Paper,RMS IND,1031
+PT,Heavy Industrial - Glass,RMS IND,1041
+PT,Heavy Industrial - General,RMS IND,1051
+PT,Chemical Processing - Primarily Outdoor,RMS IND,2001
+PT,Chemical Processing - Primarily Indoor,RMS IND,2011
+PT,Light Industrial - Electronics,RMS IND,3001
+PT,Light Industrial - Pharmaceutical,RMS IND,3011
+PT,Light Industrial - Biomedical,RMS IND,3021
+PT,Light Industrial - Semiconductor,RMS IND,3031
+PT,Light Industrial - General Assembly,RMS IND,3041
+PT,Light Industrial - General Manufacturing,RMS IND,3051
+PT,Light Industrial - Technological Risk,RMS IND,3061
+PT,Petrochemical - Refineries,RMS IND,4001
+PT,Petrochemical - Pipelines,RMS IND,4011
+PT,Petrochemical - Pipelines below ground,RMS IND,4021
+PT,Petrochemical - Tank farms,RMS IND,4031
+PT,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+PT,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+PT,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+PT,Electric Power Generation - Hydroelectric,RMS IND,5011
+PT,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+PT,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+PT,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+PT,Electric Power Generation - Gas Power (Small),RMS IND,5031
+PT,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+PT,Electric Power Generation - Gas Power (Large),RMS IND,5033
+PT,Electric Power - T&D,RMS IND,6001
+PT,Electric Power - Substations (Small),RMS IND,6011
+PT,Electric Power - Substations (Mid),RMS IND,6012
+PT,Electric Power - Substations (Large),RMS IND,6013
+PT,Electric Power - Nuclear power plant,RMS IND,6021
+PT,Electric Power - Wind Farms (Small),RMS IND,6031
+PT,Electric Power - Wind Farms (Mid),RMS IND,6032
+PT,Electric Power - Wind Farms (Large),RMS IND,6033
+PT,Electric Power - Solar Farms (Small),RMS IND,6041
+PT,Electric Power - Solar Farms (Mid),RMS IND,6042
+PT,Electric Power - Solar Farms (Large),RMS IND,6043
+PT,Natural Gas,RMS IND,7001
+PT,Food & Beverage,RMS IND,7011
+PT,Data Processing/Telecommunications,RMS IND,7021
+PT,Communications,RMS IND,7031
+PT,Ports & Harbors,RMS IND,7041
+PT,"Dams, Reservoirs only",RMS IND,7051
+PT,Water/Sewage treatment plants,RMS IND,7061
+PT,Mechanical,RMS IND,7071
+PT,Airport (Small),RMS IND,7081
+PT,Airport (Mid),RMS IND,7082
+PT,Airport (Large),RMS IND,7083
+RO,Heavy Industrial - Mining,RMS IND,1001
+RO,Heavy Industrial - Cement,RMS IND,1011
+RO,Heavy Industrial - Steel,RMS IND,1021
+RO,Heavy Industrial - Pulp & Paper,RMS IND,1031
+RO,Heavy Industrial - Glass,RMS IND,1041
+RO,Heavy Industrial - General,RMS IND,1051
+RO,Chemical Processing - Primarily Outdoor,RMS IND,2001
+RO,Chemical Processing - Primarily Indoor,RMS IND,2011
+RO,Light Industrial - Electronics,RMS IND,3001
+RO,Light Industrial - Pharmaceutical,RMS IND,3011
+RO,Light Industrial - Biomedical,RMS IND,3021
+RO,Light Industrial - Semiconductor,RMS IND,3031
+RO,Light Industrial - General Assembly,RMS IND,3041
+RO,Light Industrial - General Manufacturing,RMS IND,3051
+RO,Light Industrial - Technological Risk,RMS IND,3061
+RO,Petrochemical - Refineries,RMS IND,4001
+RO,Petrochemical - Pipelines,RMS IND,4011
+RO,Petrochemical - Pipelines below ground,RMS IND,4021
+RO,Petrochemical - Tank farms,RMS IND,4031
+RO,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+RO,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+RO,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+RO,Electric Power Generation - Hydroelectric,RMS IND,5011
+RO,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+RO,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+RO,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+RO,Electric Power Generation - Gas Power (Small),RMS IND,5031
+RO,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+RO,Electric Power Generation - Gas Power (Large),RMS IND,5033
+RO,Electric Power - T&D,RMS IND,6001
+RO,Electric Power - Substations (Small),RMS IND,6011
+RO,Electric Power - Substations (Mid),RMS IND,6012
+RO,Electric Power - Substations (Large),RMS IND,6013
+RO,Electric Power - Nuclear power plant,RMS IND,6021
+RO,Electric Power - Wind Farms (Small),RMS IND,6031
+RO,Electric Power - Wind Farms (Mid),RMS IND,6032
+RO,Electric Power - Wind Farms (Large),RMS IND,6033
+RO,Electric Power - Solar Farms (Small),RMS IND,6041
+RO,Electric Power - Solar Farms (Mid),RMS IND,6042
+RO,Electric Power - Solar Farms (Large),RMS IND,6043
+RO,Natural Gas,RMS IND,7001
+RO,Food & Beverage,RMS IND,7011
+RO,Data Processing/Telecommunications,RMS IND,7021
+RO,Communications,RMS IND,7031
+RO,Ports & Harbors,RMS IND,7041
+RO,"Dams, Reservoirs only",RMS IND,7051
+RO,Water/Sewage treatment plants,RMS IND,7061
+RO,Mechanical,RMS IND,7071
+RO,Airport (Small),RMS IND,7081
+RO,Airport (Mid),RMS IND,7082
+RO,Airport (Large),RMS IND,7083
+SE,Heavy Industrial - Mining,RMS IND,1001
+SE,Heavy Industrial - Cement,RMS IND,1011
+SE,Heavy Industrial - Steel,RMS IND,1021
+SE,Heavy Industrial - Pulp & Paper,RMS IND,1031
+SE,Heavy Industrial - Glass,RMS IND,1041
+SE,Heavy Industrial - General,RMS IND,1051
+SE,Chemical Processing - Primarily Outdoor,RMS IND,2001
+SE,Chemical Processing - Primarily Indoor,RMS IND,2011
+SE,Light Industrial - Electronics,RMS IND,3001
+SE,Light Industrial - Pharmaceutical,RMS IND,3011
+SE,Light Industrial - Biomedical,RMS IND,3021
+SE,Light Industrial - Semiconductor,RMS IND,3031
+SE,Light Industrial - General Assembly,RMS IND,3041
+SE,Light Industrial - General Manufacturing,RMS IND,3051
+SE,Light Industrial - Technological Risk,RMS IND,3061
+SE,Petrochemical - Refineries,RMS IND,4001
+SE,Petrochemical - Pipelines,RMS IND,4011
+SE,Petrochemical - Pipelines below ground,RMS IND,4021
+SE,Petrochemical - Tank farms,RMS IND,4031
+SE,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+SE,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+SE,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+SE,Electric Power Generation - Hydroelectric,RMS IND,5011
+SE,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+SE,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+SE,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+SE,Electric Power Generation - Gas Power (Small),RMS IND,5031
+SE,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+SE,Electric Power Generation - Gas Power (Large),RMS IND,5033
+SE,Electric Power - T&D,RMS IND,6001
+SE,Electric Power - Substations (Small),RMS IND,6011
+SE,Electric Power - Substations (Mid),RMS IND,6012
+SE,Electric Power - Substations (Large),RMS IND,6013
+SE,Electric Power - Nuclear power plant,RMS IND,6021
+SE,Electric Power - Wind Farms (Small),RMS IND,6031
+SE,Electric Power - Wind Farms (Mid),RMS IND,6032
+SE,Electric Power - Wind Farms (Large),RMS IND,6033
+SE,Electric Power - Solar Farms (Small),RMS IND,6041
+SE,Electric Power - Solar Farms (Mid),RMS IND,6042
+SE,Electric Power - Solar Farms (Large),RMS IND,6043
+SE,Natural Gas,RMS IND,7001
+SE,Food & Beverage,RMS IND,7011
+SE,Data Processing/Telecommunications,RMS IND,7021
+SE,Communications,RMS IND,7031
+SE,Ports & Harbors,RMS IND,7041
+SE,"Dams, Reservoirs only",RMS IND,7051
+SE,Water/Sewage treatment plants,RMS IND,7061
+SE,Mechanical,RMS IND,7071
+SE,Airport (Small),RMS IND,7081
+SE,Airport (Mid),RMS IND,7082
+SE,Airport (Large),RMS IND,7083
+SG,Heavy Industrial - Mining,RMS IND,1001
+SG,Heavy Industrial - Cement,RMS IND,1011
+SG,Heavy Industrial - Steel,RMS IND,1021
+SG,Heavy Industrial - Pulp & Paper,RMS IND,1031
+SG,Heavy Industrial - Glass,RMS IND,1041
+SG,Heavy Industrial - General,RMS IND,1051
+SG,Chemical Processing - Primarily Outdoor,RMS IND,2001
+SG,Chemical Processing - Primarily Indoor,RMS IND,2011
+SG,Light Industrial - Electronics,RMS IND,3001
+SG,Light Industrial - Pharmaceutical,RMS IND,3011
+SG,Light Industrial - Biomedical,RMS IND,3021
+SG,Light Industrial - Semiconductor,RMS IND,3031
+SG,Light Industrial - General Assembly,RMS IND,3041
+SG,Light Industrial - General Manufacturing,RMS IND,3051
+SG,Light Industrial - Technological Risk,RMS IND,3061
+SG,Petrochemical - Refineries,RMS IND,4001
+SG,Petrochemical - Pipelines,RMS IND,4011
+SG,Petrochemical - Pipelines Below Ground,RMS IND,4021
+SG,Petrochemical - Tank Farms,RMS IND,4031
+SG,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+SG,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+SG,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+SG,Electric Power Generation - Hydroelectric,RMS IND,5011
+SG,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+SG,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+SG,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+SG,Electric Power Generation - Gas Power (Small),RMS IND,5031
+SG,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+SG,Electric Power Generation - Gas Power (Large),RMS IND,5033
+SG,Electric Power - T&D,RMS IND,6001
+SG,Electric Power - Substations (Small),RMS IND,6011
+SG,Electric Power - Substations (Mid),RMS IND,6012
+SG,Electric Power - Substations (Large),RMS IND,6013
+SG,Electric Power - Nuclear Power Plant,RMS IND,6021
+SG,Electric Power - Wind Farms (Small),RMS IND,6031
+SG,Electric Power - Wind Farms (Mid),RMS IND,6032
+SG,Electric Power - Wind Farms (Large),RMS IND,6033
+SG,Electric Power - Solar Farms (Small),RMS IND,6041
+SG,Electric Power - Solar Farms (Mid),RMS IND,6042
+SG,Electric Power - Solar Farms (Large),RMS IND,6043
+SG,Natural Gas,RMS IND,7001
+SG,Food & Beverage,RMS IND,7011
+SG,Data Processing/Telecommunications,RMS IND,7021
+SG,Communications,RMS IND,7031
+SG,Ports & Harbors,RMS IND,7041
+SG,"Dams, Reservoirs only",RMS IND,7051
+SG,Water/Sewage treatment plants,RMS IND,7061
+SG,Outdoor Mechanical,RMS IND,7071
+SG,Airport (Small),RMS IND,7081
+SG,Airport (Mid),RMS IND,7082
+SG,Airport (Large),RMS IND,7083
+SI,Heavy Industrial - Mining,RMS IND,1001
+SI,Heavy Industrial - Cement,RMS IND,1011
+SI,Heavy Industrial - Steel,RMS IND,1021
+SI,Heavy Industrial - Pulp & Paper,RMS IND,1031
+SI,Heavy Industrial - Glass,RMS IND,1041
+SI,Heavy Industrial - General,RMS IND,1051
+SI,Chemical Processing - Primarily Outdoor,RMS IND,2001
+SI,Chemical Processing - Primarily Indoor,RMS IND,2011
+SI,Light Industrial - Electronics,RMS IND,3001
+SI,Light Industrial - Pharmaceutical,RMS IND,3011
+SI,Light Industrial - Biomedical,RMS IND,3021
+SI,Light Industrial - Semiconductor,RMS IND,3031
+SI,Light Industrial - General Assembly,RMS IND,3041
+SI,Light Industrial - General Manufacturing,RMS IND,3051
+SI,Light Industrial - Technological Risk,RMS IND,3061
+SI,Petrochemical - Refineries,RMS IND,4001
+SI,Petrochemical - Pipelines,RMS IND,4011
+SI,Petrochemical - Pipelines below ground,RMS IND,4021
+SI,Petrochemical - Tank farms,RMS IND,4031
+SI,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+SI,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+SI,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+SI,Electric Power Generation - Hydroelectric,RMS IND,5011
+SI,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+SI,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+SI,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+SI,Electric Power Generation - Gas Power (Small),RMS IND,5031
+SI,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+SI,Electric Power Generation - Gas Power (Large),RMS IND,5033
+SI,Electric Power - T&D,RMS IND,6001
+SI,Electric Power - Substations (Small),RMS IND,6011
+SI,Electric Power - Substations (Mid),RMS IND,6012
+SI,Electric Power - Substations (Large),RMS IND,6013
+SI,Electric Power - Nuclear power plant,RMS IND,6021
+SI,Electric Power - Wind Farms (Small),RMS IND,6031
+SI,Electric Power - Wind Farms (Mid),RMS IND,6032
+SI,Electric Power - Wind Farms (Large),RMS IND,6033
+SI,Electric Power - Solar Farms (Small),RMS IND,6041
+SI,Electric Power - Solar Farms (Mid),RMS IND,6042
+SI,Electric Power - Solar Farms (Large),RMS IND,6043
+SI,Natural Gas,RMS IND,7001
+SI,Food & Beverage,RMS IND,7011
+SI,Data Processing/Telecommunications,RMS IND,7021
+SI,Communications,RMS IND,7031
+SI,Ports & Harbors,RMS IND,7041
+SI,"Dams, Reservoirs only",RMS IND,7051
+SI,Water/Sewage treatment plants,RMS IND,7061
+SI,Mechanical,RMS IND,7071
+SI,Airport (Small),RMS IND,7081
+SI,Airport (Mid),RMS IND,7082
+SI,Airport (Large),RMS IND,7083
+SK,Heavy Industrial - Mining,RMS IND,1001
+SK,Heavy Industrial - Cement,RMS IND,1011
+SK,Heavy Industrial - Steel,RMS IND,1021
+SK,Heavy Industrial - Pulp & Paper,RMS IND,1031
+SK,Heavy Industrial - Glass,RMS IND,1041
+SK,Heavy Industrial - General,RMS IND,1051
+SK,Chemical Processing - Primarily Outdoor,RMS IND,2001
+SK,Chemical Processing - Primarily Indoor,RMS IND,2011
+SK,Light Industrial - Electronics,RMS IND,3001
+SK,Light Industrial - Pharmaceutical,RMS IND,3011
+SK,Light Industrial - Biomedical,RMS IND,3021
+SK,Light Industrial - Semiconductor,RMS IND,3031
+SK,Light Industrial - General Assembly,RMS IND,3041
+SK,Light Industrial - General Manufacturing,RMS IND,3051
+SK,Light Industrial - Technological Risk,RMS IND,3061
+SK,Petrochemical - Refineries,RMS IND,4001
+SK,Petrochemical - Pipelines,RMS IND,4011
+SK,Petrochemical - Pipelines below ground,RMS IND,4021
+SK,Petrochemical - Tank farms,RMS IND,4031
+SK,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+SK,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+SK,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+SK,Electric Power Generation - Hydroelectric,RMS IND,5011
+SK,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+SK,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+SK,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+SK,Electric Power Generation - Gas Power (Small),RMS IND,5031
+SK,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+SK,Electric Power Generation - Gas Power (Large),RMS IND,5033
+SK,Electric Power - T&D,RMS IND,6001
+SK,Electric Power - Substations (Small),RMS IND,6011
+SK,Electric Power - Substations (Mid),RMS IND,6012
+SK,Electric Power - Substations (Large),RMS IND,6013
+SK,Electric Power - Nuclear power plant,RMS IND,6021
+SK,Electric Power - Wind Farms (Small),RMS IND,6031
+SK,Electric Power - Wind Farms (Mid),RMS IND,6032
+SK,Electric Power - Wind Farms (Large),RMS IND,6033
+SK,Electric Power - Solar Farms (Small),RMS IND,6041
+SK,Electric Power - Solar Farms (Mid),RMS IND,6042
+SK,Electric Power - Solar Farms (Large),RMS IND,6043
+SK,Natural Gas,RMS IND,7001
+SK,Food & Beverage,RMS IND,7011
+SK,Data Processing/Telecommunications,RMS IND,7021
+SK,Communications,RMS IND,7031
+SK,Ports & Harbors,RMS IND,7041
+SK,"Dams, Reservoirs only",RMS IND,7051
+SK,Water/Sewage treatment plants,RMS IND,7061
+SK,Mechanical,RMS IND,7071
+SK,Airport (Small),RMS IND,7081
+SK,Airport (Mid),RMS IND,7082
+SK,Airport (Large),RMS IND,7083
+SV,Heavy Industrial - Mining,RMS IND,1001
+SV,Heavy Industrial - Cement,RMS IND,1011
+SV,Heavy Industrial - Steel,RMS IND,1021
+SV,Heavy Industrial - Pulp & Paper,RMS IND,1031
+SV,Heavy Industrial - Glass,RMS IND,1041
+SV,Heavy Industrial - General,RMS IND,1051
+SV,Chemical Processing - Primarily Outdoor,RMS IND,2001
+SV,Chemical Processing - Primarily Indoor,RMS IND,2011
+SV,Light Industrial - Electronics,RMS IND,3001
+SV,Light Industrial - Pharmaceutical,RMS IND,3011
+SV,Light Industrial - Biomedical,RMS IND,3021
+SV,Light Industrial - Semiconductor,RMS IND,3031
+SV,Light Industrial - General Assembly,RMS IND,3041
+SV,Light Industrial - General Manufacturing,RMS IND,3051
+SV,Light Industrial - Technological Risk,RMS IND,3061
+SV,Petrochemical - Refineries,RMS IND,4001
+SV,Petrochemical - Pipelines,RMS IND,4011
+SV,Petrochemical - Pipelines below ground,RMS IND,4021
+SV,Petrochemical - Tank farms,RMS IND,4031
+SV,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+SV,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+SV,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+SV,Electric Power Generation - Hydroelectric,RMS IND,5011
+SV,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+SV,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+SV,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+SV,Electric Power Generation - Gas Power (Small),RMS IND,5031
+SV,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+SV,Electric Power Generation - Gas Power (Large),RMS IND,5033
+SV,Electric Power - T&D,RMS IND,6001
+SV,Electric Power - Substations (Small),RMS IND,6011
+SV,Electric Power - Substations (Mid),RMS IND,6012
+SV,Electric Power - Substations (Large),RMS IND,6013
+SV,Electric Power - Nuclear power plant,RMS IND,6021
+SV,Electric Power - Wind Farms (Small),RMS IND,6031
+SV,Electric Power - Wind Farms (Mid),RMS IND,6032
+SV,Electric Power - Wind Farms (Large),RMS IND,6033
+SV,Electric Power - Solar Farms (Small),RMS IND,6041
+SV,Electric Power - Solar Farms (Mid),RMS IND,6042
+SV,Electric Power - Solar Farms (Large),RMS IND,6043
+SV,Natural Gas,RMS IND,7001
+SV,Food & Beverage,RMS IND,7011
+SV,Data Processing/Telecommunications,RMS IND,7021
+SV,Communications,RMS IND,7031
+SV,Ports & Harbors,RMS IND,7041
+SV,"Dams, Reservoirs only",RMS IND,7051
+SV,Water/Sewage treatment plants,RMS IND,7061
+SV,Outdoor Mechanical,RMS IND,7071
+SV,Airport (Small),RMS IND,7081
+SV,Airport (Mid),RMS IND,7082
+SV,Airport (Large),RMS IND,7083
+TH,Heavy Industrial - Mining,RMS IND,1001
+TH,Heavy Industrial - Cement,RMS IND,1011
+TH,Heavy Industrial - Steel,RMS IND,1021
+TH,Heavy Industrial - Pulp & Paper,RMS IND,1031
+TH,Heavy Industrial - Glass,RMS IND,1041
+TH,Heavy Industrial - General,RMS IND,1051
+TH,Chemical Processing - Primarily Outdoor,RMS IND,2001
+TH,Chemical Processing - Primarily Indoor,RMS IND,2011
+TH,Light Industrial - Electronics,RMS IND,3001
+TH,Light Industrial - Pharmaceutical,RMS IND,3011
+TH,Light Industrial - Biomedical,RMS IND,3021
+TH,Light Industrial - Semiconductor,RMS IND,3031
+TH,Light Industrial - General Assembly,RMS IND,3041
+TH,Light Industrial - General Manufacturing,RMS IND,3051
+TH,Light Industrial - Technological Risk,RMS IND,3061
+TH,Petrochemical - Refineries,RMS IND,4001
+TH,Petrochemical - Pipelines,RMS IND,4011
+TH,Petrochemical - Pipelines Below Ground,RMS IND,4021
+TH,Petrochemical - Tank Farms,RMS IND,4031
+TH,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+TH,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+TH,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+TH,Electric Power Generation - Hydroelectric,RMS IND,5011
+TH,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+TH,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+TH,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+TH,Electric Power Generation - Gas Power (Small),RMS IND,5031
+TH,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+TH,Electric Power Generation - Gas Power (Large),RMS IND,5033
+TH,Electric Power - T&D,RMS IND,6001
+TH,Electric Power - Substations (Small),RMS IND,6011
+TH,Electric Power - Substations (Mid),RMS IND,6012
+TH,Electric Power - Substations (Large),RMS IND,6013
+TH,Electric Power - Nuclear Power Plant,RMS IND,6021
+TH,Electric Power - Wind Farms (Small),RMS IND,6031
+TH,Electric Power - Wind Farms (Mid),RMS IND,6032
+TH,Electric Power - Wind Farms (Large),RMS IND,6033
+TH,Electric Power - Solar Farms (Small),RMS IND,6041
+TH,Electric Power - Solar Farms (Mid),RMS IND,6042
+TH,Electric Power - Solar Farms (Large),RMS IND,6043
+TH,Natural Gas,RMS IND,7001
+TH,Food & Beverage,RMS IND,7011
+TH,Data Processing/Telecommunications,RMS IND,7021
+TH,Communications,RMS IND,7031
+TH,Ports & Harbors,RMS IND,7041
+TH,"Dams, Reservoirs only",RMS IND,7051
+TH,Water/Sewage treatment plants,RMS IND,7061
+TH,Outdoor Mechanical,RMS IND,7071
+TH,Airport (Small),RMS IND,7081
+TH,Airport (Mid),RMS IND,7082
+TH,Airport (Large),RMS IND,7083
+TR,Heavy Industrial - Mining,RMS IND,1001
+TR,Heavy Industrial - Cement,RMS IND,1011
+TR,Heavy Industrial - Steel,RMS IND,1021
+TR,Heavy Industrial - Pulp & Paper,RMS IND,1031
+TR,Heavy Industrial - Glass,RMS IND,1041
+TR,Heavy Industrial - General,RMS IND,1051
+TR,Chemical Processing - Primarily Outdoor,RMS IND,2001
+TR,Chemical Processing - Primarily Indoor,RMS IND,2011
+TR,Light Industrial - Electronics,RMS IND,3001
+TR,Light Industrial - Pharmaceutical,RMS IND,3011
+TR,Light Industrial - Biomedical,RMS IND,3021
+TR,Light Industrial - Semiconductor,RMS IND,3031
+TR,Light Industrial - General Assembly,RMS IND,3041
+TR,Light Industrial - General Manufacturing,RMS IND,3051
+TR,Light Industrial - Technological Risk,RMS IND,3061
+TR,Petrochemical - Refineries,RMS IND,4001
+TR,Petrochemical - Pipelines,RMS IND,4011
+TR,Petrochemical - Pipelines below ground,RMS IND,4021
+TR,Petrochemical - Tank farms,RMS IND,4031
+TR,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+TR,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+TR,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+TR,Electric Power Generation - Hydroelectric,RMS IND,5011
+TR,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+TR,Electric Power Generation - Co-Generation (Medium),RMS IND,5022
+TR,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+TR,Electric Power Generation - Gas Power (Small),RMS IND,5031
+TR,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+TR,Electric Power Generation - Gas Power (Large),RMS IND,5033
+TR,Electric Power - T&D,RMS IND,6001
+TR,Electric Power - Substations (Small),RMS IND,6011
+TR,Electric Power - Substations (Mid),RMS IND,6012
+TR,Electric Power - Substations (Large),RMS IND,6013
+TR,Electric Power - Nuclear power plant,RMS IND,6021
+TR,Electric Power - Wind Farms (Small),RMS IND,6031
+TR,Electric Power - Wind Farms (Mid),RMS IND,6032
+TR,Electric Power - Wind Farms (Large),RMS IND,6033
+TR,Electric Power - Solar Farms (Small),RMS IND,6041
+TR,Electric Power - Solar Farms (Mid),RMS IND,6042
+TR,Electric Power - Solar Farms (Large),RMS IND,6043
+TR,Natural Gas,RMS IND,7001
+TR,Food & Beverage,RMS IND,7011
+TR,Data Processing/Telecommunications,RMS IND,7021
+TR,Communications,RMS IND,7031
+TR,Ports & Harbors,RMS IND,7041
+TR,"Dams, Reservoirs only",RMS IND,7051
+TR,Water/Sewage treatment plants,RMS IND,7061
+TR,Mechanical,RMS IND,7071
+TR,Airport (Small),RMS IND,7081
+TR,Airport (Mid),RMS IND,7082
+TR,Airport (Large),RMS IND,7083
+TW,Heavy Industrial - Mining,RMS IND,1001
+TW,Heavy Industrial - Cement,RMS IND,1011
+TW,Heavy Industrial - Steel,RMS IND,1021
+TW,Heavy Industrial - Pulp & Paper,RMS IND,1031
+TW,Heavy Industrial - Glass,RMS IND,1041
+TW,Heavy Industrial - General,RMS IND,1051
+TW,Chemical Processing - Primarily Outdoor,RMS IND,2001
+TW,Chemical Processing - Primarily Indoor,RMS IND,2011
+TW,Light Industrial - Electronics,RMS IND,3001
+TW,Light Industrial - Pharmaceutical,RMS IND,3011
+TW,Light Industrial - Biomedical,RMS IND,3021
+TW,Light Industrial - Semiconductor,RMS IND,3031
+TW,Light Industrial - General Assembly,RMS IND,3041
+TW,Light Industrial - General Manufacturing,RMS IND,3051
+TW,Light Industrial - Technological Risk,RMS IND,3061
+TW,Petrochemical - Refineries,RMS IND,4001
+TW,Petrochemical - Pipelines,RMS IND,4011
+TW,Petrochemical - Pipelines Below Ground,RMS IND,4021
+TW,Petrochemical - Tank Farms,RMS IND,4031
+TW,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+TW,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+TW,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+TW,Electric Power Generation - Hydroelectric,RMS IND,5011
+TW,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+TW,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+TW,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+TW,Electric Power Generation - Gas Power (Small),RMS IND,5031
+TW,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+TW,Electric Power Generation - Gas Power (Large),RMS IND,5033
+TW,Electric Power - T&D,RMS IND,6001
+TW,Electric Power - Substations (Small),RMS IND,6011
+TW,Electric Power - Substations (Mid),RMS IND,6012
+TW,Electric Power - Substations (Large),RMS IND,6013
+TW,Electric Power - Nuclear Power Plant,RMS IND,6021
+TW,Electric Power - Wind Farms (Small),RMS IND,6031
+TW,Electric Power - Wind Farms (Mid),RMS IND,6032
+TW,Electric Power - Wind Farms (Large),RMS IND,6033
+TW,Electric Power - Solar Farms (Small),RMS IND,6041
+TW,Electric Power - Solar Farms (Mid),RMS IND,6042
+TW,Electric Power - Solar Farms (Large),RMS IND,6043
+TW,Natural Gas,RMS IND,7001
+TW,Food & Beverage,RMS IND,7011
+TW,Data Processing/Telecommunications,RMS IND,7021
+TW,Communications,RMS IND,7031
+TW,Ports & Harbors,RMS IND,7041
+TW,"Dams, Reservoirs only",RMS IND,7051
+TW,Water/Sewage treatment plants,RMS IND,7061
+TW,Outdoor Mechanical ,RMS IND,7071
+TW,Airport (Small),RMS IND,7081
+TW,Airport (Mid),RMS IND,7082
+TW,Airport (Large),RMS IND,7083
+US,Heavy Industrial - Mining,RMS IND,1001
+US,Heavy Industrial - Cement,RMS IND,1011
+US,Heavy Industrial - Steel,RMS IND,1021
+US,Heavy Industrial - Pulp & Paper,RMS IND,1031
+US,Heavy Industrial - Glass,RMS IND,1041
+US,Heavy Industrial - General,RMS IND,1051
+US,Chemical Processing - Primarily Outdoor,RMS IND,2001
+US,Chemical Processing - Primarily Indoor,RMS IND,2011
+US,Light Industrial - Electronics,RMS IND,3001
+US,Light Industrial - Pharmaceutical,RMS IND,3011
+US,Light Industrial - Biomedical,RMS IND,3021
+US,Light Industrial - Semiconductor,RMS IND,3031
+US,Light Industrial - General Assembly,RMS IND,3041
+US,Light Industrial - General Manufacturing,RMS IND,3051
+US,Light Industrial - Technological Risk,RMS IND,3061
+US,Petrochemical - Refineries,RMS IND,4001
+US,Petrochemical - Pipelines,RMS IND,4011
+US,Petrochemical - Pipelines Below Ground,RMS IND,4021
+US,Petrochemical - Tank Farms,RMS IND,4031
+US,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+US,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+US,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+US,Electric Power Generation - Hydroelectric,RMS IND,5011
+US,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+US,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+US,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+US,Electric Power Generation - Gas Power (Small),RMS IND,5031
+US,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+US,Electric Power Generation - Gas Power (Large),RMS IND,5033
+US,Electric Power - T&D,RMS IND,6001
+US,Electric Power - Substations (Small),RMS IND,6011
+US,Electric Power - Substations (Mid),RMS IND,6012
+US,Electric Power - Substations (Large),RMS IND,6013
+US,Electric Power - Nuclear Power Plant,RMS IND,6021
+US,Electric Power - Wind Farms (Small),RMS IND,6031
+US,Electric Power - Wind Farms (Mid),RMS IND,6032
+US,Electric Power - Wind Farms (Large),RMS IND,6033
+US,Electric Power - Solar Farms (Small),RMS IND,6041
+US,Electric Power - Solar Farms (Mid),RMS IND,6042
+US,Electric Power - Solar Farms (Large),RMS IND,6043
+US,Natural Gas,RMS IND,7001
+US,Food & Beverage,RMS IND,7011
+US,Data Processing/Telecommunications,RMS IND,7021
+US,Communications,RMS IND,7031
+US,Ports & Harbors,RMS IND,7041
+US,"Dams, Reservoirs only",RMS IND,7051
+US,Water/Sewage treatment plants,RMS IND,7061
+US,Outdoor Mechanical ,RMS IND,7071
+US,Airport (Small),RMS IND,7081
+US,Airport (Mid),RMS IND,7082
+US,Airport (Large),RMS IND,7083
+VE,Heavy Industrial - Mining,RMS IND,1001
+VE,Heavy Industrial - Cement,RMS IND,1011
+VE,Heavy Industrial - Steel,RMS IND,1021
+VE,Heavy Industrial - Pulp & Paper,RMS IND,1031
+VE,Heavy Industrial - Glass,RMS IND,1041
+VE,Heavy Industrial - General,RMS IND,1051
+VE,Chemical Processing - Primarily Outdoor,RMS IND,2001
+VE,Chemical Processing - Primarily Indoor,RMS IND,2011
+VE,Light Industrial - Electronics,RMS IND,3001
+VE,Light Industrial - Pharmaceutical,RMS IND,3011
+VE,Light Industrial - Biomedical,RMS IND,3021
+VE,Light Industrial - Semiconductor,RMS IND,3031
+VE,Light Industrial - General Assembly,RMS IND,3041
+VE,Light Industrial - General Manufacturing,RMS IND,3051
+VE,Light Industrial - Technological Risk,RMS IND,3061
+VE,Petrochemical - Refineries,RMS IND,4001
+VE,Petrochemical - Pipelines,RMS IND,4011
+VE,Petrochemical - Pipelines below ground,RMS IND,4021
+VE,Petrochemical - Tank farms,RMS IND,4031
+VE,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+VE,Electric Power Generation - Fossil Fuel (Mid),RMS IND,5002
+VE,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+VE,Electric Power Generation - Hydroelectric,RMS IND,5011
+VE,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+VE,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+VE,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+VE,Electric Power Generation - Gas Power (Small),RMS IND,5031
+VE,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+VE,Electric Power Generation - Gas Power (Large),RMS IND,5033
+VE,Electric Power - T&D,RMS IND,6001
+VE,Electric Power - Substations (Small),RMS IND,6011
+VE,Electric Power - Substations (Mid),RMS IND,6012
+VE,Electric Power - Substations (Large),RMS IND,6013
+VE,Electric Power - Nuclear power plant,RMS IND,6021
+VE,Electric Power - Wind Farms (Small),RMS IND,6031
+VE,Electric Power - Wind Farms (Mid),RMS IND,6032
+VE,Electric Power - Wind Farms (Large),RMS IND,6033
+VE,Electric Power - Solar Farms (Small),RMS IND,6041
+VE,Electric Power - Solar Farms (Mid),RMS IND,6042
+VE,Electric Power - Solar Farms (Large),RMS IND,6043
+VE,Natural Gas,RMS IND,7001
+VE,Food & Beverage,RMS IND,7011
+VE,Data Processing/Telecommunications,RMS IND,7021
+VE,Communications,RMS IND,7031
+VE,Ports & Harbors,RMS IND,7041
+VE,"Dams, Reservoirs only",RMS IND,7051
+VE,Water/Sewage treatment plants,RMS IND,7061
+VE,Outdoor Mechanical,RMS IND,7071
+VE,Airport (Small),RMS IND,7081
+VE,Airport (Mid),RMS IND,7082
+VE,Airport (Large),RMS IND,7083
+VN,Heavy Industrial - Mining,RMS IND,1001
+VN,Heavy Industrial - Cement,RMS IND,1011
+VN,Heavy Industrial - Steel,RMS IND,1021
+VN,Heavy Industrial - Pulp & Paper,RMS IND,1031
+VN,Heavy Industrial - Glass,RMS IND,1041
+VN,Heavy Industrial - General,RMS IND,1051
+VN,Chemical Processing - Primarily Outdoor,RMS IND,2001
+VN,Chemical Processing - Primarily Indoor,RMS IND,2011
+VN,Light Industrial - Electronics,RMS IND,3001
+VN,Light Industrial - Pharmaceutical,RMS IND,3011
+VN,Light Industrial - Biomedical,RMS IND,3021
+VN,Light Industrial - Semiconductor,RMS IND,3031
+VN,Light Industrial - General Assembly,RMS IND,3041
+VN,Light Industrial - General Manufacturing,RMS IND,3051
+VN,Light Industrial - Technological Risk,RMS IND,3061
+VN,Petrochemical - Refineries,RMS IND,4001
+VN,Petrochemical - Pipelines,RMS IND,4011
+VN,Petrochemical - Pipelines Below Ground,RMS IND,4021
+VN,Petrochemical - Tank Farms,RMS IND,4031
+VN,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+VN,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+VN,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+VN,Electric Power Generation - Hydroelectric,RMS IND,5011
+VN,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+VN,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+VN,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+VN,Electric Power Generation - Gas Power (Small),RMS IND,5031
+VN,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+VN,Electric Power Generation - Gas Power (Large),RMS IND,5033
+VN,Electric Power - T&D,RMS IND,6001
+VN,Electric Power - Substations (Small),RMS IND,6011
+VN,Electric Power - Substations (Mid),RMS IND,6012
+VN,Electric Power - Substations (Large),RMS IND,6013
+VN,Electric Power - Nuclear Power Plant,RMS IND,6021
+VN,Electric Power - Wind Farms (Small),RMS IND,6031
+VN,Electric Power - Wind Farms (Mid),RMS IND,6032
+VN,Electric Power - Wind Farms (Large),RMS IND,6033
+VN,Electric Power - Solar Farms (Small),RMS IND,6041
+VN,Electric Power - Solar Farms (Mid),RMS IND,6042
+VN,Electric Power - Solar Farms (Large),RMS IND,6043
+VN,Natural Gas,RMS IND,7001
+VN,Food & Beverage,RMS IND,7011
+VN,Data Processing/Telecommunications,RMS IND,7021
+VN,Communications,RMS IND,7031
+VN,Ports & Harbors,RMS IND,7041
+VN,"Dams, Reservoirs only",RMS IND,7051
+VN,Water/Sewage treatment plants,RMS IND,7061
+VN,Outdoor Mechanical,RMS IND,7071
+VN,Airport (Small),RMS IND,7081
+VN,Airport (Mid),RMS IND,7082
+VN,Airport (Large),RMS IND,7083
+W3,Electric Power - Wind farms,RMS IND,6031
+ZZ,Heavy Industrial - Mining,RMS IND,1
+ZZ,Light Industrial - Pharmaceutical,RMS IND,10
+ZZ,Heavy Industrial - Mining,RMS IND,1001
+ZZ,Heavy Industrial - Cement,RMS IND,1011
+ZZ,Heavy Industrial - Steel,RMS IND,1021
+ZZ,Heavy Industrial - Pulp & Paper,RMS IND,1031
+ZZ,Heavy Industrial - Glass,RMS IND,1041
+ZZ,Heavy Industrial - General,RMS IND,1051
+ZZ,Light Industrial - Biomedical,RMS IND,11
+ZZ,Light Industrial - Semiconductor,RMS IND,12
+ZZ,Light Industrial - General Assembly,RMS IND,13
+ZZ,Light Industrial - General Manufacturing,RMS IND,14
+ZZ,Petrochemical - Refineries,RMS IND,15
+ZZ,Petrochemical - Pipelines,RMS IND,16
+ZZ,Electric Power Generation - Fossil Fuel,RMS IND,17
+ZZ,Electric Power Generation - Hydroelectric,RMS IND,18
+ZZ,Electric Power Generation - Co-Generation,RMS IND,19
+ZZ,Heavy Industrial - Cement,RMS IND,2
+ZZ,Electric Power - T&D,RMS IND,20
+ZZ,Chemical Processing - Primarily Outdoor,RMS IND,2001
+ZZ,Chemical Processing - Primarily Indoor,RMS IND,2011
+ZZ,Electric Power - Substations,RMS IND,21
+ZZ,Natural Gas,RMS IND,22
+ZZ,Food & Beverage,RMS IND,23
+ZZ,Data Processing/Telecommunications,RMS IND,24
+ZZ,Communications,RMS IND,25
+ZZ,Ports & Harbors,RMS IND,26
+ZZ,Airport,RMS IND,27
+ZZ,Heavy Industrial - Steel,RMS IND,3
+ZZ,Light Industrial - Electronics,RMS IND,3001
+ZZ,Light Industrial - Pharmaceutical,RMS IND,3011
+ZZ,Light Industrial - Biomedical,RMS IND,3021
+ZZ,Light Industrial - Semiconductor,RMS IND,3031
+ZZ,Light Industrial - General Assembly,RMS IND,3041
+ZZ,Light Industrial - General Manufacturing,RMS IND,3051
+ZZ,Light Industrial - Technological Risk,RMS IND,3061
+ZZ,Heavy Industrial - Pulp & Paper,RMS IND,4
+ZZ,Petrochemical - Refineries,RMS IND,4001
+ZZ,Petrochemical - Pipelines,RMS IND,4011
+ZZ,Petrochemical - Pipelines below ground,RMS IND,4021
+ZZ,Petrochemical - Tank farms,RMS IND,4031
+ZZ,Heavy Industrial - Glass,RMS IND,5
+ZZ,Electric Power Generation - Fossil Fuel (Small),RMS IND,5001
+ZZ,Electric Power Generation - Fossil Fuel (Medium),RMS IND,5002
+ZZ,Electric Power Generation - Fossil Fuel (Large),RMS IND,5003
+ZZ,Electric Power Generation - Hydroelectric,RMS IND,5011
+ZZ,Electric Power Generation - Co-Generation (Small),RMS IND,5021
+ZZ,Electric Power Generation - Co-Generation (Mid),RMS IND,5022
+ZZ,Electric Power Generation - Co-Generation (Large),RMS IND,5023
+ZZ,Electric Power Generation - Gas Power (Small),RMS IND,5031
+ZZ,Electric Power Generation - Gas Power (Mid),RMS IND,5032
+ZZ,Electric Power Generation - Gas Power (Large),RMS IND,5033
+ZZ,Heavy Industrial - General,RMS IND,6
+ZZ,Electric Power - T&D,RMS IND,6001
+ZZ,Electric Power - Substations (Small),RMS IND,6011
+ZZ,Electric Power - Substations (Mid),RMS IND,6012
+ZZ,Electric Power - Substations (Large),RMS IND,6013
+ZZ,Electric Power - Nuclear power plant,RMS IND,6021
+ZZ,Electric Power - Wind Farms (Small),RMS IND,6031
+ZZ,Electric Power - Wind Farms (Mid),RMS IND,6032
+ZZ,Electric Power - Wind Farms (Large),RMS IND,6033
+ZZ,Electric Power - Solar Farms (Small),RMS IND,6041
+ZZ,Electric Power - Solar Farms (Mid),RMS IND,6042
+ZZ,Electric Power - Solar Farms (Large),RMS IND,6043
+ZZ,Chemical Processing - Primarily Outdoor,RMS IND,7
+ZZ,Natural Gas,RMS IND,7001
+ZZ,Food & Beverage,RMS IND,7011
+ZZ,Data Processing/Telecommunications,RMS IND,7021
+ZZ,Communications,RMS IND,7031
+ZZ,Ports & Harbors,RMS IND,7041
+ZZ,"Dams, Reservoirs only",RMS IND,7051
+ZZ,Water/Sewage treatment plants,RMS IND,7061
+ZZ,Outdoor Mechanical,RMS IND,7071
+ZZ,Airport (Small),RMS IND,7081
+ZZ,Airport (Mid),RMS IND,7082
+ZZ,Airport (Large),RMS IND,7083
+ZZ,Chemical Processing - Primarily Indoor,RMS IND,8
+ZZ,Light Industrial - Electronics,RMS IND,9

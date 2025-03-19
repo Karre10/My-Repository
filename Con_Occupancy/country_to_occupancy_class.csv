@@ -1,0 +1,2859 @@
+COUNTRY,OccupancyClassDescription,OccupancySchemeID,OccupancyClassCode
+AD,Unknown,ATC,0
+AD,Permanent Dwelling (single family housing),ATC,1
+AD,Entertainment and Recreation,ATC,10
+AD,Parking,ATC,11
+AD,Heavy Fabrication and Assembly,ATC,12
+AD,Light Fabrication and Assembly,ATC,13
+AD,Food and Drugs Processing,ATC,14
+AD,Chemicals Processing,ATC,15
+AD,Metal and Minerals Processing,ATC,16
+AD,High Technology,ATC,17
+AD,Construction,ATC,18
+AD,Petroleum,ATC,19
+AD,Permanent Dwelling (multi family housing),ATC,2
+AD,Agriculture,ATC,20
+AD,Mining,ATC,21
+AD,Religion and Nonprofit,ATC,22
+AD,General Services,ATC,23
+AD,Emergency Response Services,ATC,24
+AD,Education,ATC,25
+AD,Highway,ATC,26
+AD,Railroad,ATC,27
+AD,Air,ATC,28
+AD,Sea/Water,ATC,29
+AD,Temporary Lodging,ATC,3
+AD,Electrical,ATC,30
+AD,Water,ATC,31
+AD,Sanitary Sewer,ATC,32
+AD,Natural Gas,ATC,33
+AD,Telephone & Telegraph,ATC,34
+AD,Communication (Radio and TV),ATC,35
+AD,Flood Control,ATC,36
+AD,General Commercial,ATC,37
+AD,General Industrial,ATC,38
+AD,Miscellaneous,ATC,39
+AD,Group Institutional Housing,ATC,4
+AD,Retail Trade,ATC,5
+AD,Wholesale Trade,ATC,6
+AD,Personal and Repair Services,ATC,7
+AD,"Professional, Technical and Business Services",ATC,8
+AD,Health Care Service,ATC,9
+AR,Unknown,ATC,0
+AR,Permanent Dwelling (single family housing),ATC,1
+AR,Entertainment and Recreation,ATC,10
+AR,Parking,ATC,11
+AR,Heavy Fabrication and Assembly,ATC,12
+AR,Light Fabrication and Assembly,ATC,13
+AR,Food and Drugs Processing,ATC,14
+AR,Chemicals Processing,ATC,15
+AR,Metal and Minerals Processing,ATC,16
+AR,High Technology,ATC,17
+AR,Construction,ATC,18
+AR,Petroleum,ATC,19
+AR,Permanent Dwelling (multi family housing),ATC,2
+AR,Agriculture,ATC,20
+AR,Mining,ATC,21
+AR,Religion and Nonprofit,ATC,22
+AR,General Services,ATC,23
+AR,Emergency Response Services,ATC,24
+AR,Education,ATC,25
+AR,Highway,ATC,26
+AR,Railroad,ATC,27
+AR,Air,ATC,28
+AR,Sea/Water,ATC,29
+AR,Temporary Lodging,ATC,3
+AR,Electrical,ATC,30
+AR,Water,ATC,31
+AR,Sanitary Sewer,ATC,32
+AR,Natural Gas,ATC,33
+AR,Telephone & Telegraph,ATC,34
+AR,Communication (Radio and TV),ATC,35
+AR,Flood Control,ATC,36
+AR,General Commercial,ATC,37
+AR,General Industrial,ATC,38
+AR,Miscellaneous,ATC,39
+AR,Group Institutional Housing,ATC,4
+AR,General Residential,ATC,40
+AR,Multi-Family Dwelling - Homeowners Association,ATC,42
+AR,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+AR,Gasoline Service Stations,ATC,44
+AR,Restaurants,ATC,47
+AR,Casinos,ATC,48
+AR,Acute Care Services Hospitals,ATC,49
+AR,Retail Trade,ATC,5
+AR,Hotels- Large,ATC,51
+AR,Hotels- Small and Medium,ATC,52
+AR,Rental- General Commercial,ATC,53
+AR,Universities and Colleges,ATC,54
+AR,Wholesale Trade,ATC,6
+AR,Dwelling (Residential Mortgage Policy),ATC,60
+AR,Personal and Repair Services,ATC,7
+AR,"Professional, Technical and Business Services",ATC,8
+AR,Health Care Service,ATC,9
+AT,Unknown,ATC,0
+AT,Permanent Dwelling (single family housing),ATC,1
+AT,Entertainment and Recreation,ATC,10
+AT,Parking,ATC,11
+AT,Heavy Fabrication and Assembly,ATC,12
+AT,Light Fabrication and Assembly,ATC,13
+AT,Food and Drugs Processing,ATC,14
+AT,Chemicals Processing,ATC,15
+AT,Metal and Minerals Processing,ATC,16
+AT,High Technology,ATC,17
+AT,Construction,ATC,18
+AT,Petroleum,ATC,19
+AT,Permanent Dwelling (multi family housing),ATC,2
+AT,Agriculture,ATC,20
+AT,Mining,ATC,21
+AT,Religion and Nonprofit,ATC,22
+AT,General Services,ATC,23
+AT,Emergency Response Services,ATC,24
+AT,Education,ATC,25
+AT,Highway,ATC,26
+AT,Railroad,ATC,27
+AT,Air,ATC,28
+AT,Sea/Water,ATC,29
+AT,Temporary Lodging,ATC,3
+AT,Electrical,ATC,30
+AT,Water,ATC,31
+AT,Sanitary Sewer,ATC,32
+AT,Natural Gas,ATC,33
+AT,Telephone & Telegraph,ATC,34
+AT,Communication (Radio and TV),ATC,35
+AT,Flood Control,ATC,36
+AT,General Commercial,ATC,37
+AT,General Industrial,ATC,38
+AT,Miscellaneous,ATC,39
+AT,Group Institutional Housing,ATC,4
+AT,Retail Trade,ATC,5
+AT,Wholesale Trade,ATC,6
+AT,Personal and Repair Services,ATC,7
+AT,"Professional, Technical and Business Services",ATC,8
+AT,Health Care Service,ATC,9
+AU,Unknown,ATC,0
+AU,Permanent Dwelling (single family housing),ATC,1
+AU,Entertainment and Recreation,ATC,10
+AU,Parking,ATC,11
+AU,Heavy Fabrication and Assembly,ATC,12
+AU,Light Fabrication and Assembly,ATC,13
+AU,Food and Drugs Processing,ATC,14
+AU,Chemicals Processing,ATC,15
+AU,Metal and Minerals Processing,ATC,16
+AU,High Technology,ATC,17
+AU,Construction,ATC,18
+AU,Petroleum,ATC,19
+AU,Permanent Dwelling (multi family housing),ATC,2
+AU,Agriculture,ATC,20
+AU,Mining,ATC,21
+AU,Religion and Nonprofit,ATC,22
+AU,General Services,ATC,23
+AU,Emergency Response Services,ATC,24
+AU,Education,ATC,25
+AU,Highway,ATC,26
+AU,Railroad,ATC,27
+AU,Air,ATC,28
+AU,Sea/Water,ATC,29
+AU,Temporary Lodging,ATC,3
+AU,Electrical,ATC,30
+AU,Water,ATC,31
+AU,Sanitary Sewer,ATC,32
+AU,Natural Gas,ATC,33
+AU,Telephone & Telegraph,ATC,34
+AU,Communication (Radio and TV),ATC,35
+AU,Flood Control,ATC,36
+AU,General Commercial,ATC,37
+AU,General Industrial,ATC,38
+AU,Miscellaneous,ATC,39
+AU,Group Institutional Housing,ATC,4
+AU,General Residential,ATC,40
+AU,Retail Trade,ATC,5
+AU,Wholesale Trade,ATC,6
+AU,Personal and Repair Services,ATC,7
+AU,"Professional, Technical and Business Services",ATC,8
+AU,Health Care Service,ATC,9
+BE,Unknown,ATC,0
+BE,Permanent Dwelling (single family housing),ATC,1
+BE,Entertainment and Recreation,ATC,10
+BE,Parking,ATC,11
+BE,Heavy Fabrication and Assembly,ATC,12
+BE,Light Fabrication and Assembly,ATC,13
+BE,Food and Drugs Processing,ATC,14
+BE,Chemicals Processing,ATC,15
+BE,Metal and Minerals Processing,ATC,16
+BE,High Technology,ATC,17
+BE,Construction,ATC,18
+BE,Petroleum,ATC,19
+BE,Permanent Dwelling (multi family housing),ATC,2
+BE,Agriculture,ATC,20
+BE,Mining,ATC,21
+BE,Religion and Nonprofit,ATC,22
+BE,General Services,ATC,23
+BE,Emergency Response Services,ATC,24
+BE,Education,ATC,25
+BE,Highway,ATC,26
+BE,Railroad,ATC,27
+BE,Air,ATC,28
+BE,Sea/Water,ATC,29
+BE,Temporary Lodging,ATC,3
+BE,Electrical,ATC,30
+BE,Water,ATC,31
+BE,Sanitary Sewer,ATC,32
+BE,Natural Gas,ATC,33
+BE,Telephone & Telegraph,ATC,34
+BE,Communication (Radio and TV),ATC,35
+BE,Flood Control,ATC,36
+BE,General Commercial,ATC,37
+BE,General Industrial,ATC,38
+BE,Miscellaneous,ATC,39
+BE,Group Institutional Housing,ATC,4
+BE,Retail Trade,ATC,5
+BE,Wholesale Trade,ATC,6
+BE,Personal and Repair Services,ATC,7
+BE,"Professional, Technical and Business Services",ATC,8
+BE,Health Care Service,ATC,9
+BG,Unknown,ATC,0
+BG,Permanent Dwelling (single family housing),ATC,1
+BG,Entertainment and Recreation,ATC,10
+BG,Parking,ATC,11
+BG,Heavy Fabrication and Assembly,ATC,12
+BG,Light Fabrication and Assembly,ATC,13
+BG,Food and Drugs Processing,ATC,14
+BG,Chemicals Processing,ATC,15
+BG,Metal and Minerals Processing,ATC,16
+BG,High Technology,ATC,17
+BG,Construction,ATC,18
+BG,Petroleum,ATC,19
+BG,Permanent Dwelling (multi family housing),ATC,2
+BG,Agriculture,ATC,20
+BG,Mining,ATC,21
+BG,Religion and Nonprofit,ATC,22
+BG,General Services,ATC,23
+BG,Emergency Response Services,ATC,24
+BG,Education,ATC,25
+BG,Highway,ATC,26
+BG,Railroad,ATC,27
+BG,Air,ATC,28
+BG,Sea/Water,ATC,29
+BG,Temporary Lodging,ATC,3
+BG,Electrical,ATC,30
+BG,Water,ATC,31
+BG,Sanitary Sewer,ATC,32
+BG,Natural Gas,ATC,33
+BG,Telephone & Telegraph,ATC,34
+BG,Communication (Radio and TV),ATC,35
+BG,Flood Control,ATC,36
+BG,General Commercial,ATC,37
+BG,General Industrial,ATC,38
+BG,Miscellaneous,ATC,39
+BG,Group Institutional Housing,ATC,4
+BG,Retail Trade,ATC,5
+BG,Wholesale Trade,ATC,6
+BG,Personal and Repair Services,ATC,7
+BG,"Professional, Technical and Business Services",ATC,8
+BG,Health Care Service,ATC,9
+BO,Unknown,ATC,0
+BO,Permanent Dwelling (single family housing),ATC,1
+BO,Entertainment and Recreation,ATC,10
+BO,Parking,ATC,11
+BO,Heavy Fabrication and Assembly,ATC,12
+BO,Light Fabrication and Assembly,ATC,13
+BO,Food and Drugs Processing,ATC,14
+BO,Chemicals Processing,ATC,15
+BO,Metal and Minerals Processing,ATC,16
+BO,High Technology,ATC,17
+BO,Construction,ATC,18
+BO,Petroleum,ATC,19
+BO,Permanent Dwelling (multi family housing),ATC,2
+BO,Agriculture,ATC,20
+BO,Mining,ATC,21
+BO,Religion and Nonprofit,ATC,22
+BO,General Services,ATC,23
+BO,Emergency Response Services,ATC,24
+BO,Education,ATC,25
+BO,Highway,ATC,26
+BO,Railroad,ATC,27
+BO,Air,ATC,28
+BO,Sea/Water,ATC,29
+BO,Temporary Lodging,ATC,3
+BO,Electrical,ATC,30
+BO,Water,ATC,31
+BO,Sanitary Sewer,ATC,32
+BO,Natural Gas,ATC,33
+BO,Telephone & Telegraph,ATC,34
+BO,Communication (Radio and TV),ATC,35
+BO,Flood Control,ATC,36
+BO,General Commercial,ATC,37
+BO,General Industrial,ATC,38
+BO,Miscellaneous,ATC,39
+BO,Group Institutional Housing,ATC,4
+BO,General Residential,ATC,40
+BO,Multi-Family Dwelling - Homeowners Association,ATC,42
+BO,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+BO,Gasoline Service Stations,ATC,44
+BO,Restaurants,ATC,47
+BO,Casinos,ATC,48
+BO,Acute Care Services Hospitals,ATC,49
+BO,Retail Trade,ATC,5
+BO,Hotels- Large,ATC,51
+BO,Hotels- Small and Medium,ATC,52
+BO,Rental- General Commercial,ATC,53
+BO,Universities and Colleges,ATC,54
+BO,Wholesale Trade,ATC,6
+BO,Dwelling (Residential Mortgage Policy),ATC,60
+BO,Personal and Repair Services,ATC,7
+BO,"Professional, Technical and Business Services",ATC,8
+BO,Health Care Service,ATC,9
+BR,Unknown,ATC,0
+BR,Permanent Dwelling (single family housing),ATC,1
+BR,Entertainment and Recreation,ATC,10
+BR,Parking,ATC,11
+BR,Heavy Fabrication and Assembly,ATC,12
+BR,Light Fabrication and Assembly,ATC,13
+BR,Food and Drugs Processing,ATC,14
+BR,Chemicals Processing,ATC,15
+BR,Metal and Minerals Processing,ATC,16
+BR,High Technology,ATC,17
+BR,Construction,ATC,18
+BR,Petroleum,ATC,19
+BR,Permanent Dwelling (multi family housing),ATC,2
+BR,Agriculture,ATC,20
+BR,Mining,ATC,21
+BR,Religion and Nonprofit,ATC,22
+BR,General Services,ATC,23
+BR,Emergency Response Services,ATC,24
+BR,Education,ATC,25
+BR,Highway,ATC,26
+BR,Railroad,ATC,27
+BR,Air,ATC,28
+BR,Sea/Water,ATC,29
+BR,Temporary Lodging,ATC,3
+BR,Electrical,ATC,30
+BR,Water,ATC,31
+BR,Sanitary Sewer,ATC,32
+BR,Natural Gas,ATC,33
+BR,Telephone & Telegraph,ATC,34
+BR,Communication (Radio and TV),ATC,35
+BR,Flood Control,ATC,36
+BR,General Commercial,ATC,37
+BR,General Industrial,ATC,38
+BR,Miscellaneous,ATC,39
+BR,Group Institutional Housing,ATC,4
+BR,General Residential,ATC,40
+BR,Multi-Family Dwelling - Homeowners Association,ATC,42
+BR,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+BR,Gasoline Service Stations,ATC,44
+BR,Restaurants,ATC,47
+BR,Casinos,ATC,48
+BR,Acute Care Services Hospitals,ATC,49
+BR,Retail Trade,ATC,5
+BR,Hotels- Large,ATC,51
+BR,Hotels- Small and Medium,ATC,52
+BR,Rental- General Commercial,ATC,53
+BR,Universities and Colleges,ATC,54
+BR,Wholesale Trade,ATC,6
+BR,Dwelling (Residential Mortgage Policy),ATC,60
+BR,Personal and Repair Services,ATC,7
+BR,"Professional, Technical and Business Services",ATC,8
+BR,Health Care Service,ATC,9
+BZ,Unknown,ATC,0
+BZ,Permanent Dwelling (single family housing),ATC,1
+BZ,Entertainment and Recreation,ATC,10
+BZ,Parking,ATC,11
+BZ,Heavy Fabrication and Assembly,ATC,12
+BZ,Light Fabrication and Assembly,ATC,13
+BZ,Food and Drugs Processing,ATC,14
+BZ,Chemicals Processing,ATC,15
+BZ,Metal and Minerals Processing,ATC,16
+BZ,High Technology,ATC,17
+BZ,Construction,ATC,18
+BZ,Petroleum,ATC,19
+BZ,Permanent Dwelling (multi family housing),ATC,2
+BZ,Agriculture,ATC,20
+BZ,Mining,ATC,21
+BZ,Religion and Nonprofit,ATC,22
+BZ,General Services,ATC,23
+BZ,Emergency Response Services,ATC,24
+BZ,Education,ATC,25
+BZ,Highway,ATC,26
+BZ,Railroad,ATC,27
+BZ,Air,ATC,28
+BZ,Sea/Water,ATC,29
+BZ,Temporary Lodging,ATC,3
+BZ,Electrical,ATC,30
+BZ,Water,ATC,31
+BZ,Sanitary Sewer,ATC,32
+BZ,Natural Gas,ATC,33
+BZ,Telephone & Telegraph,ATC,34
+BZ,Communication (Radio and TV),ATC,35
+BZ,Flood Control,ATC,36
+BZ,General Commercial,ATC,37
+BZ,General Industrial,ATC,38
+BZ,Miscellaneous,ATC,39
+BZ,Group Institutional Housing,ATC,4
+BZ,General Residential,ATC,40
+BZ,Multi-Family Dwelling - Homeowners Association,ATC,42
+BZ,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+BZ,Gasoline Service Stations,ATC,44
+BZ,Restaurants,ATC,47
+BZ,Casinos,ATC,48
+BZ,Acute Care Services Hospitals,ATC,49
+BZ,Retail Trade,ATC,5
+BZ,OSHPD Acute Care Services Hospitals (California ONLY),ATC,50
+BZ,Hotels- Large,ATC,51
+BZ,Hotels- Small and Medium,ATC,52
+BZ,Rental- General Commercial,ATC,53
+BZ,Universities and Colleges,ATC,54
+BZ,Wholesale Trade,ATC,6
+BZ,Personal and Repair Services,ATC,7
+BZ,"Professional, Technical and Business Services",ATC,8
+BZ,Health Care Service,ATC,9
+CA,Unknown,ATC,0
+CA,Permanent Dwelling (single family housing),ATC,1
+CA,Entertainment and Recreation,ATC,10
+CA,Parking,ATC,11
+CA,Heavy Fabrication and Assembly,ATC,12
+CA,Light Fabrication and Assembly,ATC,13
+CA,Food and Drugs Processing,ATC,14
+CA,Chemicals Processing,ATC,15
+CA,Metal and Minerals Processing,ATC,16
+CA,High Technology,ATC,17
+CA,Construction,ATC,18
+CA,Petroleum,ATC,19
+CA,Permanent Dwelling (multi family housing),ATC,2
+CA,Agriculture,ATC,20
+CA,Mining,ATC,21
+CA,Religion and Nonprofit,ATC,22
+CA,General Services,ATC,23
+CA,Emergency Response Services,ATC,24
+CA,Education,ATC,25
+CA,Highway,ATC,26
+CA,Railroad,ATC,27
+CA,Air,ATC,28
+CA,Sea/Water,ATC,29
+CA,Temporary Lodging,ATC,3
+CA,Electrical,ATC,30
+CA,Water,ATC,31
+CA,Sanitary Sewer,ATC,32
+CA,Natural Gas,ATC,33
+CA,Telephone & Telegraph,ATC,34
+CA,Communication (Radio and TV),ATC,35
+CA,Flood Control,ATC,36
+CA,General Commercial,ATC,37
+CA,General Industrial,ATC,38
+CA,Miscellaneous,ATC,39
+CA,Group Institutional Housing,ATC,4
+CA,Multi-Family Dwelling - Homeowners Association,ATC,42
+CA,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+CA,Gasoline Service Stations,ATC,44
+CA,Restaurants,ATC,47
+CA,Casinos,ATC,48
+CA,Acute Care Services Hospitals,ATC,49
+CA,Retail Trade,ATC,5
+CA,OSHPD Acute Care Services Hospitals (California ONLY),ATC,50
+CA,Hotels- Large,ATC,51
+CA,Hotels- Small and Medium,ATC,52
+CA,Rental- General Commercial,ATC,53
+CA,Universities and Colleges,ATC,54
+CA,Wholesale Trade,ATC,6
+CA,Personal and Repair Services,ATC,7
+CA,"Professional, Technical and Business Services",ATC,8
+CA,Health Care Service,ATC,9
+CB,Unknown,ATC,0
+CB,Permanent Dwelling (single family housing),ATC,1
+CB,Entertainment and Recreation,ATC,10
+CB,Parking,ATC,11
+CB,Heavy Fabrication and Assembly,ATC,12
+CB,Light Fabrication and Assembly,ATC,13
+CB,Food and Drugs Processing,ATC,14
+CB,Chemicals Processing,ATC,15
+CB,Metal and Minerals Processing,ATC,16
+CB,High Technology,ATC,17
+CB,Construction,ATC,18
+CB,Petroleum,ATC,19
+CB,Permanent Dwelling (multi family housing),ATC,2
+CB,Agriculture,ATC,20
+CB,Mining,ATC,21
+CB,Religion and Nonprofit,ATC,22
+CB,General Services,ATC,23
+CB,Emergency Response Services,ATC,24
+CB,Education,ATC,25
+CB,Highway,ATC,26
+CB,Railroad,ATC,27
+CB,Air,ATC,28
+CB,Sea/Water,ATC,29
+CB,Temporary Lodging,ATC,3
+CB,Electrical,ATC,30
+CB,Water,ATC,31
+CB,Sanitary Sewer,ATC,32
+CB,Natural Gas,ATC,33
+CB,Telephone & Telegraph,ATC,34
+CB,Communication (Radio and TV),ATC,35
+CB,Flood Control,ATC,36
+CB,General Commercial,ATC,37
+CB,General Industrial,ATC,38
+CB,Miscellaneous,ATC,39
+CB,Group Institutional Housing,ATC,4
+CB,Mortgage-backed Dwelling (Puerto Rico only),ATC,40
+CB,Homeowner,ATC,41
+CB,Multi-Family Dwelling - Homeowners Association,ATC,42
+CB,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+CB,Gasoline Service Stations,ATC,44
+CB,Restaurants,ATC,47
+CB,Casinos,ATC,48
+CB,Acute Care Services Hospitals,ATC,49
+CB,Retail Trade,ATC,5
+CB,OSHPD Acute Care Services Hospitals (California ONLY),ATC,50
+CB,Hotels- Large,ATC,51
+CB,Hotels- Small and Medium,ATC,52
+CB,Rental- General Commercial,ATC,53
+CB,Universities and Colleges,ATC,54
+CB,Wholesale Trade,ATC,6
+CB,Personal and Repair Services,ATC,7
+CB,"Professional, Technical and Business Services",ATC,8
+CB,Health Care Service,ATC,9
+CH,Unknown,ATC,0
+CH,Permanent Dwelling (single family housing),ATC,1
+CH,Entertainment and Recreation,ATC,10
+CH,Parking,ATC,11
+CH,Heavy Fabrication and Assembly,ATC,12
+CH,Light Fabrication and Assembly,ATC,13
+CH,Food and Drugs Processing,ATC,14
+CH,Chemicals Processing,ATC,15
+CH,Metal and Minerals Processing,ATC,16
+CH,High Technology,ATC,17
+CH,Construction,ATC,18
+CH,Petroleum,ATC,19
+CH,Permanent Dwelling (multi family housing),ATC,2
+CH,Agriculture,ATC,20
+CH,Mining,ATC,21
+CH,Religion and Nonprofit,ATC,22
+CH,General Services,ATC,23
+CH,Emergency Response Services,ATC,24
+CH,Education,ATC,25
+CH,Highway,ATC,26
+CH,Railroad,ATC,27
+CH,Air,ATC,28
+CH,Sea/Water,ATC,29
+CH,Temporary Lodging,ATC,3
+CH,Electrical,ATC,30
+CH,Water,ATC,31
+CH,Sanitary Sewer,ATC,32
+CH,Natural Gas,ATC,33
+CH,Telephone & Telegraph,ATC,34
+CH,Communication (Radio and TV),ATC,35
+CH,Flood Control,ATC,36
+CH,General Commercial,ATC,37
+CH,General Industrial,ATC,38
+CH,Miscellaneous,ATC,39
+CH,Group Institutional Housing,ATC,4
+CH,Retail Trade,ATC,5
+CH,Wholesale Trade,ATC,6
+CH,Personal and Repair Services,ATC,7
+CH,"Professional, Technical and Business Services",ATC,8
+CH,Health Care Service,ATC,9
+CL,Unknown,ATC,0
+CL,Permanent Dwelling (single family housing),ATC,1
+CL,Entertainment and Recreation,ATC,10
+CL,Parking,ATC,11
+CL,Heavy Fabrication and Assembly,ATC,12
+CL,Light Fabrication and Assembly,ATC,13
+CL,Food and Drugs Processing,ATC,14
+CL,Chemicals Processing,ATC,15
+CL,Metal and Minerals Processing,ATC,16
+CL,High Technology,ATC,17
+CL,Construction,ATC,18
+CL,Petroleum,ATC,19
+CL,Permanent Dwelling (multi family housing),ATC,2
+CL,Agriculture,ATC,20
+CL,Mining,ATC,21
+CL,Religion and Nonprofit,ATC,22
+CL,General Services,ATC,23
+CL,Emergency Response Services,ATC,24
+CL,Education,ATC,25
+CL,Highway,ATC,26
+CL,Railroad,ATC,27
+CL,Air,ATC,28
+CL,Sea/Water,ATC,29
+CL,Temporary Lodging,ATC,3
+CL,Electrical,ATC,30
+CL,Water,ATC,31
+CL,Sanitary Sewer,ATC,32
+CL,Natural Gas,ATC,33
+CL,Telephone & Telegraph,ATC,34
+CL,Communication (Radio and TV),ATC,35
+CL,Flood Control,ATC,36
+CL,General Commercial,ATC,37
+CL,General Industrial,ATC,38
+CL,Miscellaneous,ATC,39
+CL,Group Institutional Housing,ATC,4
+CL,General Residential,ATC,40
+CL,Multi-Family Dwelling - Homeowners Association,ATC,42
+CL,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+CL,Gasoline Service Stations,ATC,44
+CL,Restaurants,ATC,47
+CL,Casinos,ATC,48
+CL,Acute Care Services Hospitals,ATC,49
+CL,Retail Trade,ATC,5
+CL,Hotels- Large,ATC,51
+CL,Hotels- Small and Medium,ATC,52
+CL,Rental- General Commercial,ATC,53
+CL,Universities and Colleges,ATC,54
+CL,Wholesale Trade,ATC,6
+CL,Dwelling (Residential Mortgage Policy),ATC,60
+CL,Personal and Repair Services,ATC,7
+CL,"Professional, Technical and Business Services",ATC,8
+CL,Health Care Service,ATC,9
+CN,Unknown,ATC,0
+CN,Permanent Dwelling (single family housing),ATC,1
+CN,Entertainment and Recreation,ATC,10
+CN,Parking,ATC,11
+CN,Heavy Fabrication and Assembly,ATC,12
+CN,Light Fabrication and Assembly,ATC,13
+CN,Food and Drugs Processing,ATC,14
+CN,Chemicals Processing,ATC,15
+CN,Metal and Minerals Processing,ATC,16
+CN,High Technology,ATC,17
+CN,Construction,ATC,18
+CN,Petroleum,ATC,19
+CN,Permanent Dwelling (multi family housing),ATC,2
+CN,Agriculture,ATC,20
+CN,Mining,ATC,21
+CN,Religion and Nonprofit,ATC,22
+CN,General Services,ATC,23
+CN,Emergency Response Services,ATC,24
+CN,Education,ATC,25
+CN,Highway,ATC,26
+CN,Railroad,ATC,27
+CN,Air,ATC,28
+CN,Sea/Water,ATC,29
+CN,Temporary Lodging,ATC,3
+CN,Electrical,ATC,30
+CN,Water,ATC,31
+CN,Sanitary Sewer,ATC,32
+CN,Natural Gas,ATC,33
+CN,Telephone & Telegraph,ATC,34
+CN,Communication (Radio and TV),ATC,35
+CN,Flood Control,ATC,36
+CN,General Commercial,ATC,37
+CN,General Industrial,ATC,38
+CN,Miscellaneous,ATC,39
+CN,Group Institutional Housing,ATC,4
+CN,General Residential,ATC,40
+CN,Multi-Family Dwelling - Homeowners Association,ATC,42
+CN,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+CN,Gasoline Service Stations,ATC,44
+CN,Restaurants,ATC,47
+CN,Casinos,ATC,48
+CN,Acute Care Services Hospitals,ATC,49
+CN,Retail Trade,ATC,5
+CN,Hotels- Large,ATC,51
+CN,Hotels- Small and Medium,ATC,52
+CN,Rental- General Commercial,ATC,53
+CN,Universities and Colleges,ATC,54
+CN,Wholesale Trade,ATC,6
+CN,Personal and Repair Services,ATC,7
+CN,"Professional, Technical and Business Services",ATC,8
+CN,Health Care Service,ATC,9
+CO,Unknown,ATC,0
+CO,Permanent Dwelling (single family housing),ATC,1
+CO,Entertainment and Recreation,ATC,10
+CO,Parking,ATC,11
+CO,Heavy Fabrication and Assembly,ATC,12
+CO,Light Fabrication and Assembly,ATC,13
+CO,Food and Drugs Processing,ATC,14
+CO,Chemicals Processing,ATC,15
+CO,Metal and Minerals Processing,ATC,16
+CO,High Technology,ATC,17
+CO,Construction,ATC,18
+CO,Petroleum,ATC,19
+CO,Permanent Dwelling (multi family housing),ATC,2
+CO,Agriculture,ATC,20
+CO,Mining,ATC,21
+CO,Religion and Nonprofit,ATC,22
+CO,General Services,ATC,23
+CO,Emergency Response Services,ATC,24
+CO,Education,ATC,25
+CO,Highway,ATC,26
+CO,Railroad,ATC,27
+CO,Air,ATC,28
+CO,Sea/Water,ATC,29
+CO,Temporary Lodging,ATC,3
+CO,Electrical,ATC,30
+CO,Water,ATC,31
+CO,Sanitary Sewer,ATC,32
+CO,Natural Gas,ATC,33
+CO,Telephone & Telegraph,ATC,34
+CO,Communication (Radio and TV),ATC,35
+CO,Flood Control,ATC,36
+CO,General Commercial,ATC,37
+CO,General Industrial,ATC,38
+CO,Miscellaneous,ATC,39
+CO,Group Institutional Housing,ATC,4
+CO,General Residential,ATC,40
+CO,Multi-Family Dwelling - Homeowners Association,ATC,42
+CO,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+CO,Gasoline Service Stations,ATC,44
+CO,Restaurants,ATC,47
+CO,Casinos,ATC,48
+CO,Acute Care Services Hospitals,ATC,49
+CO,Retail Trade,ATC,5
+CO,Hotels- Large,ATC,51
+CO,Hotels- Small and Medium,ATC,52
+CO,Rental- General Commercial,ATC,53
+CO,Universities and Colleges,ATC,54
+CO,Wholesale Trade,ATC,6
+CO,Dwelling (Residential Mortgage Policy),ATC,60
+CO,Personal and Repair Services,ATC,7
+CO,"Professional, Technical and Business Services",ATC,8
+CO,Health Care Service,ATC,9
+CR,Unknown,ATC,0
+CR,Permanent Dwelling (single family housing),ATC,1
+CR,Entertainment and Recreation,ATC,10
+CR,Parking,ATC,11
+CR,Heavy Fabrication and Assembly,ATC,12
+CR,Light Fabrication and Assembly,ATC,13
+CR,Food and Drugs Processing,ATC,14
+CR,Chemicals Processing,ATC,15
+CR,Metal and Minerals Processing,ATC,16
+CR,High Technology,ATC,17
+CR,Construction,ATC,18
+CR,Petroleum,ATC,19
+CR,Permanent Dwelling (multi family housing),ATC,2
+CR,Agriculture,ATC,20
+CR,Mining,ATC,21
+CR,Religion and Nonprofit,ATC,22
+CR,General Services,ATC,23
+CR,Emergency Response Services,ATC,24
+CR,Education,ATC,25
+CR,Highway,ATC,26
+CR,Railroad,ATC,27
+CR,Air,ATC,28
+CR,Sea/Water,ATC,29
+CR,Temporary Lodging,ATC,3
+CR,Electrical,ATC,30
+CR,Water,ATC,31
+CR,Sanitary Sewer,ATC,32
+CR,Natural Gas,ATC,33
+CR,Telephone & Telegraph,ATC,34
+CR,Communication (Radio and TV),ATC,35
+CR,Flood Control,ATC,36
+CR,General Commercial,ATC,37
+CR,General Industrial,ATC,38
+CR,Miscellaneous,ATC,39
+CR,Group Institutional Housing,ATC,4
+CR,General Residential,ATC,40
+CR,Multi-Family Dwelling - Homeowners Association,ATC,42
+CR,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+CR,Gasoline Service Stations,ATC,44
+CR,Restaurants,ATC,47
+CR,Casinos,ATC,48
+CR,Acute Care Services Hospitals,ATC,49
+CR,Retail Trade,ATC,5
+CR,OSHPD Acute Care Services Hospitals (California ONLY),ATC,50
+CR,Hotels- Large,ATC,51
+CR,Hotels- Small and Medium,ATC,52
+CR,Rental- General Commercial,ATC,53
+CR,Universities and Colleges,ATC,54
+CR,Wholesale Trade,ATC,6
+CR,Personal and Repair Services,ATC,7
+CR,"Professional, Technical and Business Services",ATC,8
+CR,Health Care Service,ATC,9
+CZ,Unknown,ATC,0
+CZ,Permanent Dwelling (single family housing),ATC,1
+CZ,Entertainment and Recreation,ATC,10
+CZ,Parking,ATC,11
+CZ,Heavy Fabrication and Assembly,ATC,12
+CZ,Light Fabrication and Assembly,ATC,13
+CZ,Food and Drugs Processing,ATC,14
+CZ,Chemicals Processing,ATC,15
+CZ,Metal and Minerals Processing,ATC,16
+CZ,High Technology,ATC,17
+CZ,Construction,ATC,18
+CZ,Petroleum,ATC,19
+CZ,Permanent Dwelling (multi family housing),ATC,2
+CZ,Agriculture,ATC,20
+CZ,Mining,ATC,21
+CZ,Religion and Nonprofit,ATC,22
+CZ,General Services,ATC,23
+CZ,Emergency Response Services,ATC,24
+CZ,Education,ATC,25
+CZ,Highway,ATC,26
+CZ,Railroad,ATC,27
+CZ,Air,ATC,28
+CZ,Sea/Water,ATC,29
+CZ,Temporary Lodging,ATC,3
+CZ,Electrical,ATC,30
+CZ,Water,ATC,31
+CZ,Sanitary Sewer,ATC,32
+CZ,Natural Gas,ATC,33
+CZ,Telephone & Telegraph,ATC,34
+CZ,Communication (Radio and TV),ATC,35
+CZ,Flood Control,ATC,36
+CZ,General Commercial,ATC,37
+CZ,General Industrial,ATC,38
+CZ,Miscellaneous,ATC,39
+CZ,Group Institutional Housing,ATC,4
+CZ,Retail Trade,ATC,5
+CZ,Wholesale Trade,ATC,6
+CZ,Personal and Repair Services,ATC,7
+CZ,"Professional, Technical and Business Services",ATC,8
+CZ,Health Care Service,ATC,9
+DE,Unknown,ATC,0
+DE,Permanent Dwelling (single family housing),ATC,1
+DE,Entertainment and Recreation,ATC,10
+DE,Parking,ATC,11
+DE,Heavy Fabrication and Assembly,ATC,12
+DE,Light Fabrication and Assembly,ATC,13
+DE,Food and Drugs Processing,ATC,14
+DE,Chemicals Processing,ATC,15
+DE,Metal and Minerals Processing,ATC,16
+DE,High Technology,ATC,17
+DE,Construction,ATC,18
+DE,Petroleum,ATC,19
+DE,Permanent Dwelling (multi family housing),ATC,2
+DE,Agriculture,ATC,20
+DE,Mining,ATC,21
+DE,Religion and Nonprofit,ATC,22
+DE,General Services,ATC,23
+DE,Emergency Response Services,ATC,24
+DE,Education,ATC,25
+DE,Highway,ATC,26
+DE,Railroad,ATC,27
+DE,Air,ATC,28
+DE,Sea/Water,ATC,29
+DE,Temporary Lodging,ATC,3
+DE,Electrical,ATC,30
+DE,Water,ATC,31
+DE,Sanitary Sewer,ATC,32
+DE,Natural Gas,ATC,33
+DE,Telephone & Telegraph,ATC,34
+DE,Communication (Radio and TV),ATC,35
+DE,Flood Control,ATC,36
+DE,General Commercial,ATC,37
+DE,General Industrial,ATC,38
+DE,Miscellaneous,ATC,39
+DE,Group Institutional Housing,ATC,4
+DE,Retail Trade,ATC,5
+DE,Wholesale Trade,ATC,6
+DE,Personal and Repair Services,ATC,7
+DE,"Professional, Technical and Business Services",ATC,8
+DE,Health Care Service,ATC,9
+DK,Unknown,ATC,0
+DK,Permanent Dwelling (single family housing),ATC,1
+DK,Entertainment and Recreation,ATC,10
+DK,Parking,ATC,11
+DK,Heavy Fabrication and Assembly,ATC,12
+DK,Light Fabrication and Assembly,ATC,13
+DK,Food and Drugs Processing,ATC,14
+DK,Chemicals Processing,ATC,15
+DK,Metal and Minerals Processing,ATC,16
+DK,High Technology,ATC,17
+DK,Construction,ATC,18
+DK,Petroleum,ATC,19
+DK,Permanent Dwelling (multi family housing),ATC,2
+DK,Agriculture,ATC,20
+DK,Mining,ATC,21
+DK,Religion and Nonprofit,ATC,22
+DK,General Services,ATC,23
+DK,Emergency Response Services,ATC,24
+DK,Education,ATC,25
+DK,Highway,ATC,26
+DK,Railroad,ATC,27
+DK,Air,ATC,28
+DK,Sea/Water,ATC,29
+DK,Temporary Lodging,ATC,3
+DK,Electrical,ATC,30
+DK,Water,ATC,31
+DK,Sanitary Sewer,ATC,32
+DK,Natural Gas,ATC,33
+DK,Telephone & Telegraph,ATC,34
+DK,Communication (Radio and TV),ATC,35
+DK,Flood Control,ATC,36
+DK,General Commercial,ATC,37
+DK,General Industrial,ATC,38
+DK,Miscellaneous,ATC,39
+DK,Group Institutional Housing,ATC,4
+DK,Retail Trade,ATC,5
+DK,Wholesale Trade,ATC,6
+DK,Personal and Repair Services,ATC,7
+DK,"Professional, Technical and Business Services",ATC,8
+DK,Health Care Service,ATC,9
+EC,Unknown,ATC,0
+EC,Permanent Dwelling (single family housing),ATC,1
+EC,Entertainment and Recreation,ATC,10
+EC,Parking,ATC,11
+EC,Heavy Fabrication and Assembly,ATC,12
+EC,Light Fabrication and Assembly,ATC,13
+EC,Food and Drugs Processing,ATC,14
+EC,Chemicals Processing,ATC,15
+EC,Metal and Minerals Processing,ATC,16
+EC,High Technology,ATC,17
+EC,Construction,ATC,18
+EC,Petroleum,ATC,19
+EC,Permanent Dwelling (multi family housing),ATC,2
+EC,Agriculture,ATC,20
+EC,Mining,ATC,21
+EC,Religion and Nonprofit,ATC,22
+EC,General Services,ATC,23
+EC,Emergency Response Services,ATC,24
+EC,Education,ATC,25
+EC,Highway,ATC,26
+EC,Railroad,ATC,27
+EC,Air,ATC,28
+EC,Sea/Water,ATC,29
+EC,Temporary Lodging,ATC,3
+EC,Electrical,ATC,30
+EC,Water,ATC,31
+EC,Sanitary Sewer,ATC,32
+EC,Natural Gas,ATC,33
+EC,Telephone & Telegraph,ATC,34
+EC,Communication (Radio and TV),ATC,35
+EC,Flood Control,ATC,36
+EC,General Commercial,ATC,37
+EC,General Industrial,ATC,38
+EC,Miscellaneous,ATC,39
+EC,Group Institutional Housing,ATC,4
+EC,General Residential,ATC,40
+EC,Multi-Family Dwelling - Homeowners Association,ATC,42
+EC,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+EC,Gasoline Service Stations,ATC,44
+EC,Restaurants,ATC,47
+EC,Casinos,ATC,48
+EC,Acute Care Services Hospitals,ATC,49
+EC,Retail Trade,ATC,5
+EC,Hotels- Large,ATC,51
+EC,Hotels- Small and Medium,ATC,52
+EC,Rental- General Commercial,ATC,53
+EC,Universities and Colleges,ATC,54
+EC,Wholesale Trade,ATC,6
+EC,Dwelling (Residential Mortgage Policy),ATC,60
+EC,Personal and Repair Services,ATC,7
+EC,"Professional, Technical and Business Services",ATC,8
+EC,Health Care Service,ATC,9
+ES,Unknown,ATC,0
+ES,Permanent Dwelling (single family housing),ATC,1
+ES,Entertainment and Recreation,ATC,10
+ES,Parking,ATC,11
+ES,Heavy Fabrication and Assembly,ATC,12
+ES,Light Fabrication and Assembly,ATC,13
+ES,Food and Drugs Processing,ATC,14
+ES,Chemicals Processing,ATC,15
+ES,Metal and Minerals Processing,ATC,16
+ES,High Technology,ATC,17
+ES,Construction,ATC,18
+ES,Petroleum,ATC,19
+ES,Permanent Dwelling (multi family housing),ATC,2
+ES,Agriculture,ATC,20
+ES,Mining,ATC,21
+ES,Religion and Nonprofit,ATC,22
+ES,General Services,ATC,23
+ES,Emergency Response Services,ATC,24
+ES,Education,ATC,25
+ES,Highway,ATC,26
+ES,Railroad,ATC,27
+ES,Air,ATC,28
+ES,Sea/Water,ATC,29
+ES,Temporary Lodging,ATC,3
+ES,Electrical,ATC,30
+ES,Water,ATC,31
+ES,Sanitary Sewer,ATC,32
+ES,Natural Gas,ATC,33
+ES,Telephone & Telegraph,ATC,34
+ES,Communication (Radio and TV),ATC,35
+ES,Flood Control,ATC,36
+ES,General Commercial,ATC,37
+ES,General Industrial,ATC,38
+ES,Miscellaneous,ATC,39
+ES,Group Institutional Housing,ATC,4
+ES,Retail Trade,ATC,5
+ES,Wholesale Trade,ATC,6
+ES,Personal and Repair Services,ATC,7
+ES,"Professional, Technical and Business Services",ATC,8
+ES,Health Care Service,ATC,9
+FR,Unknown,ATC,0
+FR,Permanent Dwelling (single family housing),ATC,1
+FR,Entertainment and Recreation,ATC,10
+FR,Parking,ATC,11
+FR,Heavy Fabrication and Assembly,ATC,12
+FR,Light Fabrication and Assembly,ATC,13
+FR,Food and Drugs Processing,ATC,14
+FR,Chemicals Processing,ATC,15
+FR,Metal and Minerals Processing,ATC,16
+FR,High Technology,ATC,17
+FR,Construction,ATC,18
+FR,Petroleum,ATC,19
+FR,Permanent Dwelling (multi family housing),ATC,2
+FR,Agriculture,ATC,20
+FR,Mining,ATC,21
+FR,Religion and Nonprofit,ATC,22
+FR,General Services,ATC,23
+FR,Emergency Response Services,ATC,24
+FR,Education,ATC,25
+FR,Highway,ATC,26
+FR,Railroad,ATC,27
+FR,Air,ATC,28
+FR,Sea/Water,ATC,29
+FR,Temporary Lodging,ATC,3
+FR,Electrical,ATC,30
+FR,Water,ATC,31
+FR,Sanitary Sewer,ATC,32
+FR,Natural Gas,ATC,33
+FR,Telephone & Telegraph,ATC,34
+FR,Communication (Radio and TV),ATC,35
+FR,Flood Control,ATC,36
+FR,General Commercial,ATC,37
+FR,General Industrial,ATC,38
+FR,Miscellaneous,ATC,39
+FR,Group Institutional Housing,ATC,4
+FR,Retail Trade,ATC,5
+FR,Wholesale Trade,ATC,6
+FR,Personal and Repair Services,ATC,7
+FR,"Professional, Technical and Business Services",ATC,8
+FR,Health Care Service,ATC,9
+GB,Unknown,ATC,0
+GB,Permanent Dwelling (single family housing),ATC,1
+GB,Entertainment and Recreation,ATC,10
+GB,Parking,ATC,11
+GB,Heavy Fabrication and Assembly,ATC,12
+GB,Light Fabrication and Assembly,ATC,13
+GB,Food and Drugs Processing,ATC,14
+GB,Chemicals Processing,ATC,15
+GB,Metal and Minerals Processing,ATC,16
+GB,High Technology,ATC,17
+GB,Construction,ATC,18
+GB,Petroleum,ATC,19
+GB,Permanent Dwelling (multi family housing),ATC,2
+GB,Agriculture,ATC,20
+GB,Mining,ATC,21
+GB,Religion and Nonprofit,ATC,22
+GB,General Services,ATC,23
+GB,Emergency Response Services,ATC,24
+GB,Education,ATC,25
+GB,Highway,ATC,26
+GB,Railroad,ATC,27
+GB,Air,ATC,28
+GB,Sea/Water,ATC,29
+GB,Temporary Lodging,ATC,3
+GB,Electrical,ATC,30
+GB,Water,ATC,31
+GB,Sanitary Sewer,ATC,32
+GB,Natural Gas,ATC,33
+GB,Telephone & Telegraph,ATC,34
+GB,Communication (Radio and TV),ATC,35
+GB,Flood Control,ATC,36
+GB,General Commercial,ATC,37
+GB,General Industrial,ATC,38
+GB,Miscellaneous,ATC,39
+GB,Group Institutional Housing,ATC,4
+GB,Retail Trade,ATC,5
+GB,Wholesale Trade,ATC,6
+GB,Personal and Repair Services,ATC,7
+GB,"Professional, Technical and Business Services",ATC,8
+GB,Health Care Service,ATC,9
+GR,Unknown,ATC,0
+GR,Permanent Dwelling (single family housing),ATC,1
+GR,Entertainment and Recreation,ATC,10
+GR,Parking,ATC,11
+GR,Heavy Fabrication and Assembly,ATC,12
+GR,Light Fabrication and Assembly,ATC,13
+GR,Food and Drugs Processing,ATC,14
+GR,Chemicals Processing,ATC,15
+GR,Metal and Minerals Processing,ATC,16
+GR,High Technology,ATC,17
+GR,Construction,ATC,18
+GR,Petroleum,ATC,19
+GR,Permanent Dwelling (multi family housing),ATC,2
+GR,Agriculture,ATC,20
+GR,Mining,ATC,21
+GR,Religion and Nonprofit,ATC,22
+GR,General Services,ATC,23
+GR,Emergency Response Services,ATC,24
+GR,Education,ATC,25
+GR,Highway,ATC,26
+GR,Railroad,ATC,27
+GR,Air,ATC,28
+GR,Sea/Water,ATC,29
+GR,Temporary Lodging,ATC,3
+GR,Electrical,ATC,30
+GR,Water,ATC,31
+GR,Sanitary Sewer,ATC,32
+GR,Natural Gas,ATC,33
+GR,Telephone & Telegraph,ATC,34
+GR,Communication (Radio and TV),ATC,35
+GR,Flood Control,ATC,36
+GR,General Commercial,ATC,37
+GR,General Industrial,ATC,38
+GR,Miscellaneous,ATC,39
+GR,Group Institutional Housing,ATC,4
+GR,Retail Trade,ATC,5
+GR,Wholesale Trade,ATC,6
+GR,Personal and Repair Services,ATC,7
+GR,"Professional, Technical and Business Services",ATC,8
+GR,Health Care Service,ATC,9
+GT,Unknown,ATC,0
+GT,Permanent Dwelling (single family housing),ATC,1
+GT,Entertainment and Recreation,ATC,10
+GT,Parking,ATC,11
+GT,Heavy Fabrication and Assembly,ATC,12
+GT,Light Fabrication and Assembly,ATC,13
+GT,Food and Drugs Processing,ATC,14
+GT,Chemicals Processing,ATC,15
+GT,Metal and Minerals Processing,ATC,16
+GT,High Technology,ATC,17
+GT,Construction,ATC,18
+GT,Petroleum,ATC,19
+GT,Permanent Dwelling (multi family housing),ATC,2
+GT,Agriculture,ATC,20
+GT,Mining,ATC,21
+GT,Religion and Nonprofit,ATC,22
+GT,General Services,ATC,23
+GT,Emergency Response Services,ATC,24
+GT,Education,ATC,25
+GT,Highway,ATC,26
+GT,Railroad,ATC,27
+GT,Air,ATC,28
+GT,Sea/Water,ATC,29
+GT,Temporary Lodging,ATC,3
+GT,Electrical,ATC,30
+GT,Water,ATC,31
+GT,Sanitary Sewer,ATC,32
+GT,Natural Gas,ATC,33
+GT,Telephone & Telegraph,ATC,34
+GT,Communication (Radio and TV),ATC,35
+GT,Flood Control,ATC,36
+GT,General Commercial,ATC,37
+GT,General Industrial,ATC,38
+GT,Miscellaneous,ATC,39
+GT,Group Institutional Housing,ATC,4
+GT,General Residential,ATC,40
+GT,Multi-Family Dwelling - Homeowners Association,ATC,42
+GT,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+GT,Gasoline Service Stations,ATC,44
+GT,Restaurants,ATC,47
+GT,Casinos,ATC,48
+GT,Acute Care Services Hospitals,ATC,49
+GT,Retail Trade,ATC,5
+GT,OSHPD Acute Care Services Hospitals (California ONLY),ATC,50
+GT,Hotels- Large,ATC,51
+GT,Hotels- Small and Medium,ATC,52
+GT,Rental- General Commercial,ATC,53
+GT,Universities and Colleges,ATC,54
+GT,Wholesale Trade,ATC,6
+GT,Personal and Repair Services,ATC,7
+GT,"Professional, Technical and Business Services",ATC,8
+GT,Health Care Service,ATC,9
+GU,Unknown,ATC,0
+GU,Permanent Dwelling (single family housing),ATC,1
+GU,Entertainment and Recreation,ATC,10
+GU,Parking,ATC,11
+GU,Heavy Fabrication and Assembly,ATC,12
+GU,Light Fabrication and Assembly,ATC,13
+GU,Food and Drugs Processing,ATC,14
+GU,Chemicals Processing,ATC,15
+GU,Metal and Minerals Processing,ATC,16
+GU,High Technology,ATC,17
+GU,Construction,ATC,18
+GU,Petroleum,ATC,19
+GU,Permanent Dwelling (multi family housing),ATC,2
+GU,Agriculture,ATC,20
+GU,Mining,ATC,21
+GU,Religion and Nonprofit,ATC,22
+GU,General Services,ATC,23
+GU,Emergency Response Services,ATC,24
+GU,Education,ATC,25
+GU,Highway,ATC,26
+GU,Railroad,ATC,27
+GU,Air,ATC,28
+GU,Sea/Water,ATC,29
+GU,Temporary Lodging,ATC,3
+GU,Electrical,ATC,30
+GU,Water,ATC,31
+GU,Sanitary Sewer,ATC,32
+GU,Natural Gas,ATC,33
+GU,Telephone &Telegraph,ATC,34
+GU,Communication (Radio and TV),ATC,35
+GU,Flood Control,ATC,36
+GU,General Commercial,ATC,37
+GU,General Industrial,ATC,38
+GU,Miscellaneous,ATC,39
+GU,Group Institutional Housing,ATC,4
+GU,Retail Trade,ATC,5
+GU,Wholesale Trade,ATC,6
+GU,Personal and Repair Services,ATC,7
+GU,"Professional, Technical and Business Services",ATC,8
+GU,Health Care Service,ATC,9
+HK,Unknown,ATC,0
+HK,Permanent Dwelling (single family housing),ATC,1
+HK,Entertainment and Recreation,ATC,10
+HK,Parking,ATC,11
+HK,Heavy Fabrication and Assembly,ATC,12
+HK,Light Fabrication and Assembly,ATC,13
+HK,Food and Drugs Processing,ATC,14
+HK,Chemicals Processing,ATC,15
+HK,Metal and Minerals Processing,ATC,16
+HK,High Technology,ATC,17
+HK,Construction,ATC,18
+HK,Petroleum,ATC,19
+HK,Permanent Dwelling (multi family housing),ATC,2
+HK,Agriculture,ATC,20
+HK,Mining,ATC,21
+HK,Religion and Nonprofit,ATC,22
+HK,General Services,ATC,23
+HK,Emergency Response Services,ATC,24
+HK,Education,ATC,25
+HK,Highway,ATC,26
+HK,Railroad,ATC,27
+HK,Air,ATC,28
+HK,Sea/Water,ATC,29
+HK,Temporary Lodging,ATC,3
+HK,Electrical,ATC,30
+HK,Water,ATC,31
+HK,Sanitary Sewer,ATC,32
+HK,Natural Gas,ATC,33
+HK,Telephone & Telegraph,ATC,34
+HK,Communication (Radio and TV),ATC,35
+HK,Flood Control,ATC,36
+HK,General Commercial,ATC,37
+HK,General Industrial,ATC,38
+HK,Miscellaneous,ATC,39
+HK,Group Institutional Housing,ATC,4
+HK,General Residential,ATC,40
+HK,Multi-Family Dwelling - Homeowners Association,ATC,42
+HK,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+HK,Gasoline Service Stations,ATC,44
+HK,Restaurants,ATC,47
+HK,Casinos,ATC,48
+HK,Acute Care Services Hospitals,ATC,49
+HK,Retail Trade,ATC,5
+HK,Hotels- Large,ATC,51
+HK,Hotels- Small and Medium,ATC,52
+HK,Rental- General Commercial,ATC,53
+HK,Universities and Colleges,ATC,54
+HK,Wholesale Trade,ATC,6
+HK,Personal and Repair Services,ATC,7
+HK,"Professional, Technical and Business Services",ATC,8
+HK,Health Care Service,ATC,9
+HN,Unknown,ATC,0
+HN,Permanent Dwelling (single family housing),ATC,1
+HN,Entertainment and Recreation,ATC,10
+HN,Parking,ATC,11
+HN,Heavy Fabrication and Assembly,ATC,12
+HN,Light Fabrication and Assembly,ATC,13
+HN,Food and Drugs Processing,ATC,14
+HN,Chemicals Processing,ATC,15
+HN,Metal and Minerals Processing,ATC,16
+HN,High Technology,ATC,17
+HN,Construction,ATC,18
+HN,Petroleum,ATC,19
+HN,Permanent Dwelling (multi family housing),ATC,2
+HN,Agriculture,ATC,20
+HN,Mining,ATC,21
+HN,Religion and Nonprofit,ATC,22
+HN,General Services,ATC,23
+HN,Emergency Response Services,ATC,24
+HN,Education,ATC,25
+HN,Highway,ATC,26
+HN,Railroad,ATC,27
+HN,Air,ATC,28
+HN,Sea/Water,ATC,29
+HN,Temporary Lodging,ATC,3
+HN,Electrical,ATC,30
+HN,Water,ATC,31
+HN,Sanitary Sewer,ATC,32
+HN,Natural Gas,ATC,33
+HN,Telephone & Telegraph,ATC,34
+HN,Communication (Radio and TV),ATC,35
+HN,Flood Control,ATC,36
+HN,General Commercial,ATC,37
+HN,General Industrial,ATC,38
+HN,Miscellaneous,ATC,39
+HN,Group Institutional Housing,ATC,4
+HN,General Residential,ATC,40
+HN,Multi-Family Dwelling - Homeowners Association,ATC,42
+HN,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+HN,Gasoline Service Stations,ATC,44
+HN,Restaurants,ATC,47
+HN,Casinos,ATC,48
+HN,Acute Care Services Hospitals,ATC,49
+HN,Retail Trade,ATC,5
+HN,OSHPD Acute Care Services Hospitals (California ONLY),ATC,50
+HN,Hotels- Large,ATC,51
+HN,Hotels- Small and Medium,ATC,52
+HN,Rental- General Commercial,ATC,53
+HN,Universities and Colleges,ATC,54
+HN,Wholesale Trade,ATC,6
+HN,Personal and Repair Services,ATC,7
+HN,"Professional, Technical and Business Services",ATC,8
+HN,Health Care Service,ATC,9
+HU,Unknown,ATC,0
+HU,Permanent Dwelling (single family housing),ATC,1
+HU,Entertainment and Recreation,ATC,10
+HU,Parking,ATC,11
+HU,Heavy Fabrication and Assembly,ATC,12
+HU,Light Fabrication and Assembly,ATC,13
+HU,Food and Drugs Processing,ATC,14
+HU,Chemicals Processing,ATC,15
+HU,Metal and Minerals Processing,ATC,16
+HU,High Technology,ATC,17
+HU,Construction,ATC,18
+HU,Petroleum,ATC,19
+HU,Permanent Dwelling (multi family housing),ATC,2
+HU,Agriculture,ATC,20
+HU,Mining,ATC,21
+HU,Religion and Nonprofit,ATC,22
+HU,General Services,ATC,23
+HU,Emergency Response Services,ATC,24
+HU,Education,ATC,25
+HU,Highway,ATC,26
+HU,Railroad,ATC,27
+HU,Air,ATC,28
+HU,Sea/Water,ATC,29
+HU,Temporary Lodging,ATC,3
+HU,Electrical,ATC,30
+HU,Water,ATC,31
+HU,Sanitary Sewer,ATC,32
+HU,Natural Gas,ATC,33
+HU,Telephone & Telegraph,ATC,34
+HU,Communication (Radio and TV),ATC,35
+HU,Flood Control,ATC,36
+HU,General Commercial,ATC,37
+HU,General Industrial,ATC,38
+HU,Miscellaneous,ATC,39
+HU,Group Institutional Housing,ATC,4
+HU,Retail Trade,ATC,5
+HU,Wholesale Trade,ATC,6
+HU,Personal and Repair Services,ATC,7
+HU,"Professional, Technical and Business Services",ATC,8
+HU,Health Care Service,ATC,9
+ID,Unknown,ATC,0
+ID,Permanent Dwelling (single family housing),ATC,1
+ID,Entertainment and Recreation,ATC,10
+ID,Parking,ATC,11
+ID,Heavy Fabrication and Assembly,ATC,12
+ID,Light Fabrication and Assembly,ATC,13
+ID,Food and Drugs Processing,ATC,14
+ID,Chemicals Processing,ATC,15
+ID,Metal and Minerals Processing,ATC,16
+ID,High Technology,ATC,17
+ID,Construction,ATC,18
+ID,Petroleum,ATC,19
+ID,Permanent Dwelling (multi family housing),ATC,2
+ID,Agriculture,ATC,20
+ID,Mining,ATC,21
+ID,Religion and Nonprofit,ATC,22
+ID,General Services,ATC,23
+ID,Emergency Response Services,ATC,24
+ID,Education,ATC,25
+ID,Highway,ATC,26
+ID,Railroad,ATC,27
+ID,Air,ATC,28
+ID,Sea/Water,ATC,29
+ID,Temporary Lodging,ATC,3
+ID,Electrical,ATC,30
+ID,Water,ATC,31
+ID,Sanitary Sewer,ATC,32
+ID,Natural Gas,ATC,33
+ID,Telephone & Telegraph,ATC,34
+ID,Communication (Radio and TV),ATC,35
+ID,Flood Control,ATC,36
+ID,General Commercial,ATC,37
+ID,General Industrial,ATC,38
+ID,Miscellaneous,ATC,39
+ID,Group Institutional Housing,ATC,4
+ID,General Residential,ATC,40
+ID,Multi-Family Dwelling - Homeowners Association,ATC,42
+ID,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+ID,Gasoline Service Stations,ATC,44
+ID,Restaurants,ATC,47
+ID,Casinos,ATC,48
+ID,Acute Care Services Hospitals,ATC,49
+ID,Retail Trade,ATC,5
+ID,OSHPD Acute Care Services Hospitals (California ONLY),ATC,50
+ID,Hotels- Large,ATC,51
+ID,Hotels- Small and Medium,ATC,52
+ID,Rental- General Commercial,ATC,53
+ID,Universities and Colleges,ATC,54
+ID,Wholesale Trade,ATC,6
+ID,Personal and Repair Services,ATC,7
+ID,"Professional, Technical and Business Services",ATC,8
+ID,Health Care Service,ATC,9
+IE,Unknown,ATC,0
+IE,Permanent Dwelling (single family housing),ATC,1
+IE,Entertainment and Recreation,ATC,10
+IE,Parking,ATC,11
+IE,Heavy Fabrication and Assembly,ATC,12
+IE,Light Fabrication and Assembly,ATC,13
+IE,Food and Drugs Processing,ATC,14
+IE,Chemicals Processing,ATC,15
+IE,Metal and Minerals Processing,ATC,16
+IE,High Technology,ATC,17
+IE,Construction,ATC,18
+IE,Petroleum,ATC,19
+IE,Permanent Dwelling (multi family housing),ATC,2
+IE,Agriculture,ATC,20
+IE,Mining,ATC,21
+IE,Religion and Nonprofit,ATC,22
+IE,General Services,ATC,23
+IE,Emergency Response Services,ATC,24
+IE,Education,ATC,25
+IE,Highway,ATC,26
+IE,Railroad,ATC,27
+IE,Air,ATC,28
+IE,Sea/Water,ATC,29
+IE,Temporary Lodging,ATC,3
+IE,Electrical,ATC,30
+IE,Water,ATC,31
+IE,Sanitary Sewer,ATC,32
+IE,Natural Gas,ATC,33
+IE,Telephone & Telegraph,ATC,34
+IE,Communication (Radio and TV),ATC,35
+IE,Flood Control,ATC,36
+IE,General Commercial,ATC,37
+IE,General Industrial,ATC,38
+IE,Miscellaneous,ATC,39
+IE,Group Institutional Housing,ATC,4
+IE,Retail Trade,ATC,5
+IE,Wholesale Trade,ATC,6
+IE,Personal and Repair Services,ATC,7
+IE,"Professional, Technical and Business Services",ATC,8
+IE,Health Care Service,ATC,9
+IL,Unknown,ATC,0
+IL,Permanent Dwelling (single family housing),ATC,1
+IL,Entertainment and Recreation,ATC,10
+IL,Parking,ATC,11
+IL,Heavy Fabrication and Assembly,ATC,12
+IL,Light Fabrication and Assembly,ATC,13
+IL,Food and Drugs Processing,ATC,14
+IL,Chemicals Processing,ATC,15
+IL,Metal and Minerals Processing,ATC,16
+IL,High Technology,ATC,17
+IL,Construction,ATC,18
+IL,Petroleum,ATC,19
+IL,Permanent Dwelling (multi family housing),ATC,2
+IL,Agriculture,ATC,20
+IL,Mining,ATC,21
+IL,Religion and Nonprofit,ATC,22
+IL,General Services,ATC,23
+IL,Emergency Response Services,ATC,24
+IL,Education,ATC,25
+IL,Highway,ATC,26
+IL,Railroad,ATC,27
+IL,Air,ATC,28
+IL,Sea/Water,ATC,29
+IL,Temporary Lodging,ATC,3
+IL,Electrical,ATC,30
+IL,Water,ATC,31
+IL,Sanitary Sewer,ATC,32
+IL,Natural Gas,ATC,33
+IL,Telephone &Telegraph,ATC,34
+IL,Communication (Radio and TV),ATC,35
+IL,Flood Control,ATC,36
+IL,General Commercial,ATC,37
+IL,General Industrial,ATC,38
+IL,Miscellaneous,ATC,39
+IL,Group Institutional Housing,ATC,4
+IL,Retail Trade,ATC,5
+IL,Wholesale Trade,ATC,6
+IL,Personal and Repair Services,ATC,7
+IL,"Professional, Technical and Business Services",ATC,8
+IL,Health Care Service,ATC,9
+IN,Unknown,ATC,0
+IN,Permanent Dwelling (single family housing),ATC,1
+IN,Entertainment and Recreation,ATC,10
+IN,Parking,ATC,11
+IN,Heavy Fabrication and Assembly,ATC,12
+IN,Light Fabrication and Assembly,ATC,13
+IN,Food and Drugs Processing,ATC,14
+IN,Chemicals Processing,ATC,15
+IN,Metal and Minerals Processing,ATC,16
+IN,High Technology,ATC,17
+IN,Construction,ATC,18
+IN,Petroleum,ATC,19
+IN,Permanent Dwelling (multi family housing),ATC,2
+IN,Agriculture,ATC,20
+IN,Mining,ATC,21
+IN,Religion and Nonprofit,ATC,22
+IN,General Services,ATC,23
+IN,Emergency Response Services,ATC,24
+IN,Education,ATC,25
+IN,Highway,ATC,26
+IN,Railroad,ATC,27
+IN,Air,ATC,28
+IN,Sea/Water,ATC,29
+IN,Temporary Lodging,ATC,3
+IN,Electrical,ATC,30
+IN,Water,ATC,31
+IN,Sanitary Sewer,ATC,32
+IN,Natural Gas,ATC,33
+IN,Telephone & Telegraph,ATC,34
+IN,Communication (Radio and TV),ATC,35
+IN,Flood Control,ATC,36
+IN,General Commercial,ATC,37
+IN,General Industrial,ATC,38
+IN,Miscellaneous,ATC,39
+IN,Group Institutional Housing,ATC,4
+IN,General Residential,ATC,40
+IN,Multi-Family Dwelling - Homeowners Association,ATC,42
+IN,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+IN,Gasoline Service Stations,ATC,44
+IN,Small Scale Industrial (SSI),ATC,45
+IN,Large Scale Industrial (LSI),ATC,46
+IN,Restaurants,ATC,47
+IN,Casinos,ATC,48
+IN,Acute Care Services Hospitals,ATC,49
+IN,Retail Trade,ATC,5
+IN,Hotels- Large,ATC,51
+IN,Hotels- Small and Medium,ATC,52
+IN,Rental- General Commercial,ATC,53
+IN,Universities and Colleges,ATC,54
+IN,Wholesale Trade,ATC,6
+IN,Personal and Repair Services,ATC,7
+IN,"Professional, Technical and Business Services",ATC,8
+IN,Health Care Service,ATC,9
+IT,Unknown,ATC,0
+IT,Permanent Dwelling (single family housing),ATC,1
+IT,Entertainment and Recreation,ATC,10
+IT,Parking,ATC,11
+IT,Heavy Fabrication and Assembly,ATC,12
+IT,Light Fabrication and Assembly,ATC,13
+IT,Food and Drugs Processing,ATC,14
+IT,Chemicals Processing,ATC,15
+IT,Metal and Minerals Processing,ATC,16
+IT,High Technology,ATC,17
+IT,Construction,ATC,18
+IT,Petroleum,ATC,19
+IT,Permanent Dwelling (multi family housing),ATC,2
+IT,Agriculture,ATC,20
+IT,Mining,ATC,21
+IT,Religion and Nonprofit,ATC,22
+IT,General Services,ATC,23
+IT,Emergency Response Services,ATC,24
+IT,Education,ATC,25
+IT,Highway,ATC,26
+IT,Railroad,ATC,27
+IT,Air,ATC,28
+IT,Sea/Water,ATC,29
+IT,Temporary Lodging,ATC,3
+IT,Electrical,ATC,30
+IT,Water,ATC,31
+IT,Sanitary Sewer,ATC,32
+IT,Natural Gas,ATC,33
+IT,Telephone & Telegraph,ATC,34
+IT,Communication (Radio and TV),ATC,35
+IT,Flood Control,ATC,36
+IT,General Commercial,ATC,37
+IT,General Industrial,ATC,38
+IT,Miscellaneous,ATC,39
+IT,Group Institutional Housing,ATC,4
+IT,Retail Trade,ATC,5
+IT,Wholesale Trade,ATC,6
+IT,Personal and Repair Services,ATC,7
+IT,"Professional, Technical and Business Services",ATC,8
+IT,Health Care Service,ATC,9
+JP,Unknown,ATC,0
+JP,Permanent Dwelling (single family housing),ATC,1
+JP,Entertainment and Recreation,ATC,10
+JP,Parking,ATC,11
+JP,Heavy Fabrication and Assembly,ATC,12
+JP,Light Fabrication and Assembly,ATC,13
+JP,Food and Drugs Processing,ATC,14
+JP,Chemicals Processing,ATC,15
+JP,Metal and Minerals Processing,ATC,16
+JP,High Technology,ATC,17
+JP,Construction,ATC,18
+JP,Petroleum,ATC,19
+JP,Permanent Dwelling (multi family housing),ATC,2
+JP,Agriculture,ATC,20
+JP,Mining,ATC,21
+JP,Religion and Nonprofit,ATC,22
+JP,General Services,ATC,23
+JP,Emergency Response Services,ATC,24
+JP,Education,ATC,25
+JP,Highway,ATC,26
+JP,Railroad,ATC,27
+JP,Air,ATC,28
+JP,Sea/Water,ATC,29
+JP,Temporary Lodging,ATC,3
+JP,Electrical,ATC,30
+JP,Water,ATC,31
+JP,Sanitary Sewer,ATC,32
+JP,Natural Gas,ATC,33
+JP,Telephone & Telegraph,ATC,34
+JP,Communication (Radio and TV),ATC,35
+JP,Flood Control,ATC,36
+JP,General Commercial,ATC,37
+JP,General Industrial,ATC,38
+JP,Miscellaneous,ATC,39
+JP,Group Institutional Housing,ATC,4
+JP,Retail Trade,ATC,5
+JP,Wholesale Trade,ATC,6
+JP,Personal and Repair Services,ATC,7
+JP,"Professional, Technical and Business Services",ATC,8
+JP,Health Care Service,ATC,9
+KR,Unknown,ATC,0
+KR,Permanent Dwelling (single family housing),ATC,1
+KR,Entertainment and Recreation,ATC,10
+KR,Parking,ATC,11
+KR,Heavy Fabrication and Assembly,ATC,12
+KR,Light Fabrication and Assembly,ATC,13
+KR,Food and Drugs Processing,ATC,14
+KR,Chemicals Processing,ATC,15
+KR,Metal and Minerals Processing,ATC,16
+KR,High Technology,ATC,17
+KR,Construction,ATC,18
+KR,Petroleum,ATC,19
+KR,Permanent Dwelling (multi family housing),ATC,2
+KR,Agriculture,ATC,20
+KR,Mining,ATC,21
+KR,Religion and Nonprofit,ATC,22
+KR,General Services,ATC,23
+KR,Emergency Response Services,ATC,24
+KR,Education,ATC,25
+KR,Highway,ATC,26
+KR,Railroad,ATC,27
+KR,Air,ATC,28
+KR,Sea/Water,ATC,29
+KR,Temporary Lodging,ATC,3
+KR,Electrical,ATC,30
+KR,Water,ATC,31
+KR,Sanitary Sewer,ATC,32
+KR,Natural Gas,ATC,33
+KR,Telephone & Telegraph,ATC,34
+KR,Communication (Radio and TV),ATC,35
+KR,Flood Control,ATC,36
+KR,General Commercial,ATC,37
+KR,General Industrial,ATC,38
+KR,Miscellaneous,ATC,39
+KR,Group Institutional Housing,ATC,4
+KR,General Residential,ATC,40
+KR,Multi-Family Dwelling - Homeowners Association,ATC,42
+KR,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+KR,Gasoline Service Stations,ATC,44
+KR,Restaurants,ATC,47
+KR,Casinos,ATC,48
+KR,Acute Care Services Hospitals,ATC,49
+KR,Retail Trade,ATC,5
+KR,OSHPD Acute Care Services Hospitals (California ONLY),ATC,50
+KR,Hotels- Large,ATC,51
+KR,Hotels- Small and Medium,ATC,52
+KR,Rental- General Commercial,ATC,53
+KR,Universities and Colleges,ATC,54
+KR,Wholesale Trade,ATC,6
+KR,Personal and Repair Services,ATC,7
+KR,"Professional, Technical and Business Services",ATC,8
+KR,Health Care Service,ATC,9
+LI,Unknown,ATC,0
+LI,Permanent Dwelling (single family housing),ATC,1
+LI,Entertainment and Recreation,ATC,10
+LI,Parking,ATC,11
+LI,Heavy Fabrication and Assembly,ATC,12
+LI,Light Fabrication and Assembly,ATC,13
+LI,Food and Drugs Processing,ATC,14
+LI,Chemicals Processing,ATC,15
+LI,Metal and Minerals Processing,ATC,16
+LI,High Technology,ATC,17
+LI,Construction,ATC,18
+LI,Petroleum,ATC,19
+LI,Permanent Dwelling (multi family housing),ATC,2
+LI,Agriculture,ATC,20
+LI,Mining,ATC,21
+LI,Religion and Nonprofit,ATC,22
+LI,General Services,ATC,23
+LI,Emergency Response Services,ATC,24
+LI,Education,ATC,25
+LI,Highway,ATC,26
+LI,Railroad,ATC,27
+LI,Air,ATC,28
+LI,Sea/Water,ATC,29
+LI,Temporary Lodging,ATC,3
+LI,Electrical,ATC,30
+LI,Water,ATC,31
+LI,Sanitary Sewer,ATC,32
+LI,Natural Gas,ATC,33
+LI,Telephone & Telegraph,ATC,34
+LI,Communication (Radio and TV),ATC,35
+LI,Flood Control,ATC,36
+LI,General Commercial,ATC,37
+LI,General Industrial,ATC,38
+LI,Miscellaneous,ATC,39
+LI,Group Institutional Housing,ATC,4
+LI,Retail Trade,ATC,5
+LI,Wholesale Trade,ATC,6
+LI,Personal and Repair Services,ATC,7
+LI,"Professional, Technical and Business Services",ATC,8
+LI,Health Care Service,ATC,9
+LU,Unknown,ATC,0
+LU,Permanent Dwelling (single family housing),ATC,1
+LU,Entertainment and Recreation,ATC,10
+LU,Parking,ATC,11
+LU,Heavy Fabrication and Assembly,ATC,12
+LU,Light Fabrication and Assembly,ATC,13
+LU,Food and Drugs Processing,ATC,14
+LU,Chemicals Processing,ATC,15
+LU,Metal and Minerals Processing,ATC,16
+LU,High Technology,ATC,17
+LU,Construction,ATC,18
+LU,Petroleum,ATC,19
+LU,Permanent Dwelling (multi family housing),ATC,2
+LU,Agriculture,ATC,20
+LU,Mining,ATC,21
+LU,Religion and Nonprofit,ATC,22
+LU,General Services,ATC,23
+LU,Emergency Response Services,ATC,24
+LU,Education,ATC,25
+LU,Highway,ATC,26
+LU,Railroad,ATC,27
+LU,Air,ATC,28
+LU,Sea/Water,ATC,29
+LU,Temporary Lodging,ATC,3
+LU,Electrical,ATC,30
+LU,Water,ATC,31
+LU,Sanitary Sewer,ATC,32
+LU,Natural Gas,ATC,33
+LU,Telephone & Telegraph,ATC,34
+LU,Communication (Radio and TV),ATC,35
+LU,Flood Control,ATC,36
+LU,General Commercial,ATC,37
+LU,General Industrial,ATC,38
+LU,Miscellaneous,ATC,39
+LU,Group Institutional Housing,ATC,4
+LU,Retail Trade,ATC,5
+LU,Wholesale Trade,ATC,6
+LU,Personal and Repair Services,ATC,7
+LU,"Professional, Technical and Business Services",ATC,8
+LU,Health Care Service,ATC,9
+MX,Unknown,ATC,0
+MX,Permanent Dwelling (single family housing),ATC,1
+MX,Entertainment and Recreation,ATC,10
+MX,Parking,ATC,11
+MX,Heavy Fabrication and Assembly,ATC,12
+MX,Light Fabrication and Assembly,ATC,13
+MX,Food and Drugs Processing,ATC,14
+MX,Chemicals Processing,ATC,15
+MX,Metal and Minerals Processing,ATC,16
+MX,High Technology,ATC,17
+MX,Construction,ATC,18
+MX,Petroleum,ATC,19
+MX,Permanent Dwelling (multi family housing),ATC,2
+MX,Agriculture,ATC,20
+MX,Mining,ATC,21
+MX,Religion and Nonprofit,ATC,22
+MX,General Services,ATC,23
+MX,Emergency Response Services,ATC,24
+MX,Education,ATC,25
+MX,Highway,ATC,26
+MX,Railroad,ATC,27
+MX,Air,ATC,28
+MX,Sea/Water,ATC,29
+MX,Temporary Lodging,ATC,3
+MX,Electrical,ATC,30
+MX,Water,ATC,31
+MX,Sanitary Sewer,ATC,32
+MX,Natural Gas,ATC,33
+MX,Telephone & Telegraph,ATC,34
+MX,Communication (Radio and TV),ATC,35
+MX,Flood Control,ATC,36
+MX,General Commercial,ATC,37
+MX,General Industrial,ATC,38
+MX,Miscellaneous,ATC,39
+MX,Group Institutional Housing,ATC,4
+MX,General Residential,ATC,40
+MX,Multi-Family Dwelling - Homeowners Association,ATC,42
+MX,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+MX,Gasoline Service Stations,ATC,44
+MX,Restaurants,ATC,47
+MX,Casinos,ATC,48
+MX,Acute Care Services Hospitals,ATC,49
+MX,Retail Trade,ATC,5
+MX,OSHPD Acute Care Services Hospitals (California ONLY),ATC,50
+MX,Hotels- Large,ATC,51
+MX,Hotels- Small and Medium,ATC,52
+MX,Rental- General Commercial,ATC,53
+MX,Universities and Colleges,ATC,54
+MX,Wholesale Trade,ATC,6
+MX,Personal and Repair Services,ATC,7
+MX,"Professional, Technical and Business Services",ATC,8
+MX,Health Care Service,ATC,9
+MY,Unknown,ATC,0
+MY,Permanent Dwelling (single family housing),ATC,1
+MY,Entertainment and Recreation,ATC,10
+MY,Parking,ATC,11
+MY,Heavy Fabrication and Assembly,ATC,12
+MY,Light Fabrication and Assembly,ATC,13
+MY,Food and Drugs Processing,ATC,14
+MY,Chemicals Processing,ATC,15
+MY,Metal and Minerals Processing,ATC,16
+MY,High Technology,ATC,17
+MY,Construction,ATC,18
+MY,Petroleum,ATC,19
+MY,Permanent Dwelling (multi family housing),ATC,2
+MY,Agriculture,ATC,20
+MY,Mining,ATC,21
+MY,Religion and Nonprofit,ATC,22
+MY,General Services,ATC,23
+MY,Emergency Response Services,ATC,24
+MY,Education,ATC,25
+MY,Highway,ATC,26
+MY,Railroad,ATC,27
+MY,Air,ATC,28
+MY,Sea/Water,ATC,29
+MY,Temporary Lodging,ATC,3
+MY,Electrical,ATC,30
+MY,Water,ATC,31
+MY,Sanitary Sewer,ATC,32
+MY,Natural Gas,ATC,33
+MY,Telephone & Telegraph,ATC,34
+MY,Communication (Radio and TV),ATC,35
+MY,Flood Control,ATC,36
+MY,General Commercial,ATC,37
+MY,General Industrial,ATC,38
+MY,Miscellaneous,ATC,39
+MY,Group Institutional Housing,ATC,4
+MY,General Residential,ATC,40
+MY,Multi-Family Dwelling - Homeowners Association,ATC,42
+MY,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+MY,Gasoline Service Stations,ATC,44
+MY,Restaurants,ATC,47
+MY,Casinos,ATC,48
+MY,Acute Care Services Hospitals,ATC,49
+MY,Retail Trade,ATC,5
+MY,OSHPD Acute Care Services Hospitals (California ONLY),ATC,50
+MY,Hotels- Large,ATC,51
+MY,Hotels- Small and Medium,ATC,52
+MY,Rental- General Commercial,ATC,53
+MY,Universities and Colleges,ATC,54
+MY,Wholesale Trade,ATC,6
+MY,Personal and Repair Services,ATC,7
+MY,"Professional, Technical and Business Services",ATC,8
+MY,Health Care Service,ATC,9
+NI,Unknown,ATC,0
+NI,Permanent Dwelling (single family housing),ATC,1
+NI,Entertainment and Recreation,ATC,10
+NI,Parking,ATC,11
+NI,Heavy Fabrication and Assembly,ATC,12
+NI,Light Fabrication and Assembly,ATC,13
+NI,Food and Drugs Processing,ATC,14
+NI,Chemicals Processing,ATC,15
+NI,Metal and Minerals Processing,ATC,16
+NI,High Technology,ATC,17
+NI,Construction,ATC,18
+NI,Petroleum,ATC,19
+NI,Permanent Dwelling (multi family housing),ATC,2
+NI,Agriculture,ATC,20
+NI,Mining,ATC,21
+NI,Religion and Nonprofit,ATC,22
+NI,General Services,ATC,23
+NI,Emergency Response Services,ATC,24
+NI,Education,ATC,25
+NI,Highway,ATC,26
+NI,Railroad,ATC,27
+NI,Air,ATC,28
+NI,Sea/Water,ATC,29
+NI,Temporary Lodging,ATC,3
+NI,Electrical,ATC,30
+NI,Water,ATC,31
+NI,Sanitary Sewer,ATC,32
+NI,Natural Gas,ATC,33
+NI,Telephone & Telegraph,ATC,34
+NI,Communication (Radio and TV),ATC,35
+NI,Flood Control,ATC,36
+NI,General Commercial,ATC,37
+NI,General Industrial,ATC,38
+NI,Miscellaneous,ATC,39
+NI,Group Institutional Housing,ATC,4
+NI,General Residential,ATC,40
+NI,Multi-Family Dwelling - Homeowners Association,ATC,42
+NI,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+NI,Gasoline Service Stations,ATC,44
+NI,Restaurants,ATC,47
+NI,Casinos,ATC,48
+NI,Acute Care Services Hospitals,ATC,49
+NI,Retail Trade,ATC,5
+NI,OSHPD Acute Care Services Hospitals (California ONLY),ATC,50
+NI,Hotels- Large,ATC,51
+NI,Hotels- Small and Medium,ATC,52
+NI,Rental- General Commercial,ATC,53
+NI,Universities and Colleges,ATC,54
+NI,Wholesale Trade,ATC,6
+NI,Personal and Repair Services,ATC,7
+NI,"Professional, Technical and Business Services",ATC,8
+NI,Health Care Service,ATC,9
+NL,Unknown,ATC,0
+NL,Permanent Dwelling (single family housing),ATC,1
+NL,Entertainment and Recreation,ATC,10
+NL,Parking,ATC,11
+NL,Heavy Fabrication and Assembly,ATC,12
+NL,Light Fabrication and Assembly,ATC,13
+NL,Food and Drugs Processing,ATC,14
+NL,Chemicals Processing,ATC,15
+NL,Metal and Minerals Processing,ATC,16
+NL,High Technology,ATC,17
+NL,Construction,ATC,18
+NL,Petroleum,ATC,19
+NL,Permanent Dwelling (multi family housing),ATC,2
+NL,Agriculture,ATC,20
+NL,Mining,ATC,21
+NL,Religion and Nonprofit,ATC,22
+NL,General Services,ATC,23
+NL,Emergency Response Services,ATC,24
+NL,Education,ATC,25
+NL,Highway,ATC,26
+NL,Railroad,ATC,27
+NL,Air,ATC,28
+NL,Sea/Water,ATC,29
+NL,Temporary Lodging,ATC,3
+NL,Electrical,ATC,30
+NL,Water,ATC,31
+NL,Sanitary Sewer,ATC,32
+NL,Natural Gas,ATC,33
+NL,Telephone & Telegraph,ATC,34
+NL,Communication (Radio and TV),ATC,35
+NL,Flood Control,ATC,36
+NL,General Commercial,ATC,37
+NL,General Industrial,ATC,38
+NL,Miscellaneous,ATC,39
+NL,Group Institutional Housing,ATC,4
+NL,Retail Trade,ATC,5
+NL,Wholesale Trade,ATC,6
+NL,Personal and Repair Services,ATC,7
+NL,"Professional, Technical and Business Services",ATC,8
+NL,Health Care Service,ATC,9
+NO,Unknown,ATC,0
+NO,Permanent Dwelling (single family housing),ATC,1
+NO,Entertainment and Recreation,ATC,10
+NO,Parking,ATC,11
+NO,Heavy Fabrication and Assembly,ATC,12
+NO,Light Fabrication and Assembly,ATC,13
+NO,Food and Drugs Processing,ATC,14
+NO,Chemicals Processing,ATC,15
+NO,Metal and Minerals Processing,ATC,16
+NO,High Technology,ATC,17
+NO,Construction,ATC,18
+NO,Petroleum,ATC,19
+NO,Permanent Dwelling (multi family housing),ATC,2
+NO,Agriculture,ATC,20
+NO,Mining,ATC,21
+NO,Religion and Nonprofit,ATC,22
+NO,General Services,ATC,23
+NO,Emergency Response Services,ATC,24
+NO,Education,ATC,25
+NO,Highway,ATC,26
+NO,Railroad,ATC,27
+NO,Air,ATC,28
+NO,Sea/Water,ATC,29
+NO,Temporary Lodging,ATC,3
+NO,Electrical,ATC,30
+NO,Water,ATC,31
+NO,Sanitary Sewer,ATC,32
+NO,Natural Gas,ATC,33
+NO,Telephone & Telegraph,ATC,34
+NO,Communication (Radio and TV),ATC,35
+NO,Flood Control,ATC,36
+NO,General Commercial,ATC,37
+NO,General Industrial,ATC,38
+NO,Miscellaneous,ATC,39
+NO,Group Institutional Housing,ATC,4
+NO,Retail Trade,ATC,5
+NO,Wholesale Trade,ATC,6
+NO,Personal and Repair Services,ATC,7
+NO,"Professional, Technical and Business Services",ATC,8
+NO,Health Care Service,ATC,9
+NZ,Unknown,ATC,0
+NZ,Permanent Dwelling (single family housing),ATC,1
+NZ,Entertainment and Recreation,ATC,10
+NZ,Parking,ATC,11
+NZ,Heavy Fabrication and Assembly,ATC,12
+NZ,Light Fabrication and Assembly,ATC,13
+NZ,Food and Drugs Processing,ATC,14
+NZ,Chemicals Processing,ATC,15
+NZ,Metal and Minerals Processing,ATC,16
+NZ,High Technology,ATC,17
+NZ,Construction,ATC,18
+NZ,Petroleum,ATC,19
+NZ,Permanent Dwelling (multi family housing),ATC,2
+NZ,Agriculture,ATC,20
+NZ,Mining,ATC,21
+NZ,Religion and Nonprofit,ATC,22
+NZ,General Services,ATC,23
+NZ,Emergency Response Services,ATC,24
+NZ,Education,ATC,25
+NZ,Highway,ATC,26
+NZ,Railroad,ATC,27
+NZ,Air,ATC,28
+NZ,Sea/Water,ATC,29
+NZ,Temporary Lodging,ATC,3
+NZ,Electrical,ATC,30
+NZ,Water,ATC,31
+NZ,Sanitary Sewer,ATC,32
+NZ,Natural Gas,ATC,33
+NZ,Telephone & Telegraph,ATC,34
+NZ,Communication (Radio and TV),ATC,35
+NZ,Flood Control,ATC,36
+NZ,General Commercial,ATC,37
+NZ,General Industrial,ATC,38
+NZ,Miscellaneous,ATC,39
+NZ,Group Institutional Housing,ATC,4
+NZ,Multi-Family Dwelling - Homeowners Association,ATC,42
+NZ,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+NZ,Gasoline Service Stations,ATC,44
+NZ,Restaurants,ATC,47
+NZ,Casinos,ATC,48
+NZ,Retail Trade,ATC,5
+NZ,Wholesale Trade,ATC,6
+NZ,Personal and Repair Services,ATC,7
+NZ,"Professional, Technical and Business Services",ATC,8
+NZ,Health Care Service,ATC,9
+PA,Unknown,ATC,0
+PA,Permanent Dwelling (single family housing),ATC,1
+PA,Entertainment and Recreation,ATC,10
+PA,Parking,ATC,11
+PA,Heavy Fabrication and Assembly,ATC,12
+PA,Light Fabrication and Assembly,ATC,13
+PA,Food and Drugs Processing,ATC,14
+PA,Chemicals Processing,ATC,15
+PA,Metal and Minerals Processing,ATC,16
+PA,High Technology,ATC,17
+PA,Construction,ATC,18
+PA,Petroleum,ATC,19
+PA,Permanent Dwelling (multi family housing),ATC,2
+PA,Agriculture,ATC,20
+PA,Mining,ATC,21
+PA,Religion and Nonprofit,ATC,22
+PA,General Services,ATC,23
+PA,Emergency Response Services,ATC,24
+PA,Education,ATC,25
+PA,Highway,ATC,26
+PA,Railroad,ATC,27
+PA,Air,ATC,28
+PA,Sea/Water,ATC,29
+PA,Temporary Lodging,ATC,3
+PA,Electrical,ATC,30
+PA,Water,ATC,31
+PA,Sanitary Sewer,ATC,32
+PA,Natural Gas,ATC,33
+PA,Telephone & Telegraph,ATC,34
+PA,Communication (Radio and TV),ATC,35
+PA,Flood Control,ATC,36
+PA,General Commercial,ATC,37
+PA,General Industrial,ATC,38
+PA,Miscellaneous,ATC,39
+PA,Group Institutional Housing,ATC,4
+PA,General Residential,ATC,40
+PA,Multi-Family Dwelling - Homeowners Association,ATC,42
+PA,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+PA,Gasoline Service Stations,ATC,44
+PA,Restaurants,ATC,47
+PA,Casinos,ATC,48
+PA,Acute Care Services Hospitals,ATC,49
+PA,Retail Trade,ATC,5
+PA,OSHPD Acute Care Services Hospitals (California ONLY),ATC,50
+PA,Hotels- Large,ATC,51
+PA,Hotels- Small and Medium,ATC,52
+PA,Rental- General Commercial,ATC,53
+PA,Universities and Colleges,ATC,54
+PA,Wholesale Trade,ATC,6
+PA,Personal and Repair Services,ATC,7
+PA,"Professional, Technical and Business Services",ATC,8
+PA,Health Care Service,ATC,9
+PE,Unknown,ATC,0
+PE,Permanent Dwelling (single family housing),ATC,1
+PE,Entertainment and Recreation,ATC,10
+PE,Parking,ATC,11
+PE,Heavy Fabrication and Assembly,ATC,12
+PE,Light Fabrication and Assembly,ATC,13
+PE,Food and Drugs Processing,ATC,14
+PE,Chemicals Processing,ATC,15
+PE,Metal and Minerals Processing,ATC,16
+PE,High Technology,ATC,17
+PE,Construction,ATC,18
+PE,Petroleum,ATC,19
+PE,Permanent Dwelling (multi family housing),ATC,2
+PE,Agriculture,ATC,20
+PE,Mining,ATC,21
+PE,Religion and Nonprofit,ATC,22
+PE,General Services,ATC,23
+PE,Emergency Response Services,ATC,24
+PE,Education,ATC,25
+PE,Highway,ATC,26
+PE,Railroad,ATC,27
+PE,Air,ATC,28
+PE,Sea/Water,ATC,29
+PE,Temporary Lodging,ATC,3
+PE,Electrical,ATC,30
+PE,Water,ATC,31
+PE,Sanitary Sewer,ATC,32
+PE,Natural Gas,ATC,33
+PE,Telephone & Telegraph,ATC,34
+PE,Communication (Radio and TV),ATC,35
+PE,Flood Control,ATC,36
+PE,General Commercial,ATC,37
+PE,General Industrial,ATC,38
+PE,Miscellaneous,ATC,39
+PE,Group Institutional Housing,ATC,4
+PE,General Residential,ATC,40
+PE,Multi-Family Dwelling - Homeowners Association,ATC,42
+PE,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+PE,Gasoline Service Stations,ATC,44
+PE,Restaurants,ATC,47
+PE,Casinos,ATC,48
+PE,Acute Care Services Hospitals,ATC,49
+PE,Retail Trade,ATC,5
+PE,Hotels- Large,ATC,51
+PE,Hotels- Small and Medium,ATC,52
+PE,Rental- General Commercial,ATC,53
+PE,Universities and Colleges,ATC,54
+PE,Wholesale Trade,ATC,6
+PE,Dwelling (Residential Mortgage Policy),ATC,60
+PE,Personal and Repair Services,ATC,7
+PE,"Professional, Technical and Business Services",ATC,8
+PE,Health Care Service,ATC,9
+PH,Unknown,ATC,0
+PH,Permanent Dwelling (single family housing),ATC,1
+PH,Entertainment and Recreation,ATC,10
+PH,Parking,ATC,11
+PH,Heavy Fabrication and Assembly,ATC,12
+PH,Light Fabrication and Assembly,ATC,13
+PH,Food and Drugs Processing,ATC,14
+PH,Chemicals Processing,ATC,15
+PH,Metal and Minerals Processing,ATC,16
+PH,High Technology,ATC,17
+PH,Construction,ATC,18
+PH,Petroleum,ATC,19
+PH,Permanent Dwelling (multi family housing),ATC,2
+PH,Agriculture,ATC,20
+PH,Mining,ATC,21
+PH,Religion and Nonprofit,ATC,22
+PH,General Services,ATC,23
+PH,Emergency Response Services,ATC,24
+PH,Education,ATC,25
+PH,Highway,ATC,26
+PH,Railroad,ATC,27
+PH,Air,ATC,28
+PH,Sea/Water,ATC,29
+PH,Temporary Lodging,ATC,3
+PH,Electrical,ATC,30
+PH,Water,ATC,31
+PH,Sanitary Sewer,ATC,32
+PH,Natural Gas,ATC,33
+PH,Telephone & Telegraph,ATC,34
+PH,Communication (Radio and TV),ATC,35
+PH,Flood Control,ATC,36
+PH,General Commercial,ATC,37
+PH,General Industrial,ATC,38
+PH,Miscellaneous,ATC,39
+PH,Group Institutional Housing,ATC,4
+PH,General Residential,ATC,40
+PH,Multi-Family Dwelling - Homeowners Association,ATC,42
+PH,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+PH,Gasoline Service Stations,ATC,44
+PH,Restaurants,ATC,47
+PH,Casinos,ATC,48
+PH,Acute Care Services Hospitals,ATC,49
+PH,Retail Trade,ATC,5
+PH,OSHPD Acute Care Services Hospitals (California ONLY),ATC,50
+PH,Hotels- Large,ATC,51
+PH,Hotels- Small and Medium,ATC,52
+PH,Rental- General Commercial,ATC,53
+PH,Universities and Colleges,ATC,54
+PH,Wholesale Trade,ATC,6
+PH,Personal and Repair Services,ATC,7
+PH,"Professional, Technical and Business Services",ATC,8
+PH,Health Care Service,ATC,9
+PL,Unknown,ATC,0
+PL,Permanent Dwelling (single family housing),ATC,1
+PL,Entertainment and Recreation,ATC,10
+PL,Parking,ATC,11
+PL,Heavy Fabrication and Assembly,ATC,12
+PL,Light Fabrication and Assembly,ATC,13
+PL,Food and Drugs Processing,ATC,14
+PL,Chemicals Processing,ATC,15
+PL,Metal and Minerals Processing,ATC,16
+PL,High Technology,ATC,17
+PL,Construction,ATC,18
+PL,Petroleum,ATC,19
+PL,Permanent Dwelling (multi family housing),ATC,2
+PL,Agriculture,ATC,20
+PL,Mining,ATC,21
+PL,Religion and Nonprofit,ATC,22
+PL,General Services,ATC,23
+PL,Emergency Response Services,ATC,24
+PL,Education,ATC,25
+PL,Highway,ATC,26
+PL,Railroad,ATC,27
+PL,Air,ATC,28
+PL,Sea/Water,ATC,29
+PL,Temporary Lodging,ATC,3
+PL,Electrical,ATC,30
+PL,Water,ATC,31
+PL,Sanitary Sewer,ATC,32
+PL,Natural Gas,ATC,33
+PL,Telephone & Telegraph,ATC,34
+PL,Communication (Radio and TV),ATC,35
+PL,Flood Control,ATC,36
+PL,General Commercial,ATC,37
+PL,General Industrial,ATC,38
+PL,Miscellaneous,ATC,39
+PL,Group Institutional Housing,ATC,4
+PL,Retail Trade,ATC,5
+PL,Wholesale Trade,ATC,6
+PL,Personal and Repair Services,ATC,7
+PL,"Professional, Technical and Business Services",ATC,8
+PL,Health Care Service,ATC,9
+PT,Unknown,ATC,0
+PT,Permanent Dwelling (single family housing),ATC,1
+PT,Entertainment and Recreation,ATC,10
+PT,Parking,ATC,11
+PT,Heavy Fabrication and Assembly,ATC,12
+PT,Light Fabrication and Assembly,ATC,13
+PT,Food and Drugs Processing,ATC,14
+PT,Chemicals Processing,ATC,15
+PT,Metal and Minerals Processing,ATC,16
+PT,High Technology,ATC,17
+PT,Construction,ATC,18
+PT,Petroleum,ATC,19
+PT,Permanent Dwelling (multi family housing),ATC,2
+PT,Agriculture,ATC,20
+PT,Mining,ATC,21
+PT,Religion and Nonprofit,ATC,22
+PT,General Services,ATC,23
+PT,Emergency Response Services,ATC,24
+PT,Education,ATC,25
+PT,Highway,ATC,26
+PT,Railroad,ATC,27
+PT,Air,ATC,28
+PT,Sea/Water,ATC,29
+PT,Temporary Lodging,ATC,3
+PT,Electrical,ATC,30
+PT,Water,ATC,31
+PT,Sanitary Sewer,ATC,32
+PT,Natural Gas,ATC,33
+PT,Telephone & Telegraph,ATC,34
+PT,Communication (Radio and TV),ATC,35
+PT,Flood Control,ATC,36
+PT,General Commercial,ATC,37
+PT,General Industrial,ATC,38
+PT,Miscellaneous,ATC,39
+PT,Group Institutional Housing,ATC,4
+PT,Retail Trade,ATC,5
+PT,Wholesale Trade,ATC,6
+PT,Personal and Repair Services,ATC,7
+PT,"Professional, Technical and Business Services",ATC,8
+PT,Health Care Service,ATC,9
+RO,Unknown,ATC,0
+RO,Permanent Dwelling (single family housing),ATC,1
+RO,Entertainment and Recreation,ATC,10
+RO,Parking,ATC,11
+RO,Heavy Fabrication and Assembly,ATC,12
+RO,Light Fabrication and Assembly,ATC,13
+RO,Food and Drugs Processing,ATC,14
+RO,Chemicals Processing,ATC,15
+RO,Metal and Minerals Processing,ATC,16
+RO,High Technology,ATC,17
+RO,Construction,ATC,18
+RO,Petroleum,ATC,19
+RO,Permanent Dwelling (multi family housing),ATC,2
+RO,Agriculture,ATC,20
+RO,Mining,ATC,21
+RO,Religion and Nonprofit,ATC,22
+RO,General Services,ATC,23
+RO,Emergency Response Services,ATC,24
+RO,Education,ATC,25
+RO,Highway,ATC,26
+RO,Railroad,ATC,27
+RO,Air,ATC,28
+RO,Sea/Water,ATC,29
+RO,Temporary Lodging,ATC,3
+RO,Electrical,ATC,30
+RO,Water,ATC,31
+RO,Sanitary Sewer,ATC,32
+RO,Natural Gas,ATC,33
+RO,Telephone & Telegraph,ATC,34
+RO,Communication (Radio and TV),ATC,35
+RO,Flood Control,ATC,36
+RO,General Commercial,ATC,37
+RO,General Industrial,ATC,38
+RO,Miscellaneous,ATC,39
+RO,Group Institutional Housing,ATC,4
+RO,Retail Trade,ATC,5
+RO,Wholesale Trade,ATC,6
+RO,Personal and Repair Services,ATC,7
+RO,"Professional, Technical and Business Services",ATC,8
+RO,Health Care Service,ATC,9
+SE,Unknown,ATC,0
+SE,Permanent Dwelling (single family housing),ATC,1
+SE,Entertainment and Recreation,ATC,10
+SE,Parking,ATC,11
+SE,Heavy Fabrication and Assembly,ATC,12
+SE,Light Fabrication and Assembly,ATC,13
+SE,Food and Drugs Processing,ATC,14
+SE,Chemicals Processing,ATC,15
+SE,Metal and Minerals Processing,ATC,16
+SE,High Technology,ATC,17
+SE,Construction,ATC,18
+SE,Petroleum,ATC,19
+SE,Permanent Dwelling (multi family housing),ATC,2
+SE,Agriculture,ATC,20
+SE,Mining,ATC,21
+SE,Religion and Nonprofit,ATC,22
+SE,General Services,ATC,23
+SE,Emergency Response Services,ATC,24
+SE,Education,ATC,25
+SE,Highway,ATC,26
+SE,Railroad,ATC,27
+SE,Air,ATC,28
+SE,Sea/Water,ATC,29
+SE,Temporary Lodging,ATC,3
+SE,Electrical,ATC,30
+SE,Water,ATC,31
+SE,Sanitary Sewer,ATC,32
+SE,Natural Gas,ATC,33
+SE,Telephone & Telegraph,ATC,34
+SE,Communication (Radio and TV),ATC,35
+SE,Flood Control,ATC,36
+SE,General Commercial,ATC,37
+SE,General Industrial,ATC,38
+SE,Miscellaneous,ATC,39
+SE,Group Institutional Housing,ATC,4
+SE,Retail Trade,ATC,5
+SE,Wholesale Trade,ATC,6
+SE,Personal and Repair Services,ATC,7
+SE,"Professional, Technical and Business Services",ATC,8
+SE,Health Care Service,ATC,9
+SG,Unknown,ATC,0
+SG,Permanent Dwelling (single family housing),ATC,1
+SG,Entertainment and Recreation,ATC,10
+SG,Parking,ATC,11
+SG,Heavy Fabrication and Assembly,ATC,12
+SG,Light Fabrication and Assembly,ATC,13
+SG,Food and Drugs Processing,ATC,14
+SG,Chemicals Processing,ATC,15
+SG,Metal and Minerals Processing,ATC,16
+SG,High Technology,ATC,17
+SG,Construction,ATC,18
+SG,Petroleum,ATC,19
+SG,Permanent Dwelling (multi family housing),ATC,2
+SG,Agriculture,ATC,20
+SG,Mining,ATC,21
+SG,Religion and Nonprofit,ATC,22
+SG,General Services,ATC,23
+SG,Emergency Response Services,ATC,24
+SG,Education,ATC,25
+SG,Highway,ATC,26
+SG,Railroad,ATC,27
+SG,Air,ATC,28
+SG,Sea/Water,ATC,29
+SG,Temporary Lodging,ATC,3
+SG,Electrical,ATC,30
+SG,Water,ATC,31
+SG,Sanitary Sewer,ATC,32
+SG,Natural Gas,ATC,33
+SG,Telephone & Telegraph,ATC,34
+SG,Communication (Radio and TV),ATC,35
+SG,Flood Control,ATC,36
+SG,General Commercial,ATC,37
+SG,General Industrial,ATC,38
+SG,Miscellaneous,ATC,39
+SG,Group Institutional Housing,ATC,4
+SG,General Residential,ATC,40
+SG,Multi-Family Dwelling - Homeowners Association,ATC,42
+SG,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+SG,Gasoline Service Stations,ATC,44
+SG,Restaurants,ATC,47
+SG,Casinos,ATC,48
+SG,Acute Care Services Hospitals,ATC,49
+SG,Retail Trade,ATC,5
+SG,OSHPD Acute Care Services Hospitals (California ONLY),ATC,50
+SG,Hotels- Large,ATC,51
+SG,Hotels- Small and Medium,ATC,52
+SG,Rental- General Commercial,ATC,53
+SG,Universities and Colleges,ATC,54
+SG,Wholesale Trade,ATC,6
+SG,Personal and Repair Services,ATC,7
+SG,"Professional, Technical and Business Services",ATC,8
+SG,Health Care Service,ATC,9
+SI,Unknown,ATC,0
+SI,Permanent Dwelling (single family housing),ATC,1
+SI,Entertainment and Recreation,ATC,10
+SI,Parking,ATC,11
+SI,Heavy Fabrication and Assembly,ATC,12
+SI,Light Fabrication and Assembly,ATC,13
+SI,Food and Drugs Processing,ATC,14
+SI,Chemicals Processing,ATC,15
+SI,Metal and Minerals Processing,ATC,16
+SI,High Technology,ATC,17
+SI,Construction,ATC,18
+SI,Petroleum,ATC,19
+SI,Permanent Dwelling (multi family housing),ATC,2
+SI,Agriculture,ATC,20
+SI,Mining,ATC,21
+SI,Religion and Nonprofit,ATC,22
+SI,General Services,ATC,23
+SI,Emergency Response Services,ATC,24
+SI,Education,ATC,25
+SI,Highway,ATC,26
+SI,Railroad,ATC,27
+SI,Air,ATC,28
+SI,Sea/Water,ATC,29
+SI,Temporary Lodging,ATC,3
+SI,Electrical,ATC,30
+SI,Water,ATC,31
+SI,Sanitary Sewer,ATC,32
+SI,Natural Gas,ATC,33
+SI,Telephone & Telegraph,ATC,34
+SI,Communication (Radio and TV),ATC,35
+SI,Flood Control,ATC,36
+SI,General Commercial,ATC,37
+SI,General Industrial,ATC,38
+SI,Miscellaneous,ATC,39
+SI,Group Institutional Housing,ATC,4
+SI,Retail Trade,ATC,5
+SI,Wholesale Trade,ATC,6
+SI,Personal and Repair Services,ATC,7
+SI,"Professional, Technical and Business Services",ATC,8
+SI,Health Care Service,ATC,9
+SK,Unknown,ATC,0
+SK,Permanent Dwelling (single family housing),ATC,1
+SK,Entertainment and Recreation,ATC,10
+SK,Parking,ATC,11
+SK,Heavy Fabrication and Assembly,ATC,12
+SK,Light Fabrication and Assembly,ATC,13
+SK,Food and Drugs Processing,ATC,14
+SK,Chemicals Processing,ATC,15
+SK,Metal and Minerals Processing,ATC,16
+SK,High Technology,ATC,17
+SK,Construction,ATC,18
+SK,Petroleum,ATC,19
+SK,Permanent Dwelling (multi family housing),ATC,2
+SK,Agriculture,ATC,20
+SK,Mining,ATC,21
+SK,Religion and Nonprofit,ATC,22
+SK,General Services,ATC,23
+SK,Emergency Response Services,ATC,24
+SK,Education,ATC,25
+SK,Highway,ATC,26
+SK,Railroad,ATC,27
+SK,Air,ATC,28
+SK,Sea/Water,ATC,29
+SK,Temporary Lodging,ATC,3
+SK,Electrical,ATC,30
+SK,Water,ATC,31
+SK,Sanitary Sewer,ATC,32
+SK,Natural Gas,ATC,33
+SK,Telephone & Telegraph,ATC,34
+SK,Communication (Radio and TV),ATC,35
+SK,Flood Control,ATC,36
+SK,General Commercial,ATC,37
+SK,General Industrial,ATC,38
+SK,Miscellaneous,ATC,39
+SK,Group Institutional Housing,ATC,4
+SK,Retail Trade,ATC,5
+SK,Wholesale Trade,ATC,6
+SK,Personal and Repair Services,ATC,7
+SK,"Professional, Technical and Business Services",ATC,8
+SK,Health Care Service,ATC,9
+SV,Unknown,ATC,0
+SV,Permanent Dwelling (single family housing),ATC,1
+SV,Entertainment and Recreation,ATC,10
+SV,Parking,ATC,11
+SV,Heavy Fabrication and Assembly,ATC,12
+SV,Light Fabrication and Assembly,ATC,13
+SV,Food and Drugs Processing,ATC,14
+SV,Chemicals Processing,ATC,15
+SV,Metal and Minerals Processing,ATC,16
+SV,High Technology,ATC,17
+SV,Construction,ATC,18
+SV,Petroleum,ATC,19
+SV,Permanent Dwelling (multi family housing),ATC,2
+SV,Agriculture,ATC,20
+SV,Mining,ATC,21
+SV,Religion and Nonprofit,ATC,22
+SV,General Services,ATC,23
+SV,Emergency Response Services,ATC,24
+SV,Education,ATC,25
+SV,Highway,ATC,26
+SV,Railroad,ATC,27
+SV,Air,ATC,28
+SV,Sea/Water,ATC,29
+SV,Temporary Lodging,ATC,3
+SV,Electrical,ATC,30
+SV,Water,ATC,31
+SV,Sanitary Sewer,ATC,32
+SV,Natural Gas,ATC,33
+SV,Telephone & Telegraph,ATC,34
+SV,Communication (Radio and TV),ATC,35
+SV,Flood Control,ATC,36
+SV,General Commercial,ATC,37
+SV,General Industrial,ATC,38
+SV,Miscellaneous,ATC,39
+SV,Group Institutional Housing,ATC,4
+SV,General Residential,ATC,40
+SV,Multi-Family Dwelling - Homeowners Association,ATC,42
+SV,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+SV,Gasoline Service Stations,ATC,44
+SV,Restaurants,ATC,47
+SV,Casinos,ATC,48
+SV,Acute Care Services Hospitals,ATC,49
+SV,Retail Trade,ATC,5
+SV,OSHPD Acute Care Services Hospitals (California ONLY),ATC,50
+SV,Hotels- Large,ATC,51
+SV,Hotels- Small and Medium,ATC,52
+SV,Rental- General Commercial,ATC,53
+SV,Universities and Colleges,ATC,54
+SV,Wholesale Trade,ATC,6
+SV,Personal and Repair Services,ATC,7
+SV,"Professional, Technical and Business Services",ATC,8
+SV,Health Care Service,ATC,9
+TH,Unknown,ATC,0
+TH,Permanent Dwelling (single family housing),ATC,1
+TH,Entertainment and Recreation,ATC,10
+TH,Parking,ATC,11
+TH,Heavy Fabrication and Assembly,ATC,12
+TH,Light Fabrication and Assembly,ATC,13
+TH,Food and Drugs Processing,ATC,14
+TH,Chemicals Processing,ATC,15
+TH,Metal and Minerals Processing,ATC,16
+TH,High Technology,ATC,17
+TH,Construction,ATC,18
+TH,Petroleum,ATC,19
+TH,Permanent Dwelling (multi family housing),ATC,2
+TH,Agriculture,ATC,20
+TH,Mining,ATC,21
+TH,Religion and Nonprofit,ATC,22
+TH,General Services,ATC,23
+TH,Emergency Response Services,ATC,24
+TH,Education,ATC,25
+TH,Highway,ATC,26
+TH,Railroad,ATC,27
+TH,Air,ATC,28
+TH,Sea/Water,ATC,29
+TH,Temporary Lodging,ATC,3
+TH,Electrical,ATC,30
+TH,Water,ATC,31
+TH,Sanitary Sewer,ATC,32
+TH,Natural Gas,ATC,33
+TH,Telephone & Telegraph,ATC,34
+TH,Communication (Radio and TV),ATC,35
+TH,Flood Control,ATC,36
+TH,General Commercial,ATC,37
+TH,General Industrial,ATC,38
+TH,Miscellaneous,ATC,39
+TH,Group Institutional Housing,ATC,4
+TH,General Residential,ATC,40
+TH,Multi-Family Dwelling - Homeowners Association,ATC,42
+TH,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+TH,Gasoline Service Stations,ATC,44
+TH,Restaurants,ATC,47
+TH,Casinos,ATC,48
+TH,Acute Care Services Hospitals,ATC,49
+TH,Retail Trade,ATC,5
+TH,OSHPD Acute Care Services Hospitals (California ONLY),ATC,50
+TH,Hotels- Large,ATC,51
+TH,Hotels- Small and Medium,ATC,52
+TH,Rental- General Commercial,ATC,53
+TH,Universities and Colleges,ATC,54
+TH,Wholesale Trade,ATC,6
+TH,Personal and Repair Services,ATC,7
+TH,"Professional, Technical and Business Services",ATC,8
+TH,Health Care Service,ATC,9
+TR,Unknown,ATC,0
+TR,Permanent Dwelling (single family housing),ATC,1
+TR,Entertainment and Recreation,ATC,10
+TR,Parking,ATC,11
+TR,Heavy Fabrication and Assembly,ATC,12
+TR,Light Fabrication and Assembly,ATC,13
+TR,Food and Drugs Processing,ATC,14
+TR,Chemicals Processing,ATC,15
+TR,Metal and Minerals Processing,ATC,16
+TR,High Technology,ATC,17
+TR,Construction,ATC,18
+TR,Petroleum,ATC,19
+TR,Permanent Dwelling (multi family housing),ATC,2
+TR,Agriculture,ATC,20
+TR,Mining,ATC,21
+TR,Religion and Nonprofit,ATC,22
+TR,General Services,ATC,23
+TR,Emergency Response Services,ATC,24
+TR,Education,ATC,25
+TR,Highway,ATC,26
+TR,Railroad,ATC,27
+TR,Air,ATC,28
+TR,Sea/Water,ATC,29
+TR,Temporary Lodging,ATC,3
+TR,Electrical,ATC,30
+TR,Water,ATC,31
+TR,Sanitary Sewer,ATC,32
+TR,Natural Gas,ATC,33
+TR,Telephone & Telegraph,ATC,34
+TR,Communication (Radio and TV),ATC,35
+TR,Flood Control,ATC,36
+TR,General Commercial,ATC,37
+TR,General Industrial,ATC,38
+TR,Miscellaneous,ATC,39
+TR,Group Institutional Housing,ATC,4
+TR,Retail Trade,ATC,5
+TR,Wholesale Trade,ATC,6
+TR,Personal and Repair Services,ATC,7
+TR,"Professional, Technical and Business Services",ATC,8
+TR,Health Care Service,ATC,9
+TW,Unknown,ATC,0
+TW,Permanent Dwelling (single family housing),ATC,1
+TW,Entertainment and Recreation,ATC,10
+TW,Parking,ATC,11
+TW,Heavy Fabrication and Assembly,ATC,12
+TW,Light Fabrication and Assembly,ATC,13
+TW,Food and Drugs Processing,ATC,14
+TW,Chemicals Processing,ATC,15
+TW,Metal and Minerals Processing,ATC,16
+TW,High Technology,ATC,17
+TW,Construction,ATC,18
+TW,Petroleum,ATC,19
+TW,Permanent Dwelling (multi family housing),ATC,2
+TW,Agriculture,ATC,20
+TW,Mining,ATC,21
+TW,Religion and Nonprofit,ATC,22
+TW,General Services,ATC,23
+TW,Emergency Response Services,ATC,24
+TW,Education,ATC,25
+TW,Highway,ATC,26
+TW,Railroad,ATC,27
+TW,Air,ATC,28
+TW,Sea/Water,ATC,29
+TW,Temporary Lodging,ATC,3
+TW,Electrical,ATC,30
+TW,Water,ATC,31
+TW,Sanitary Sewer,ATC,32
+TW,Natural Gas,ATC,33
+TW,Telephone & Telegraph,ATC,34
+TW,Communication (Radio and TV),ATC,35
+TW,Flood Control,ATC,36
+TW,General Commercial,ATC,37
+TW,General Industrial,ATC,38
+TW,Miscellaneous,ATC,39
+TW,Group Institutional Housing,ATC,4
+TW,General Residential,ATC,40
+TW,Multi-Family Dwelling - Homeowners Association,ATC,42
+TW,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+TW,Gasoline Service Stations,ATC,44
+TW,Restaurants,ATC,47
+TW,Casinos,ATC,48
+TW,Acute Care Services Hospitals,ATC,49
+TW,Retail Trade,ATC,5
+TW,Hotels- Large,ATC,51
+TW,Hotels- Small and Medium,ATC,52
+TW,Rental- General Commercial,ATC,53
+TW,Universities and Colleges,ATC,54
+TW,Wholesale Trade,ATC,6
+TW,Personal and Repair Services,ATC,7
+TW,"Professional, Technical and Business Services",ATC,8
+TW,Health Care Service,ATC,9
+US,Unknown,ATC,0
+US,Permanent Dwelling (single family housing),ATC,1
+US,Entertainment and Recreation,ATC,10
+US,Parking,ATC,11
+US,Heavy Fabrication and Assembly,ATC,12
+US,Light Fabrication and Assembly,ATC,13
+US,Food and Drugs Processing,ATC,14
+US,Chemicals Processing,ATC,15
+US,Metal and Minerals Processing,ATC,16
+US,High Technology,ATC,17
+US,Construction,ATC,18
+US,Petroleum,ATC,19
+US,Permanent Dwelling (multi family housing),ATC,2
+US,Agriculture,ATC,20
+US,Mining,ATC,21
+US,Religion and Nonprofit,ATC,22
+US,General Services,ATC,23
+US,Emergency Response Services,ATC,24
+US,Education,ATC,25
+US,Highway,ATC,26
+US,Railroad,ATC,27
+US,Air,ATC,28
+US,Sea/Water,ATC,29
+US,Temporary Lodging,ATC,3
+US,Electrical,ATC,30
+US,Water,ATC,31
+US,Sanitary Sewer,ATC,32
+US,Natural Gas,ATC,33
+US,Telephone & Telegraph,ATC,34
+US,Communication (Radio and TV),ATC,35
+US,Flood Control,ATC,36
+US,General Commercial,ATC,37
+US,General Industrial,ATC,38
+US,Miscellaneous,ATC,39
+US,Group Institutional Housing,ATC,4
+US,Multi-Family Dwelling - Homeowners Association,ATC,42
+US,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+US,Gasoline Service Stations,ATC,44
+US,Restaurants,ATC,47
+US,Casinos,ATC,48
+US,Acute Care Services Hospitals,ATC,49
+US,Retail Trade,ATC,5
+US,OSHPD Acute Care Services Hospitals (California ONLY),ATC,50
+US,Hotels- Large,ATC,51
+US,Hotels- Small and Medium,ATC,52
+US,Rental- General Commercial,ATC,53
+US,Universities and Colleges,ATC,54
+US,Wholesale Trade,ATC,6
+US,Personal and Repair Services,ATC,7
+US,"Professional, Technical and Business Services",ATC,8
+US,Health Care Service,ATC,9
+VE,Unknown,ATC,0
+VE,Permanent Dwelling (single family housing),ATC,1
+VE,Entertainment and Recreation,ATC,10
+VE,Parking,ATC,11
+VE,Heavy Fabrication and Assembly,ATC,12
+VE,Light Fabrication and Assembly,ATC,13
+VE,Food and Drugs Processing,ATC,14
+VE,Chemicals Processing,ATC,15
+VE,Metal and Minerals Processing,ATC,16
+VE,High Technology,ATC,17
+VE,Construction,ATC,18
+VE,Petroleum,ATC,19
+VE,Permanent Dwelling (multi family housing),ATC,2
+VE,Agriculture,ATC,20
+VE,Mining,ATC,21
+VE,Religion and Nonprofit,ATC,22
+VE,General Services,ATC,23
+VE,Emergency Response Services,ATC,24
+VE,Education,ATC,25
+VE,Highway,ATC,26
+VE,Railroad,ATC,27
+VE,Air,ATC,28
+VE,Sea/Water,ATC,29
+VE,Temporary Lodging,ATC,3
+VE,Electrical,ATC,30
+VE,Water,ATC,31
+VE,Sanitary Sewer,ATC,32
+VE,Natural Gas,ATC,33
+VE,Telephone & Telegraph,ATC,34
+VE,Communication (Radio and TV),ATC,35
+VE,Flood Control,ATC,36
+VE,General Commercial,ATC,37
+VE,General Industrial,ATC,38
+VE,Miscellaneous,ATC,39
+VE,Group Institutional Housing,ATC,4
+VE,General Residential,ATC,40
+VE,Multi-Family Dwelling - Homeowners Association,ATC,42
+VE,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+VE,Gasoline Service Stations,ATC,44
+VE,Restaurants,ATC,47
+VE,Casinos,ATC,48
+VE,Acute Care Services Hospitals,ATC,49
+VE,Retail Trade,ATC,5
+VE,Hotels- Large,ATC,51
+VE,Hotels- Small and Medium,ATC,52
+VE,Rental- General Commercial,ATC,53
+VE,Universities and Colleges,ATC,54
+VE,Wholesale Trade,ATC,6
+VE,Dwelling (Residential Mortgage Policy),ATC,60
+VE,Personal and Repair Services,ATC,7
+VE,"Professional, Technical and Business Services",ATC,8
+VE,Health Care Service,ATC,9
+VN,Unknown,ATC,0
+VN,Permanent Dwelling (single family housing),ATC,1
+VN,Entertainment and Recreation,ATC,10
+VN,Parking,ATC,11
+VN,Heavy Fabrication and Assembly,ATC,12
+VN,Light Fabrication and Assembly,ATC,13
+VN,Food and Drugs Processing,ATC,14
+VN,Chemicals Processing,ATC,15
+VN,Metal and Minerals Processing,ATC,16
+VN,High Technology,ATC,17
+VN,Construction,ATC,18
+VN,Petroleum,ATC,19
+VN,Permanent Dwelling (multi family housing),ATC,2
+VN,Agriculture,ATC,20
+VN,Mining,ATC,21
+VN,Religion and Nonprofit,ATC,22
+VN,General Services,ATC,23
+VN,Emergency Response Services,ATC,24
+VN,Education,ATC,25
+VN,Highway,ATC,26
+VN,Railroad,ATC,27
+VN,Air,ATC,28
+VN,Sea/Water,ATC,29
+VN,Temporary Lodging,ATC,3
+VN,Electrical,ATC,30
+VN,Water,ATC,31
+VN,Sanitary Sewer,ATC,32
+VN,Natural Gas,ATC,33
+VN,Telephone & Telegraph,ATC,34
+VN,Communication (Radio and TV),ATC,35
+VN,Flood Control,ATC,36
+VN,General Commercial,ATC,37
+VN,General Industrial,ATC,38
+VN,Miscellaneous,ATC,39
+VN,Group Institutional Housing,ATC,4
+VN,General Residential,ATC,40
+VN,Multi-Family Dwelling - Homeowners Association,ATC,42
+VN,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+VN,Gasoline Service Stations,ATC,44
+VN,Restaurants,ATC,47
+VN,Casinos,ATC,48
+VN,Acute Care Services Hospitals,ATC,49
+VN,Retail Trade,ATC,5
+VN,OSHPD Acute Care Services Hospitals (California ONLY),ATC,50
+VN,Hotels- Large,ATC,51
+VN,Hotels- Small and Medium,ATC,52
+VN,Rental- General Commercial,ATC,53
+VN,Universities and Colleges,ATC,54
+VN,Wholesale Trade,ATC,6
+VN,Personal and Repair Services,ATC,7
+VN,"Professional, Technical and Business Services",ATC,8
+VN,Health Care Service,ATC,9
+W3,Unknown,ATC,0
+ZZ,Unknown,ATC,0
+ZZ,Permanent Dwelling (single family housing),ATC,1
+ZZ,Entertainment and Recreation,ATC,10
+ZZ,Parking,ATC,11
+ZZ,Heavy Fabrication and Assembly,ATC,12
+ZZ,Light Fabrication and Assembly,ATC,13
+ZZ,Food and Drugs Processing,ATC,14
+ZZ,Chemicals Processing,ATC,15
+ZZ,Metal and Minerals Processing,ATC,16
+ZZ,High Technology,ATC,17
+ZZ,Construction,ATC,18
+ZZ,Petroleum,ATC,19
+ZZ,Permanent Dwelling (multi family housing),ATC,2
+ZZ,Agriculture,ATC,20
+ZZ,Mining,ATC,21
+ZZ,Religion and Nonprofit,ATC,22
+ZZ,General Services,ATC,23
+ZZ,Emergency Response Services,ATC,24
+ZZ,Education,ATC,25
+ZZ,Highway,ATC,26
+ZZ,Railroad,ATC,27
+ZZ,Air,ATC,28
+ZZ,Sea/Water,ATC,29
+ZZ,Temporary Lodging,ATC,3
+ZZ,Electrical,ATC,30
+ZZ,Water,ATC,31
+ZZ,Sanitary Sewer,ATC,32
+ZZ,Natural Gas,ATC,33
+ZZ,Telephone & Telegraph,ATC,34
+ZZ,Communication (Radio and TV),ATC,35
+ZZ,Flood Control,ATC,36
+ZZ,General Commercial,ATC,37
+ZZ,General Industrial,ATC,38
+ZZ,Miscellaneous,ATC,39
+ZZ,Group Institutional Housing,ATC,4
+ZZ,General Residential,ATC,40
+ZZ,Homeowner,ATC,41
+ZZ,Multi-Family Dwelling - Homeowners Association,ATC,42
+ZZ,Multi-Family Dwelling - Condominium Unit Owner,ATC,43
+ZZ,Gasoline Service Stations,ATC,44
+ZZ,Small Scale Industrial (SSI),ATC,45
+ZZ,Large Scale Industrial (LSI),ATC,46
+ZZ,Restaurants,ATC,47
+ZZ,Casinos,ATC,48
+ZZ,Acute Care Services Hospitals,ATC,49
+ZZ,Retail Trade,ATC,5
+ZZ,OSHPD Acute Care Services Hospitals (California ONLY),ATC,50
+ZZ,Hotels- Large,ATC,51
+ZZ,Hotels- Small and Medium,ATC,52
+ZZ,Rental- General Commercial,ATC,53
+ZZ,Wholesale Trade,ATC,6
+ZZ,Personal and Repair Services,ATC,7
+ZZ,"Professional, Technical and Business Services",ATC,8
+ZZ,Health Care Service,ATC,9

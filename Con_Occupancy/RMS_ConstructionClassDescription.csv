@@ -1,0 +1,296 @@
+ConstructionClassDescription,ConstructionSchemeID,ConstructionClassCode
+Unknown,ATC,0
+Wood Frame,ATC,1
+WOOD,RMS,1
+Moment Steel Frame (Perimeter),ATC,10
+Pipelines At Grade,RMS,10
+Moment Steel Frame (Distributed),ATC,11
+Concrete Dams,RMS,11
+Ductile RC Frame (Distributed),ATC,12
+Earthfill and Rockfill Dams,RMS,12
+Non-Ductile RC Frame (Distributed),ATC,13
+Alluvium Tunnels,RMS,13
+Precast Concrete (Non Tilt-Up),ATC,14
+Rock Tunnels,RMS,14
+Long Span,ATC,15
+Cut & Cover Tunnels,RMS,15
+Tilt-Up,ATC,16
+Underground Liquid Storage Tanks,RMS,16
+Mobile Home,ATC,17
+Underground Solid Storage Tanks,RMS,17
+Specially Engineered Facility,ATC,18
+On Ground Liquid Storage Tanks,RMS,18
+Conventional Bridges (< 500 ft. spans) w/ Multiple Simple Spans,ATC,19
+On Ground Solid Storage Tanks,RMS,19
+Light Wood Frame,RMS,1A
+Light Wood Stud Walls,RMS,1A1
+Light Wood Post & Beam,RMS,1A2
+Light Wood Stud Walls with Brick Masonry Veneer,RMS,1A3
+Heavy Timber,RMS,1B
+Heavy Timber Frame,RMS,1B1
+Heavy Timber Frame with Unreinforced Masonry Infill,RMS,1B2
+Light Metal,ATC,2
+MASONRY,RMS,2
+Conventional Bridges (< 500 ft. spans) w/ Monolithic Spans,ATC,20
+Elevated Liquid Storage Tanks,RMS,20
+Major Bridges (> 500 ft. spans),ATC,21
+Elevated Solid Storage Tanks,RMS,21
+Underground Pipelines,ATC,22
+Railroads (Track & Bed),RMS,22
+Pipelines At Grade,ATC,23
+Highways,RMS,23
+Concrete Dams,ATC,24
+Runways,RMS,24
+Earthfill and Rockfill Dams,ATC,25
+High Industrial Masonry Chimneys,RMS,25
+Alluvium Tunnels,ATC,26
+High Industrial Concrete Chimneys,RMS,26
+Rock Tunnels,ATC,27
+High Industrial Steel Chimneys,RMS,27
+Cut & Cover Tunnels,ATC,28
+Cranes,RMS,28
+Underground Liquid Storage Tanks,ATC,29
+Conveyor Systems,RMS,29
+Weak Masonry,RMS,2A
+Rubble Stone Masonry,RMS,2A1
+Adobe,RMS,2A2
+Reinforced Adobe,RMS,2A3
+Unreinforced Masonry,RMS,2B
+Unreinforced Cut Stone Masonry,RMS,2B1
+Unreinforced Solid Brick Masonry,RMS,2B2
+Unreinforced Concrete Block Masonry,RMS,2B3
+Unreinforced Brick Cavity Wall,RMS,2B4
+Pombaline Buildings,RMS,2B5
+Bahareque,RMS,2B6
+Unreinforced Solid Brick Masonry - With Rigid Diaphragms,RMS,2B7
+Structural Masonry,RMS,2C
+Reinforced Masonry,RMS,2C1
+Confined Masonry,RMS,2C2
+Confined Masonry with non-RC slab,RMS,2C3
+Factory Structure with Brick Columns,RMS,2D
+Multi-story Brick Structure with RC Frames,RMS,2E
+Unreinforced Masonry Wall,ATC,3
+REINFORCED CONCRETE,RMS,3
+Underground Solid Storage Tanks,ATC,30
+Conventional (< 100 ft.) Electrical Transmission Line Towers,RMS,30
+On Ground Liquid Storage Tanks,ATC,31
+Major (> 100 ft.) Electrical Transmission Line Towers,RMS,31
+On Ground Solid Storage Tanks,ATC,32
+Broadcast Towers,RMS,32
+Elevated Liquid Storage Tanks,ATC,33
+Observation Towers,RMS,33
+Elevated Solid Storage Tanks,ATC,34
+Offshore Towers,RMS,34
+Railroads (Track & Bed),ATC,35
+Canals,RMS,35
+Highways,ATC,36
+Earth Retaining Structures (> 20 ft. high),RMS,36
+Runways,ATC,37
+Waterfront Structures,RMS,37
+High Industrial Masonry Chimneys,ATC,38
+Residential Equipment,RMS,38
+High Industrial Concrete Chimneys,ATC,39
+Office Equipment,RMS,39
+Cast-in-Place Reinforced Concrete,RMS,3A
+Reinforced Concrete Moment Resisting Frame,RMS,3A1
+Reinforced Concrete Frame with Wood Frame in the upper floors,RMS,3A10
+RC MRF with Shear Walls,RMS,3A2
+RC MRF with Unreinforced Masonry Infill,RMS,3A3
+Reinforced Concrete Shear Wall,RMS,3A4
+Waffle or Flat Slab,RMS,3A5
+Steel & Reinforced Concrete Composite Frame,RMS,3A6
+Concrete Piloti,RMS,3A7
+CFT,RMS,3A8
+Gravity Load Designed RC MRF with Unreinforced Masonry Infill,RMS,3A9
+Precast Reinforced Concrete,RMS,3B
+Precast Moment Resisting Frame,RMS,3B1
+Precast MRF with Shear Walls,RMS,3B2
+Precast MRF with Unreinforced Masonry Infill,RMS,3B3
+Tilt-Up,RMS,3B4
+Precast Panel Bearing Wall (non Tilt-Up),RMS,3B5
+Lift Slab,RMS,3B6
+Reinforced Concrete with Wood/Metal Roof Deck,RMS,3C
+Factory Structure with RC Columns,RMS,3D
+URM Wall with Frame,ATC,4
+STEEL,RMS,4
+High Industrial Steel Chimneys,ATC,40
+Electrical Equipment,RMS,40
+Cranes,ATC,41
+Mechanical Equipment,RMS,41
+Conveyor Systems,ATC,42
+High Technology/Lab Equipment,RMS,42
+Conventional (< 100 ft.) Electrical Transmission Line Towers,ATC,43
+"Trains, Trucks, Airplanes",RMS,43
+Major (> 100 ft.) Electrical Transmission Line Towers,ATC,44
+Automobiles - Personal,RMS,44
+Broadcast Towers,ATC,45
+Automobiles - Dealers,RMS,45
+Observation Towers,ATC,46
+PETROCHEMICAL FACILITIES,RMS,46
+Oil Refineries & Petrochemical Plants,RMS,46A
+Tank Farms,RMS,46B
+Pumping Stations,RMS,46C
+Pipelines,RMS,46D
+Offshore Towers,ATC,47
+ELECTRIC POWER SYSTEMS,RMS,47
+Transmission/Distribution Substations,RMS,47A
+Transmission/Distribution Lines,RMS,47B
+Fossil Fuel Plants,RMS,47C
+Cogeneration Plants,RMS,47D
+Hydroelectric Plants,RMS,47E
+Canals,ATC,48
+NATURAL GAS FACILITIES,RMS,48
+Compressor Stations,RMS,48A
+Pipelines,RMS,48B
+Liquefied Natural Gas,RMS,48C
+Earth Retaining Structures (> 20 ft. high),ATC,49
+PORT/HARBOR FACILITIES,RMS,49
+Waterfront Facilities,RMS,49A
+Crane/Cargo Handling,RMS,49B
+Fuel Facilities,RMS,49C
+Steel Frame,RMS,4A
+Steel Moment Resisting Frame,RMS,4A1
+Steel MRF with Shear Walls,RMS,4A2
+Steel MRF with Unreinforced Masonry Infill,RMS,4A3
+Concentrically Braced Steel Frame,RMS,4A4
+Eccentrically Braced Steel Frame,RMS,4A5
+Gravity Load Designed Steel MRF with Unreinforced Masonry Infill,RMS,4A6
+Steel Frame with Wood Frame in the upper floors,RMS,4A7
+Light Metal Frame,RMS,4B
+Light Metal Frame,RMS,4B1
+Light Metal Frame with Unreinforced Masonry Infill,RMS,4B2
+Light Metal Stud wall with Brick Masonry Veneer,RMS,4B3
+Steel Frame with Wood/Metal Roof Deck,RMS,4C
+RC Shear Wall with Frame,ATC,5
+MANUFACTURED/MOBILE HOME,RMS,5
+Waterfront Structures,ATC,50
+HEAVY INDUSTRIAL FACILITIES,RMS,50
+Pulp & Paper,RMS,50A
+Steel Mill,RMS,50B
+Mining,RMS,50C
+Cement Mill,RMS,50D
+Residential Equipment,ATC,51
+LIGHT INDUSTRIAL FACILITIES,RMS,51
+High Technology,RMS,51A
+Telecommunication,RMS,51B
+Office Equipment,ATC,52
+MIXED,RMS,52
+Wood Frame Single Wall (Hawaii only),RMS,52A
+Wood Frame Double Wall (Hawaii only),RMS,52B
+Electrical Equipment,ATC,53
+Golf Course,RMS,53
+Mechanical Equipment,ATC,54
+"Boats, inside a Building (Marina)",RMS,54
+High Technology/Lab Equipment,ATC,55
+"Boats, Moored, Less than 26 ft, motor",RMS,55
+"Trains, Trucks, Airplanes",ATC,56
+"Boats, Moored, Less than 26 ft, sail",RMS,56
+PETROCHEMICAL FACILITIES,ATC,57
+"Boats, Moored, 26-60 ft, motor",RMS,57
+Oil Refineries & Petrochemical Plants,ATC,57A
+Tank Farms,ATC,57B
+Pumping Stations,ATC,57C
+Pipelines,ATC,57D
+ELECTRIC POWER SYSTEMS,ATC,58
+"Boats, Moored, 26-60 ft, sail",RMS,58
+Transmission/Distribution Substations,ATC,58A
+Transmission/Distribution Lines,ATC,58B
+Fossil Fuel Plants,ATC,58C
+Cogeneration Plants,ATC,58D
+Hydroelectric Plants,ATC,58E
+NATURAL GAS FACILITIES,ATC,59
+"Boats, Moored, Greater 60 ft, motor",RMS,59
+Compressor Stations,ATC,59A
+Pipelines,ATC,59B
+Liquefied Natural Gas,ATC,59C
+Manufactured/Mobile Home without Tie-Downs,RMS,5A
+Manufactured/Mobile Home with Tie-Downs,RMS,5B
+RC Shear Wall without Frame,ATC,6
+Conventional Bridges (< 500 ft. spans) w/ Multiple Simple Spans,RMS,6
+PORT/HARBOR FACILITIES,ATC,60
+"Boats, Moored, Greater 60 ft, sail",RMS,60
+Waterfront Facilities,ATC,60A
+Crane/Cargo Handling,ATC,60B
+Fuel Facilities,ATC,60C
+HEAVY INDUSTRIAL FACILITIES,ATC,61
+Floating Structure,RMS,61
+Pulp & Paper,ATC,61A
+Steel Mill,ATC,61B
+Mining,ATC,61C
+Cement Mill,ATC,61D
+LIGHT INDUSTRIAL FACILITIES,ATC,62
+High Technology,ATC,62A
+Telecommunication,ATC,62B
+RM Shear Wall,ATC,7
+Conventional Bridges (< 500 ft. spans) w/ Monolithic Spans,RMS,7
+Wood Frame Single Wall (Hawaii only),ATC,71
+Wood Frame OSHPD SPC1,ATC,72A
+Wood Frame OSHPD SPC2,ATC,72B
+Wood Frame OSHPD SPC3,ATC,72C
+Wood Frame OSHPD SPC4,ATC,72D
+Wood Frame OSHPD SPC5,ATC,72E
+Unreinforced Masonry Pre-1973 OSHPD SPC1,ATC,73A
+Unreinforced Masonry Pre-1973 OSHPD SPC2,ATC,73B
+Structural Masonry Pre-1973 OSHPD SPC1,ATC,74A
+Structural Masonry Pre-1973 OSHPD SPC2,ATC,74B
+Structural Masonry Pre-1973 OSHPD SPC3,ATC,74C
+Structural Masonry 1974-1994 OSHPD SPC2,ATC,74D
+Structural Masonry 1974-1994 OSHPD SPC3,ATC,74E
+Structural Masonry Post-1995 OSHPD SPC3,ATC,74F
+Reinforced Concrete Moment Resisting Frame Pre-1973 OSHPD SPC1,ATC,75A
+Reinforced Concrete Moment Resisting Frame Pre-1973 OSHPD SPC2,ATC,75B
+Reinforced Concrete Moment Resisting Frame 1974-1994 OSHPD SPC2,ATC,75C
+Reinforced Concrete Moment Resisting Frame 1974-1994 OSHPD SPC3,ATC,75D
+Reinforced Concrete Moment Resisting Frame 1974-1994 OSHPD SPC4,ATC,75E
+Reinforced Concrete Moment Resisting Frame Post-1995 OSHPD SPC3,ATC,75F
+Reinforced Concrete Moment Resisting Frame Post-1995 OSHPD SPC4,ATC,75G
+Reinforced Concrete Moment Resisting Frame Post-1995 OSHPD SPC5,ATC,75H
+RC MRF with Shear Walls Pre-1973 OSHPD SPC1,ATC,76A
+RC MRF with Shear Walls Pre-1973 OSHPD SPC2,ATC,76B
+RC MRF with Shear Walls 1974-1994 OSHPD SPC2,ATC,76C
+RC MRF with Shear Walls 1974-1994 OSHPD SPC3,ATC,76D
+RC MRF with Shear Walls 1974-1994 OSHPD SPC4,ATC,76E
+RC MRF with Shear Walls Post-1995 OSHPD SPC3,ATC,76F
+RC MRF with Shear Walls Post-1995 OSHPD SPC4,ATC,76G
+RC MRF with Shear Walls Post-1995 OSHPD SPC5,ATC,76H
+Reinforced Concrete Shear Wall Pre-1973 OSHPD SPC1,ATC,77A
+Reinforced Concrete Shear Wall Pre-1973 OSHPD SPC2,ATC,77B
+Reinforced Concrete Shear Wall 1974-1994 OSHPD SPC2,ATC,77C
+Reinforced Concrete Shear Wall 1974-1994 OSHPD SPC3,ATC,77D
+Reinforced Concrete Shear Wall 1974-1994 OSHPD SPC4,ATC,77E
+Reinforced Concrete Shear Wall Post-1995 OSHPD SPC3,ATC,77F
+Reinforced Concrete Shear Wall Post-1995 OSHPD SPC4,ATC,77G
+Reinforced Concrete Shear Wall Post-1995 OSHPD SPC5,ATC,77H
+Steel Moment Resisting Frame Pre-1973 OSHPD SPC1,ATC,78A
+Steel Moment Resisting Frame Pre-1973 OSHPD SPC2,ATC,78B
+Steel Moment Resisting Frame 1974-1994 OSHPD SPC2,ATC,78C
+Steel Moment Resisting Frame 1974-1994 OSHPD SPC3,ATC,78D
+Steel Moment Resisting Frame 1974-1994 OSHPD SPC4,ATC,78E
+Steel Moment Resisting Frame Post-1995 OSHPD SPC3,ATC,78F
+Steel Moment Resisting Frame Post-1995 OSHPD SPC4,ATC,78G
+Steel Moment Resisting Frame Post-1995 OSHPD SPC5,ATC,78H
+Braced Steel MRF Pre-1973 OSHPD SPC1,ATC,79A
+Braced Steel MRF Pre-1973 OSHPD SPC2,ATC,79B
+Braced Steel MRF 1974-1994 OSHPD SPC2,ATC,79C
+Braced Steel MRF 1974-1994 OSHPD SPC3,ATC,79D
+Braced Steel MRF OSHPD 1974-1994 SPC4,ATC,79E
+Braced Steel MRF Post-1995 OSHPD SPC3,ATC,79F
+Braced Steel MRF Post-1995 OSHPD SPC4,ATC,79G
+Braced Steel MRF Post-1995 OSHPD SPC5,ATC,79H
+RM Shear Wall with Frame,ATC,8
+Major Bridges (> 500 ft. spans),RMS,8
+Reinforced Concrete Frame with Wood Frame in the upper floors,ATC,80
+Steel Frame with Wood Frame in the upper floors,ATC,81
+Braced Steel Frame,ATC,9
+Underground Pipelines,RMS,9
+Wood Frame Tiled Roof,RMS,1C1
+Wood Frame Flat Roof,RMS,1C2
+Wood Frame Thatch Roof,RMS,1C3
+Masonry Steep Tiled Roof,RMS,2D1
+Masonry Low Slope Tiled Roof,RMS,2D2
+Masonry Flat Roof,RMS,2D3
+Masonry Thatch Roof,RMS,2D4
+Reinforced Concrete Tiled Roof,RMS,3C1
+Reinforced Concrete Flat Roof,RMS,3C2
+Steel Tiled Roof,RMS,4C1
+Steel Flat Roof,RMS,4C2
