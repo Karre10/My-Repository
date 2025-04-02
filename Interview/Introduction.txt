@@ -1,8 +1,10 @@
 Hello, my name is Karre Srinu, and I am currently serving as a Lead Analyst at WNS Analytics. i have total 6 yeras of experiance.
 
-I specialize in CAT Modelling, with a strong focus on account and portfolio modelling, data scrubbing, and cleansing to ensure data accuracy and Consistency. My technical Skill includes advanced usage of Risk Modeller, AIR Touchston and SQL
+With a strong focus on account and portfolio modelling, data scrubbing, and cleansing to ensure data accuracy and Consistency. 
+My technical Skill includes advanced usage of Risk Modeller, AIR Touchston and SQL
 
-I have a ability to lead and manage teams, ensuring work allocation .I provide guidance and resolve queries from both onshore and offshore teams , maintain (SLAs) for quality, turnaround time (TAT), and productivity. I regularly communicate with onshore stakeholders, preparing and presenting internal reports.
+I have a ability to lead and manage teams, ensuring work allocation .I provide guidance and resolve queries from both onshore and offshore teams ,
+maintain (SLAs) for quality, turnaround time (TAT), and productivity. I regularly communicate with onshore stakeholders, preparing and presenting internal reports.
 
 I also facilitate team upskilling and cross-training, focusing on new areas and process skills, which keeps our team agile and ready to tackle new challenges.
 
